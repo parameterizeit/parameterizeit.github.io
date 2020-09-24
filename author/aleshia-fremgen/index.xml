@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aleshia Fremgen on DICE Lab: Diversity In Changing Environments</title>
+    <link>https://parameterizeit.github.io/author/aleshia-fremgen/</link>
+    <description>Recent content in Aleshia Fremgen on DICE Lab: Diversity In Changing Environments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} DICE Lab</copyright>
+    <lastBuildDate>Sun, 01 Sep 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://parameterizeit.github.io/author/aleshia-fremgen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mechanisms underlying plant sexual dimorphism in multi-trophic arthropod communities</title>
+      <link>https://parameterizeit.github.io/publication/petry-2013-ecology/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://parameterizeit.github.io/publication/petry-2013-ecology/</guid>
+      <description>Abstract A growing body of research documents the importance of plant genetic effects on arthropod community structure.</description>
+    </item>
+    
+    <item>
+      <title>Plant sex and induced responses independently influence herbivore performance, natural enemies and aphid-tending ants</title>
+      <link>https://parameterizeit.github.io/publication/mooney-2012-arthropod-plantinteractions/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://parameterizeit.github.io/publication/mooney-2012-arthropod-plantinteractions/</guid>
+      <description>Abstract Sex is an ecologically important form of genetic variation in dioecious plants, with males and females generally differing in constitutive resistance to herbivores.</description>
+    </item>
+    
+  </channel>
+</rss>

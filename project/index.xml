@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on DICE Lab: Diversity In Changing Environments</title>
+    <link>https://parameterizeit.github.io/project/</link>
+    <description>Recent content in Projects on DICE Lab: Diversity In Changing Environments</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} DICE Lab</copyright>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:42 -0400</lastBuildDate><atom:link href="https://parameterizeit.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dynamics, diversity, &amp; function of microbial food webs</title>
+      <link>https://parameterizeit.github.io/project/dynamics-of-food-webs/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:42 -0400</pubDate>
+      
+      <guid>https://parameterizeit.github.io/project/dynamics-of-food-webs/</guid>
+      <description>What allows species to persist in complex networks of species interactions?</description>
+    </item>
+    
+    <item>
+      <title>Forecasting population dynamics in changing environments</title>
+      <link>https://parameterizeit.github.io/project/forecasting-populations/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:13 -0400</pubDate>
+      
+      <guid>https://parameterizeit.github.io/project/forecasting-populations/</guid>
+      <description>How will populations behave when the new normal keeps changing?</description>
+    </item>
+    
+    <item>
+      <title>Global-scale ecology</title>
+      <link>https://parameterizeit.github.io/project/global-ecology/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://parameterizeit.github.io/project/global-ecology/</guid>
+      <description>How do global-scale data change the way we understand ecological systems?</description>
+    </item>
+    
+    <item>
+      <title>Spatial structure of biodiversity</title>
+      <link>https://parameterizeit.github.io/project/spatial-biodiversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://parameterizeit.github.io/project/spatial-biodiversity/</guid>
+      <description>Why does species diversity and composition differ from place to place?</description>
+    </item>
+    
+  </channel>
+</rss>
