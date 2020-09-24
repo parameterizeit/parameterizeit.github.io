@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Judith D. Soule on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/author/judith-d.-soule/</link>
-    <description>Recent content in Judith D. Soule on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright>
-    <lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://parameterizeit.github.io/author/judith-d.-soule/index.xml" rel="self" type="application/rss+xml" />
+    <title>Judith D. Soule | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/judith-d.-soule/</link>
+      <atom:link href="/author/judith-d.-soule/index.xml" rel="self" type="application/rss+xml" />
+    <description>Judith D. Soule</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>Judith D. Soule</title>
+      <link>/author/judith-d.-soule/</link>
+    </image>
+    
     <item>
       <title>Sex-specific responses to climate change in plants alter population sex ratio and performance</title>
-      <link>https://parameterizeit.github.io/publication/petry-2016-science/</link>
+      <link>/publication/petry-2016-science/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/petry-2016-science/</guid>
-      <description>Abstract Males and females are ecologically distinct in many species, but whether responses to climate change are sex-specific is unknown.</description>
+      <guid>/publication/petry-2016-science/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Males and females are ecologically distinct in many species, but whether responses to climate change are sex-specific is unknown. We document sex-specific responses to climate change in the plant &lt;em&gt;Valeriana edulis&lt;/em&gt; (valerian) over four decades and across its 1800-meter elevation range. Increased elevation was associated with increased water availability and female frequency, likely owing to sex-specific water use efficiency and survival. Recent aridification caused male frequency to move upslope at 175 meters per decade, a rate of trait shift outpacing reported species’ range shifts by an order of magnitude. This increase in male frequency reduced pollen limitation and increased seedset. Coupled with previous studies reporting sex-specific arthropod communities, these results underscore the importance of ecological differences between the sexes in mediating biological responses to climate change.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

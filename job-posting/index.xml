@@ -1,20 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Job-postings on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/job-posting/</link>
-    <description>Recent content in Job-postings on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:01 -0400</lastBuildDate><atom:link href="https://parameterizeit.github.io/job-posting/index.xml" rel="self" type="application/rss+xml" />
+    <title>Job-postings | DICE Lab: Diversity In Changing Environments</title>
+    <link>/job-posting/</link>
+      <atom:link href="/job-posting/index.xml" rel="self" type="application/rss+xml" />
+    <description>Job-postings</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright><lastBuildDate>Wed, 23 Sep 2020 00:00:01 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>Job-postings</title>
+      <link>/job-posting/</link>
+    </image>
+    
     <item>
       <title>Graduate Student</title>
-      <link>https://parameterizeit.github.io/job-posting/graduate-student-2021/</link>
+      <link>/job-posting/graduate-student-2021/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:01 -0400</pubDate>
-      
-      <guid>https://parameterizeit.github.io/job-posting/graduate-student-2021/</guid>
-      <description>Open to Masters- or Ph.D.-seeking applicants</description>
+      <guid>/job-posting/graduate-student-2021/</guid>
+      <description></description>
     </item>
     
   </channel>

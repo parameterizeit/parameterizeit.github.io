@@ -1,56 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xoaquín Moreira on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/author/xoaquin-moreira/</link>
-    <description>Recent content in Xoaquín Moreira on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://parameterizeit.github.io/author/xoaquin-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <title>Xoaquín Moreira | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/xoaquin-moreira/</link>
+      <atom:link href="/author/xoaquin-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xoaquín Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>Xoaquín Moreira</title>
+      <link>/author/xoaquin-moreira/</link>
+    </image>
+    
     <item>
       <title>Inducibility of chemical defences in young oak trees is stronger in species with high elevational ranges</title>
-      <link>https://parameterizeit.github.io/publication/galman-2018-treephysiol/</link>
+      <link>/publication/galman-2018-treephysiol/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/galman-2018-treephysiol/</guid>
-      <description>Abstract Elevational gradients have been highly useful for understanding the underlying forces driving variation in plant traits and plant-insect herbivore interactions.</description>
+      <guid>/publication/galman-2018-treephysiol/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Elevational gradients have been highly useful for understanding the underlying forces driving variation in plant traits and plant-insect herbivore interactions. A widely held view from these studies has been that greater herbivory under warmer and less variable climatic conditions found at low elevations has resulted in stronger herbivore selection on plant defences. However, this prediction has been called into question by conflicting empirical evidence, and could be explained by number of causes such as an incomplete assessment of defensive strategies (ignoring other axes of defence such as defence inducibility) or unaccounted variation in abiotic factors along elevational clines. We conducted a greenhouse experiment testing for inter-specific variation in constitutive leaf chemical defences (phenolic compounds) and their inducibility in response to feeding by gypsy moth larvae (&lt;em&gt;Lymantria dispar&lt;/em&gt;, Lepidoptera) using saplings of 18 oak (&lt;em&gt;Quercus&lt;/em&gt;, Fagaceae) species. These species vary in their elevational distribution and together span &amp;gt;2,400 m in elevation, therefore allowing us to test for among-species elevational clines in defences based on the elevational range of each species. In addition, we further tested for elevational gradients in the correlated expression of constitutive defences and their inducibility and for associations between defences and climatic factors potentially underlying elevational gradients in defences. Our results showed that oak species with high elevational ranges exhibited a greater inducibility of phenolic compounds (hydrolysable tannins), but this gradient was not accounted for by climatic predictors. In contrast, constitutive defences and the correlated expression of constitutive phenolics and their inducibility did not exhibit elevational clines. Overall, this study builds towards a more robust and integrative understanding of how multivariate plant defensive phenotypes vary along ecological gradients, and their underlying abiotic drivers.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Interspecific variation in leaf functional and defensive traits in oak species and its underlying climatic drivers</title>
-      <link>https://parameterizeit.github.io/publication/abdala-roberts-2018-plosone/</link>
+      <link>/publication/abdala-roberts-2018-plosone/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/abdala-roberts-2018-plosone/</guid>
-      <description>Abstract Plants exhibit a diverse set of functional traits and ecological strategies which reflect an adaptation process to the biotic and abiotic components of the environment.</description>
+      <guid>/publication/abdala-roberts-2018-plosone/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Plants exhibit a diverse set of functional traits and ecological strategies which reflect an adaptation process to the biotic and abiotic components of the environment. The Plant Economic Spectrum organizes these traits along a continuum from conservative to acquisitive resource use strategies and shows how the abiotic environment governs a species’ position along the continuum. However, this framework does not typically account for leaf traits associated with herbivore resistance, despite fundamental metabolic links (and therefore co-variance) between resource use traits and defensive traits. Here we analyzed a suite of leaf traits associated with either resource use (specific leaf area [SLA], nutrients and water content) or defenses (phenolic compounds) for saplings of 11 species of oaks (&lt;em&gt;Quercus&lt;/em&gt; spp.), and further investigated whether climatic variables underlie patterns of trait interspecific variation. An ordination of leaf traits revealed the primary axis of trait variation to be leaf economic spectrum traits associated with resource use (SLA, nitrogen, water content) in conjunction with a defensive trait (condensed tannins). Secondary and tertiary axes of trait variation were mainly associated with other defensive traits (lignins, flavonoids, and hydrolysable tannins). Within the primary axis we found a trade-off between resource use traits and both water content and condensed tannins; species with high SLA and leaf N values invested less in condensed tannins and viceversa. Moreover, temperature and precipitation mediated the trait space occupied by species, such that species distributed in warmer and drier climates had less leaf N, lower SLA, and more defenses (condensed tannins, lignins and flavonoids), whereas opposite values were observed for species distributed in colder and wetter climates. These results emphasize the role of abiotic controls over all-inclusive axes of trait variation and contribute to a more complete understanding of interspecific variation in plant functional strategies.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Elevational gradients in plant defences and insect herbivory: recent advances in the field and prospects for future research</title>
-      <link>https://parameterizeit.github.io/publication/moreira-2018-ecography/</link>
+      <link>/publication/moreira-2018-ecography/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/moreira-2018-ecography/</guid>
-      <description>Abstract Classic research on elevational gradients in plant-herbivore interactions holds that insect herbivore pressure is stronger under the warmer, less seasonal climates characteristic of low elevations, and that this in turn selects for increased defence in low- (relative to high-) elevation plants.</description>
+      <guid>/publication/moreira-2018-ecography/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Classic research on elevational gradients in plant-herbivore interactions holds that insect herbivore pressure is stronger under the warmer, less seasonal climates characteristic of low elevations, and that this in turn selects for increased defence in low- (relative to high-) elevation plants. However, recent work has questioned this paradigm, arguing that it overly simplifies the ecological complexity in which plant-insect herbivore interactions are embedded along elevational gradients. Numerous biotic and abiotic factors vary with elevation, and their simultaneous influences are the focus of current work on elevational gradients in insect herbivory and plant defences. The present review (i) synthesizes current knowledge on elevational gradients in plant-insect herbivore interactions; (ii) critically analyses research gaps and highlights recent advances that contribute to filling these gaps; and (iii) outlines new research opportunities to uncover underlying mechanisms and build towards a unified theory on elevational gradients. We conclude that the next generation of studies should embrace community complexity–including multi-trophic dynamics and the multivariate nature of plant defence–and to do so by combining observational data, manipulative experiments and emerging analytical tools.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Plant defence responses to volatile alert signals are population-specific</title>
-      <link>https://parameterizeit.github.io/publication/moreira-2016-oikos/</link>
+      <link>/publication/moreira-2016-oikos/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/moreira-2016-oikos/</guid>
-      <description>Abstract Herbivore‐induced volatiles are widespread in plants.</description>
+      <guid>/publication/moreira-2016-oikos/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Herbivore‐induced volatiles are widespread in plants. They can serve as alert signals that enable neighbouring leaves and plants to pre‐emptively increase defences and avoid herbivory damage. However, our understanding of the factors mediating volatile organic compound (VOC) signal interpretation by receiver plants and the degree to which multiple herbivores affect VOC signals is still limited. Here we investigated whether plant responses to damage‐induced VOC signals were population specific. As a secondary goal, we tested for interference in signal production or reception when plants were subjected to multiple types of herbivore damage. We factorially crossed the population sources of paired &lt;em&gt;Phaseolus lunatus&lt;/em&gt; plants (same versus different population sources) with a mechanical damage treatment to one member of the pair (i.e. the VOC emitter, damaged versus control), and we measured herbivore damage to the other plant (the VOC receiver) in the field. Prior to the experiment, both emitter and receiver plants were naturally colonized by aphids, enabling us to test the hypothesis that damage from sap‐feeding herbivores interferes with VOC communication by including emitter and receiver aphid abundances as covariates in our analyses. One week after mechanical leaf damage, we removed all the emitter plants from the field and conducted fortnightly surveys of leaf herbivory. We found evidence that receiver plants responded using population‐specific ‘dialects’ where only receivers from the same source population as the damaged emitters suffered less leaf damage upon exposure to the volatile signals. We also found that the abundance of aphids on both emitter and receiver plants did not alter this volatile signalling during both production and reception despite well‐documented defence crosstalk within individual plants that are simultaneously attacked by multiple herbivores. Overall, these results show that plant communication is highly sensitive to genetic relatedness between emitter and receiver plants and that communication is resilient to herbivore co‐infestation.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Trade-offs between constitutive and induced defences drive geographical and climatic clines in pine chemical defences</title>
-      <link>https://parameterizeit.github.io/publication/moreira-2014-ecollett/</link>
+      <link>/publication/moreira-2014-ecollett/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/moreira-2014-ecollett/</guid>
-      <description>Abstract There is increasing evidence that geographic and climatic clines drive the patterns of plant defence allocation and defensive strategies.</description>
+      <guid>/publication/moreira-2014-ecollett/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;There is increasing evidence that geographic and climatic clines drive the patterns of plant defence allocation and defensive strategies. We quantified early growth rate and both constitutive and inducible chemical defences of 18 Pinaceae species in a common greenhouse environment and assessed their defensive allocation with respect to each species&#39; range across climatic gradients spanning 31° latitude and 2300 m elevation. Constitutive defences traded-off with induced defences, and these defensive strategies were associated with growth rate such that slow-growing species invested more in constitutive defence, whereas fast-growing species invested more in inducible defence. The position of each pine species along this trade-off axis was in turn associated with geography; moving poleward and to higher elevations, growth rate and inducible defences decreased, while constitutive defence increased. These geographic patterns in plant defence were most strongly associated with variation in temperature. Climatic and geographical clines thus act as drivers of defence profiles by mediating the constraints imposed by trade-offs, and this dynamic underlays global patterns of defence allocation.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

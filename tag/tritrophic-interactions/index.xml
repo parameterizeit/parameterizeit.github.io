@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;tritrophic interactions&#34; on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/tag/tritrophic-interactions/</link>
-    <description>Recent content in &#34;tritrophic interactions&#34; on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright>
-    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://parameterizeit.github.io/tag/tritrophic-interactions/index.xml" rel="self" type="application/rss+xml" />
+    <title>&#34;tritrophic interactions&#34; | DICE Lab: Diversity In Changing Environments</title>
+    <link>/tag/tritrophic-interactions/</link>
+      <atom:link href="/tag/tritrophic-interactions/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;tritrophic interactions&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;tritrophic interactions&#34;</title>
+      <link>/tag/tritrophic-interactions/</link>
+    </image>
+    
     <item>
       <title>Elevational gradients in plant defences and insect herbivory: recent advances in the field and prospects for future research</title>
-      <link>https://parameterizeit.github.io/publication/moreira-2018-ecography/</link>
+      <link>/publication/moreira-2018-ecography/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/moreira-2018-ecography/</guid>
-      <description>Abstract Classic research on elevational gradients in plant-herbivore interactions holds that insect herbivore pressure is stronger under the warmer, less seasonal climates characteristic of low elevations, and that this in turn selects for increased defence in low- (relative to high-) elevation plants.</description>
+      <guid>/publication/moreira-2018-ecography/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Classic research on elevational gradients in plant-herbivore interactions holds that insect herbivore pressure is stronger under the warmer, less seasonal climates characteristic of low elevations, and that this in turn selects for increased defence in low- (relative to high-) elevation plants. However, recent work has questioned this paradigm, arguing that it overly simplifies the ecological complexity in which plant-insect herbivore interactions are embedded along elevational gradients. Numerous biotic and abiotic factors vary with elevation, and their simultaneous influences are the focus of current work on elevational gradients in insect herbivory and plant defences. The present review (i) synthesizes current knowledge on elevational gradients in plant-insect herbivore interactions; (ii) critically analyses research gaps and highlights recent advances that contribute to filling these gaps; and (iii) outlines new research opportunities to uncover underlying mechanisms and build towards a unified theory on elevational gradients. We conclude that the next generation of studies should embrace community complexity–including multi-trophic dynamics and the multivariate nature of plant defence–and to do so by combining observational data, manipulative experiments and emerging analytical tools.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

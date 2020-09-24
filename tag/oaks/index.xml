@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>&#34;Oaks&#34; on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/tag/oaks/</link>
-    <description>Recent content in &#34;Oaks&#34; on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://parameterizeit.github.io/tag/oaks/index.xml" rel="self" type="application/rss+xml" />
+    <title>&#34;Oaks&#34; | DICE Lab: Diversity In Changing Environments</title>
+    <link>/tag/oaks/</link>
+      <atom:link href="/tag/oaks/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Oaks&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright><lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Oaks&#34;</title>
+      <link>/tag/oaks/</link>
+    </image>
+    
     <item>
       <title>Interspecific variation in leaf functional and defensive traits in oak species and its underlying climatic drivers</title>
-      <link>https://parameterizeit.github.io/publication/abdala-roberts-2018-plosone/</link>
+      <link>/publication/abdala-roberts-2018-plosone/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/abdala-roberts-2018-plosone/</guid>
-      <description>Abstract Plants exhibit a diverse set of functional traits and ecological strategies which reflect an adaptation process to the biotic and abiotic components of the environment.</description>
+      <guid>/publication/abdala-roberts-2018-plosone/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Plants exhibit a diverse set of functional traits and ecological strategies which reflect an adaptation process to the biotic and abiotic components of the environment. The Plant Economic Spectrum organizes these traits along a continuum from conservative to acquisitive resource use strategies and shows how the abiotic environment governs a species’ position along the continuum. However, this framework does not typically account for leaf traits associated with herbivore resistance, despite fundamental metabolic links (and therefore co-variance) between resource use traits and defensive traits. Here we analyzed a suite of leaf traits associated with either resource use (specific leaf area [SLA], nutrients and water content) or defenses (phenolic compounds) for saplings of 11 species of oaks (&lt;em&gt;Quercus&lt;/em&gt; spp.), and further investigated whether climatic variables underlie patterns of trait interspecific variation. An ordination of leaf traits revealed the primary axis of trait variation to be leaf economic spectrum traits associated with resource use (SLA, nitrogen, water content) in conjunction with a defensive trait (condensed tannins). Secondary and tertiary axes of trait variation were mainly associated with other defensive traits (lignins, flavonoids, and hydrolysable tannins). Within the primary axis we found a trade-off between resource use traits and both water content and condensed tannins; species with high SLA and leaf N values invested less in condensed tannins and viceversa. Moreover, temperature and precipitation mediated the trait space occupied by species, such that species distributed in warmer and drier climates had less leaf N, lower SLA, and more defenses (condensed tannins, lignins and flavonoids), whereas opposite values were observed for species distributed in colder and wetter climates. These results emphasize the role of abiotic controls over all-inclusive axes of trait variation and contribute to a more complete understanding of interspecific variation in plant functional strategies.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

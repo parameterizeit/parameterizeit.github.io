@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/categories/</link>
-    <description>Recent content in Categories on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright><atom:link href="https://parameterizeit.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories | DICE Lab: Diversity In Changing Environments</title>
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
+    
   </channel>
 </rss>

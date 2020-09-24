@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Thadeu Sobral-Souza on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/author/thadeu-sobral-souza/</link>
-    <description>Recent content in Thadeu Sobral-Souza on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright>
-    <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://parameterizeit.github.io/author/thadeu-sobral-souza/index.xml" rel="self" type="application/rss+xml" />
+    <title>Thadeu Sobral-Souza | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/thadeu-sobral-souza/</link>
+      <atom:link href="/author/thadeu-sobral-souza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thadeu Sobral-Souza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>Thadeu Sobral-Souza</title>
+      <link>/author/thadeu-sobral-souza/</link>
+    </image>
+    
     <item>
       <title>Global predation pressure redistribution under future climate change</title>
-      <link>https://parameterizeit.github.io/publication/romero-2018-natureclimatechange/</link>
+      <link>/publication/romero-2018-natureclimatechange/</link>
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/romero-2018-natureclimatechange/</guid>
-      <description>Abstract How climate affects biotic interactions is a question of urgent concern.</description>
+      <guid>/publication/romero-2018-natureclimatechange/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;How climate affects biotic interactions is a question of urgent concern. Theory predicts that biotic interactions are stronger at lower latitudes. However, the role of climate in governing these patterns is typically assumed, rather than explicitly tested. Here, we dissected the influence of climatic descriptors on predation pressure using data from a global experiment with model caterpillars. We then used projections of future climate change to predict shifts in predation pressure. Climate, particularly components of temperature, explained latitudinal and elevational patterns of predation better than latitude or elevation by themselves. Projected predation pressure was greater under higher temperatures and more stable climates. Increased climatic instability projected for the near future predicts a general decrease in predation pressure over time. By identifying the current climatic drivers of global patterns in a key biotic interaction, we show how shifts in these drivers could alter the functioning of terrestrial ecosystems and their associated services.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

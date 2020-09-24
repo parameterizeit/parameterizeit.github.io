@@ -1,20 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Simone Ravetto Enri on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/author/simone-ravetto-enri/</link>
-    <description>Recent content in Simone Ravetto Enri on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://parameterizeit.github.io/author/simone-ravetto-enri/index.xml" rel="self" type="application/rss+xml" />
+    <title>Simone Ravetto Enri | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/simone-ravetto-enri/</link>
+      <atom:link href="/author/simone-ravetto-enri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simone Ravetto Enri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>Simone Ravetto Enri</title>
+      <link>/author/simone-ravetto-enri/</link>
+    </image>
+    
     <item>
       <title>Global gene flow releases invasive plants from environmental constraints on genetic diversity</title>
-      <link>https://parameterizeit.github.io/publication/smith-2020-pnas/</link>
+      <link>/publication/smith-2020-pnas/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://parameterizeit.github.io/publication/smith-2020-pnas/</guid>
-      <description>Abstract When plants establish outside their native range, their ability to adapt to the new environment is influenced by both demography and dispersal.</description>
+      <guid>/publication/smith-2020-pnas/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;When plants establish outside their native range, their ability to adapt to the new environment is influenced by both demography and dispersal. However, the relative importance of these two factors is poorly understood. To quantify the influence of demography and dispersal on patterns of genetic diversity underlying adaptation, we used data from a globally distributed demographic research network comprising 35 native and 18 nonnative populations of &lt;em&gt;Plantago lanceolata&lt;/em&gt;. Species-specific simulation experiments showed that dispersal would dilute demographic influences on genetic diversity at local scales. Populations in the native European range had strong spatial genetic structure associated with geographic distance and precipitation seasonality. In contrast, nonnative populations had weaker spatial genetic structure that was not associated with environmental gradients but with higher within-population genetic diversity. Our findings show that dispersal caused by repeated, long-distance, human-mediated introductions has allowed invasive plant populations to overcome environmental constraints on genetic diversity, even without strong demographic changes. The impact of invasive plants may, therefore, increase with repeated introductions, highlighting the need to constrain future introductions of species even if they already exist in an area.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

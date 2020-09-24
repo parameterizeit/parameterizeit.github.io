@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sydney Peterson on DICE Lab: Diversity In Changing Environments</title>
-    <link>https://parameterizeit.github.io/author/sydney-peterson/</link>
-    <description>Recent content in Sydney Peterson on DICE Lab: Diversity In Changing Environments</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} DICE Lab</copyright><atom:link href="https://parameterizeit.github.io/author/sydney-peterson/index.xml" rel="self" type="application/rss+xml" />
+    <title>Sydney Peterson | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/sydney-peterson/</link>
+      <atom:link href="/author/sydney-peterson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sydney Peterson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 DICE Lab</copyright>
+    <image>
+      <url>/images/icon_hud8582f933b457ec02df86cd657745c84_24239_512x512_fill_lanczos_center_2.png</url>
+      <title>Sydney Peterson</title>
+      <link>/author/sydney-peterson/</link>
+    </image>
+    
   </channel>
 </rss>
