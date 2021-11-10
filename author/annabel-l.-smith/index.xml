@@ -5,12 +5,22 @@
     <link>/author/annabel-l.-smith/</link>
       <atom:link href="/author/annabel-l.-smith/index.xml" rel="self" type="application/rss+xml" />
     <description>Annabel L. Smith</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 DICE Lab</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 DICE Lab</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
       <title>Annabel L. Smith</title>
       <link>/author/annabel-l.-smith/</link>
     </image>
+    
+    <item>
+      <title>Phenotypic plasticity masks range-wide genetic differentiation for vegetative but not reproductive traits in a short-lived plant</title>
+      <link>/publication/villellas-2021-ecollett/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/villellas-2021-ecollett/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Genetic differentiation and phenotypic plasticity jointly shape intraspecific trait variation, but their roles differ among traits. In short-lived plants, reproductive traits may be more genetically determined due to their impact on fitness, whereas vegetative traits may show higher plasticity to buffer short-term perturbations. Combining a multi-treatment greenhouse experiment with observational field data throughout the range of a widespread short-lived herb, &lt;em&gt;Plantago lanceolata&lt;/em&gt;, we (1) disentangled genetic and plastic responses of functional traits to a set of environmental drivers and (2) assessed how genetic differentiation and plasticity shape observational trait–environment relationships. Reproductive traits showed distinct genetic differentiation that largely determined observational patterns, but only when correcting traits for differences in biomass. Vegetative traits showed higher plasticity and opposite genetic and plastic responses, masking the genetic component underlying field-observed trait variation. Our study suggests that genetic differentiation may be inferred from observational data only for the traits most closely related to fitness.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Global gene flow releases invasive plants from environmental constraints on genetic diversity</title>
