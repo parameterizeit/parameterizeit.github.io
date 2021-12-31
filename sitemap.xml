@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2021-12-23T00:00:01-04:00</lastmod>
+  </url><url>
+    <loc>/job-posting/</loc>
+    <lastmod>2021-12-23T00:00:01-04:00</lastmod>
+  </url><url>
+    <loc>/job-posting/lab-manager-2021/</loc>
+    <lastmod>2021-12-23T00:00:01-04:00</lastmod>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2021-11-10T15:28:58-04:00</lastmod>
   </url><url>
@@ -70,9 +79,6 @@
   </url><url>
     <loc>/author/deborah-a.-roach/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-11-10T15:28:58-04:00</lastmod>
   </url><url>
     <loc>/author/dylan-z.-childs/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
@@ -258,9 +264,6 @@
     <lastmod>2021-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/job-posting/graduate-student-2022/</loc>
-    <lastmod>2021-09-23T00:00:01-04:00</lastmod>
-  </url><url>
-    <loc>/job-posting/</loc>
     <lastmod>2021-09-23T00:00:01-04:00</lastmod>
   </url><url>
     <loc>/join/</loc>
