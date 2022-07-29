@@ -5,12 +5,27 @@
     <link>/publication-type/2/</link>
       <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 DICE Lab</copyright><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 DICE Lab</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Rcompadre and Rage—Two R packages to facilitate the use of the COMPADRE and COMADRE databases and calculation of life-history traits from matrix population models</title>
+      <link>/publication/jones-2022-methecolevol/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jones-2022-methecolevol/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Matrix population models (MPMs) are an important tool for biologists seeking to understand the causes and consequences of variation in vital rates (e.g. survival, reproduction) across life cycles. Empirical MPMs describe the age- or stage-structured demography of organisms and usually represent the life history of a population during a particular time frame at a specific geographical location.&lt;/li&gt;
+&lt;li&gt;The COMPADRE Plant Matrix Database and COMADRE Animal Matrix Database are the most extensive resources for MPM data, collectively containing &amp;gt;12,000 individual projection matrices for &amp;gt;1,100 species globally. Although these databases represent an unparalleled resource for researchers, land managers and educators, the current computational tools available to answer questions with MPMs impose significant barriers to potential COM(P)ADRE database users by requiring advanced knowledge to handle diverse data structures and program custom analysis functions.&lt;/li&gt;
+&lt;li&gt;To close this knowledge gap, we present two interrelated R packages designed to (a) facilitate the use of these databases by providing functions to acquire, quality control and manage both the MPM data contained in COMPADRE and COMADRE, and a user&amp;rsquo;s own MPM data (&lt;strong&gt;Rcompadre&lt;/strong&gt;) and (b) present a range of functions to calculate life-history traits from MPMs in support of ecological and evolutionary analyses (&lt;strong&gt;Rage&lt;/strong&gt;). We provide examples to illustrate the use of both.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rcompadre&lt;/strong&gt; and &lt;strong&gt;Rage&lt;/strong&gt; will facilitate demographic analyses using MPM data and contribute to the improved replicability of studies using these data. We hope that this new functionality will allow researchers, land managers and educators to unlock the potential behind the thousands of MPMs and ancillary metadata stored in the COMPADRE and COMADRE matrix databases, and in their own MPM data.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Phenotypic plasticity masks range-wide genetic differentiation for vegetative but not reproductive traits in a short-lived plant</title>
@@ -30,14 +45,6 @@
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Organisms use environmental cues to align their phenology—the timing of life events—with sets of abiotic and biotic conditions that favor the successful completion of their life cycle. Climate change has altered the environmental cues organisms use to track climate, leading to shifts in phenology with the potential to affect a variety of ecological processes. Understanding the drivers of phenological shifts is critical to predicting future responses, but disentangling the effects of temperature from precipitation on phenology is often challenging because they tend to covary. We addressed this knowledge gap in a high-elevation environment where phenological shifts are associated with both the timing of spring snow melt and temperature. We factorially crossed early snow melt and passive warming treatments to (1) disentangle the effects of snow melt timing and warming on the phenology of flowering and fruiting and reproductive success in three subalpine plant species (&lt;em&gt;Delphinium nuttallianum&lt;/em&gt;, &lt;em&gt;Valeriana edulis&lt;/em&gt;, and &lt;em&gt;Potentilla pulcherrima&lt;/em&gt;); and (2) assess whether snow melt acts via temperature accumulation or some other aspect of the environment (e.g., soil moisture) to affect phenological events. Both the timing and duration of flowering and fruiting responded to the climate treatments, but the effect of snow melt timing and warming varied among species and phenological stages. The combined effects of the treatments on phenology were always additive, and the snow melt treatment often affected phenology even when the warming treatment did not. Despite marked responses of phenology to climate manipulations, the species showed little change in reproductive success, with only one species producing fewer seeds in response to warming (&lt;em&gt;Delphinium&lt;/em&gt;, −56%). We also found that snow melt timing can act both through temperature accumulation and as a distinct cue for phenology, and these effects are not mutually exclusive. Our results show that one environmental cue, here snow melt timing, may act through multiple mechanisms to shift phenology.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Longitudinal demographic data collection</title>
-      <link>/publication/gamelon-2021-bookchapter/</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/gamelon-2021-bookchapter/</guid>
-      <description></description>
     </item>
     
     <item>
