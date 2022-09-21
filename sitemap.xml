@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/job-posting/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/job-posting/none/</loc>
+    <lastmod>2022-09-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tag/age-structured-population-model/</loc>
     <lastmod>2022-04-01T17:49:57-04:00</lastmod>
   </url><url>
@@ -33,9 +42,6 @@
     <lastmod>2022-04-01T17:49:57-04:00</lastmod>
   </url><url>
     <loc>/author/chelsea-c.-thomas/</loc>
-    <lastmod>2022-04-01T17:49:57-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2022-04-01T17:49:57-04:00</lastmod>
   </url><url>
     <loc>/author/gesa-romer/</loc>

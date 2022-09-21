@@ -5,12 +5,23 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>DICE Lab: Diversity In Changing Environments</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 DICE Lab</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 DICE Lab</copyright><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
       <title>DICE Lab: Diversity In Changing Environments</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>None at this time</title>
+      <link>/job-posting/none/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/job-posting/none/</guid>
+      <description>&lt;p&gt;We are not recruiting for any open positions at this time. Please don&amp;rsquo;t hesitate to contact Dr. Will Petry (
+&lt;a href=&#34;mailto:wpetry@ncsu.edu&#34;&gt;wpetry@ncsu.edu&lt;/a&gt;) if you are interested in pursuing a funding opportunity that would support your position, or have funding already in-hand. See the 
+&lt;a href=&#34;https://parameterizeit.github.io/join/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Join Us&lt;/a&gt; page for instructions about what to include in your email.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rcompadre and Rage—Two R packages to facilitate the use of the COMPADRE and COMADRE databases and calculation of life-history traits from matrix population models</title>
