@@ -1,27 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Job-postings | DICE Lab: Diversity In Changing Environments</title>
-    <link>/job-posting/</link>
-      <atom:link href="/job-posting/index.xml" rel="self" type="application/rss+xml" />
-    <description>Job-postings</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
-      <title>Job-postings</title>
-      <link>/job-posting/</link>
-    </image>
-    
-    <item>
-      <title>None at this time</title>
-      <link>/job-posting/none/</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/job-posting/none/</guid>
-      <description>&lt;p&gt;We are not recruiting for any open positions at this time. Please don&amp;rsquo;t hesitate to contact Dr. Will Petry (
-&lt;a href=&#34;mailto:wpetry@ncsu.edu&#34;&gt;wpetry@ncsu.edu&lt;/a&gt;) if you are interested in pursuing a funding opportunity that would support your position, or have funding already in-hand. See the 
-&lt;a href=&#34;https://parameterizeit.github.io/join/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Join Us&lt;/a&gt; page for instructions about what to include in your email.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Job-postings | DICE Lab: Diversity In Changing Environments</title><link>/job-posting/</link><atom:link href="/job-posting/index.xml" rel="self" type="application/rss+xml"/><description>Job-postings</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Wed, 21 Sep 2022 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>Job-postings</title><link>/job-posting/</link></image><item><title>None at this time</title><link>/job-posting/none/</link><pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate><guid>/job-posting/none/</guid><description>&lt;p>We are not recruiting for any open positions at this time. Please don&amp;rsquo;t hesitate to contact Dr. Will Petry (
+&lt;a href="mailto:wpetry@ncsu.edu">wpetry@ncsu.edu&lt;/a>) if you are interested in pursuing a funding opportunity that would support your position, or have funding already in-hand. See the
+&lt;a href="https://parameterizeit.github.io/join/" target="_blank" rel="noopener">Join Us&lt;/a> page for instructions about what to include in your email.&lt;/p></description></item></channel></rss>

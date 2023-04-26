@@ -1,33 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>&#34;Ant–aphid interaction&#34; | DICE Lab: Diversity In Changing Environments</title>
-    <link>/tag/antaphid-interaction/</link>
-      <atom:link href="/tag/antaphid-interaction/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;Ant–aphid interaction&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;Ant–aphid interaction&#34;</title>
-      <link>/tag/antaphid-interaction/</link>
-    </image>
-    
-    <item>
-      <title>Influence of macronutrient imbalance on native ant foraging and interspecific interactions in the field</title>
-      <link>/publication/petry-2012-ecolentomol/</link>
-      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
-      <guid>/publication/petry-2012-ecolentomol/</guid>
-      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Ants interact with a diversity of organisms. These interactions, coupled with their abundance, cause ants to have ecologically important effects across multiple trophic levels.&lt;/li&gt;
-&lt;li&gt;Empirical study of ant nutritional ecology has led to the prediction that a macronutrient imbalance will affect ant behaviour and interspecific interactions that underlie these broad-scale effects. Excess carbohydrate relative to protein is predicted to increase ant aggressiveness, predatory tendency and foraging activity, and to decrease collection of hemipteran honeydew and plant nectar.&lt;/li&gt;
-&lt;li&gt;In field experiments conducted in 2009 and 2010, captive colony fragments of a native ant, &lt;em&gt;Formica podzolica&lt;/em&gt; (Hymenoptera: Formicidae), were provided with either simulated prey or carbohydrate solution &lt;em&gt;ad libitum&lt;/em&gt;. Foraging behaviours and interactions with flowers, myrmecophilous aphids and aphid natural enemies on wild-grown plants were documented.&lt;/li&gt;
-&lt;li&gt;Strong effects of macronutrient imbalance on foraging manifested quickly and consistently across colonies; in accordance with predictions, prey-fed foragers collected both honeydew and floral nectar, whereas carbohydrate-fed ants ceased collecting these resources. Counter to predictions, carbohydrate-fed ants dramatically lowered their activity levels and did not prey upon aphids.&lt;/li&gt;
-&lt;li&gt;Ants had no effect on aphid enemies in 2009, when the latter were relatively rare, but decreased their abundance in 2010. Despite this protection, the net effect of ants on aphids was negative (measured only in 2009). Prey-fed ants demonstrated a strong preference for honeydew over floral nectar, thus demonstrating that a macronutrient imbalance may lead to different interactions with similar resources.&lt;/li&gt;
-&lt;li&gt;This study links ant nutrition and community ecology by demonstrating the rapid, asymmetric and multitrophic consequences of nutritionally mediated behaviour.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"Ant–aphid interaction" | DICE Lab: Diversity In Changing Environments</title><link>/tag/antaphid-interaction/</link><atom:link href="/tag/antaphid-interaction/index.xml" rel="self" type="application/rss+xml"/><description>"Ant–aphid interaction"</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>"Ant–aphid interaction"</title><link>/tag/antaphid-interaction/</link></image><item><title>Influence of macronutrient imbalance on native ant foraging and interspecific interactions in the field</title><link>/publication/petry-2012-ecolentomol/</link><pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate><guid>/publication/petry-2012-ecolentomol/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;ol>
+&lt;li>Ants interact with a diversity of organisms. These interactions, coupled with their abundance, cause ants to have ecologically important effects across multiple trophic levels.&lt;/li>
+&lt;li>Empirical study of ant nutritional ecology has led to the prediction that a macronutrient imbalance will affect ant behaviour and interspecific interactions that underlie these broad-scale effects. Excess carbohydrate relative to protein is predicted to increase ant aggressiveness, predatory tendency and foraging activity, and to decrease collection of hemipteran honeydew and plant nectar.&lt;/li>
+&lt;li>In field experiments conducted in 2009 and 2010, captive colony fragments of a native ant, &lt;em>Formica podzolica&lt;/em> (Hymenoptera: Formicidae), were provided with either simulated prey or carbohydrate solution &lt;em>ad libitum&lt;/em>. Foraging behaviours and interactions with flowers, myrmecophilous aphids and aphid natural enemies on wild-grown plants were documented.&lt;/li>
+&lt;li>Strong effects of macronutrient imbalance on foraging manifested quickly and consistently across colonies; in accordance with predictions, prey-fed foragers collected both honeydew and floral nectar, whereas carbohydrate-fed ants ceased collecting these resources. Counter to predictions, carbohydrate-fed ants dramatically lowered their activity levels and did not prey upon aphids.&lt;/li>
+&lt;li>Ants had no effect on aphid enemies in 2009, when the latter were relatively rare, but decreased their abundance in 2010. Despite this protection, the net effect of ants on aphids was negative (measured only in 2009). Prey-fed ants demonstrated a strong preference for honeydew over floral nectar, thus demonstrating that a macronutrient imbalance may lead to different interactions with similar resources.&lt;/li>
+&lt;li>This study links ant nutrition and community ecology by demonstrating the rapid, asymmetric and multitrophic consequences of nutritionally mediated behaviour.&lt;/li>
+&lt;/ol></description></item></channel></rss>
