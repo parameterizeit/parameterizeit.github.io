@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -25,7 +24,3 @@
     
   </channel>
 </rss>
-=======
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pierre Gaüzère | DICE Lab: Diversity In Changing Environments</title><link>/author/pierre-gauzere/</link><atom:link href="/author/pierre-gauzere/index.xml" rel="self" type="application/rss+xml"/><description>Pierre Gaüzère</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>Pierre Gaüzère</title><link>/author/pierre-gauzere/</link></image><item><title>Predicting and controlling ecological communities via trait and environment mediated parameterizations of dynamical models</title><link>/publication/blonder-2023-oikos/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>/publication/blonder-2023-oikos/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Predicting or controlling the state of an ecological community is a core global change challenge. Dynamical models provide one toolkit, but parameterizing these models can be challenging, and interpretation can be difficult. We here propose rewriting dynamical model parameters in terms of more interpretable and measurable functional traits and environmental variables (trait and environment mediated parameterizations; TEMPs). For prediction, this approach could help make interpretable forecasts of equilibrium community dynamics (species coexistence), invasibility surfaces (dynamics due to biotic context), and responses to environmental change (dynamics due to abiotic context). For control, this approach could help identify policies that yield desired species and trait compositions through perturbations of the abundance of species with certain traits, or of the environment.&lt;/p></description></item></channel></rss>
->>>>>>> 2f0bcfdadbb79d97c73bd8b81080d784f9fa5ca5

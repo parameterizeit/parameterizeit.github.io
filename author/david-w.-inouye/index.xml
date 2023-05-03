@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>David W. Inouye | DICE Lab: Diversity In Changing Environments</title><link>/author/david-w.-inouye/</link><atom:link href="/author/david-w.-inouye/index.xml" rel="self" type="application/rss+xml"/><description>David W. Inouye</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>David W. Inouye</title><link>/author/david-w.-inouye/</link></image><item><title>Sex-specific responses to climate change in plants alter population sex ratio and performance</title><link>/publication/petry-2016-science/</link><pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate><guid>/publication/petry-2016-science/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>Males and females are ecologically distinct in many species, but whether responses to climate change are sex-specific is unknown. We document sex-specific responses to climate change in the plant &lt;em>Valeriana edulis&lt;/em> (valerian) over four decades and across its 1800-meter elevation range. Increased elevation was associated with increased water availability and female frequency, likely owing to sex-specific water use efficiency and survival. Recent aridification caused male frequency to move upslope at 175 meters per decade, a rate of trait shift outpacing reported species’ range shifts by an order of magnitude. This increase in male frequency reduced pollen limitation and increased seedset. Coupled with previous studies reporting sex-specific arthropod communities, these results underscore the importance of ecological differences between the sexes in mediating biological responses to climate change.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David W. Inouye | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/david-w.-inouye/</link>
+      <atom:link href="/author/david-w.-inouye/index.xml" rel="self" type="application/rss+xml" />
+    <description>David W. Inouye</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
+      <title>David W. Inouye</title>
+      <link>/author/david-w.-inouye/</link>
+    </image>
+    
+    <item>
+      <title>Sex-specific responses to climate change in plants alter population sex ratio and performance</title>
+      <link>/publication/petry-2016-science/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/petry-2016-science/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Males and females are ecologically distinct in many species, but whether responses to climate change are sex-specific is unknown. We document sex-specific responses to climate change in the plant &lt;em&gt;Valeriana edulis&lt;/em&gt; (valerian) over four decades and across its 1800-meter elevation range. Increased elevation was associated with increased water availability and female frequency, likely owing to sex-specific water use efficiency and survival. Recent aridification caused male frequency to move upslope at 175 meters per decade, a rate of trait shift outpacing reported species’ range shifts by an order of magnitude. This increase in male frequency reduced pollen limitation and increased seedset. Coupled with previous studies reporting sex-specific arthropod communities, these results underscore the importance of ecological differences between the sexes in mediating biological responses to climate change.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
