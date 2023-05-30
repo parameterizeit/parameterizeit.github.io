@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ross M. Brennan | DICE Lab: Diversity In Changing Environments</title>
-    <link>/author/ross-m.-brennan/</link>
-      <atom:link href="/author/ross-m.-brennan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ross M. Brennan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
-      <title>Ross M. Brennan</title>
-      <link>/author/ross-m.-brennan/</link>
-    </image>
-    
-    <item>
-      <title>Interaction rewiring and the rapid turnover of plant-pollinator networks</title>
-      <link>/publication/caradonna-2017-ecollett/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/caradonna-2017-ecollett/</guid>
-      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;Whether species interactions are static or change over time has wide-reaching ecological and evolutionary consequences. However, species interaction networks are typically constructed from temporally aggregated interaction data, thereby implicitly assuming that interactions are fixed. This approach has advanced our understanding of communities, but it obscures the timescale at which interactions form (or dissolve) and the drivers and consequences of such dynamics. We address this knowledge gap by quantifying the within-season turnover of plant–pollinator interactions from weekly censuses across 3 years in a subalpine ecosystem. Week-to-week turnover of interactions (1) was high, (2) followed a consistent seasonal progression in all years of study and (3) was dominated by interaction rewiring (the reassembly of interactions among species). Simulation models revealed that species’ phenologies and relative abundances constrained both total interaction turnover and rewiring. Our findings reveal the diversity of species interactions that may be missed when the temporal dynamics of networks are ignored.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ross M. Brennan | DICE Lab: Diversity In Changing Environments</title><link>/author/ross-m.-brennan/</link><atom:link href="/author/ross-m.-brennan/index.xml" rel="self" type="application/rss+xml"/><description>Ross M. Brennan</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>Ross M. Brennan</title><link>/author/ross-m.-brennan/</link></image><item><title>Interaction rewiring and the rapid turnover of plant-pollinator networks</title><link>/publication/caradonna-2017-ecollett/</link><pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate><guid>/publication/caradonna-2017-ecollett/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Whether species interactions are static or change over time has wide-reaching ecological and evolutionary consequences. However, species interaction networks are typically constructed from temporally aggregated interaction data, thereby implicitly assuming that interactions are fixed. This approach has advanced our understanding of communities, but it obscures the timescale at which interactions form (or dissolve) and the drivers and consequences of such dynamics. We address this knowledge gap by quantifying the within-season turnover of plant–pollinator interactions from weekly censuses across 3 years in a subalpine ecosystem. Week-to-week turnover of interactions (1) was high, (2) followed a consistent seasonal progression in all years of study and (3) was dominated by interaction rewiring (the reassembly of interactions among species). Simulation models revealed that species’ phenologies and relative abundances constrained both total interaction turnover and rewiring. Our findings reveal the diversity of species interactions that may be missed when the temporal dynamics of networks are ignored.&lt;/p></description></item></channel></rss>
