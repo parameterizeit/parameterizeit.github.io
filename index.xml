@@ -5,12 +5,62 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>DICE Lab: Diversity In Changing Environments</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Thu, 25 May 2023 00:00:01 -0400</lastBuildDate>
     <image>
       <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
       <title>DICE Lab: Diversity In Changing Environments</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Summer lab research assistant</title>
+      <link>/job-posting/lab-tech-2023/</link>
+      <pubDate>Thu, 25 May 2023 00:00:01 -0400</pubDate>
+      <guid>/job-posting/lab-tech-2023/</guid>
+      <description>&lt;h3 id=&#34;open-to-continuing-ncsu-students&#34;&gt;&lt;em&gt;Open to continuing NCSU students&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;
+&lt;a href=&#34;files/ad_lab-tech_2023.pdf&#34;&gt;&lt;em&gt;Download this ad (pdf)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The Diversity in Changing Environments Lab seeks to hire a part-time (~10 hours/week)
+NCSU student worker to support our research on microbial community ecology during
+summer 2023.&lt;/p&gt;
+&lt;h2 id=&#34;weekly-schedule-part-time-june-august-2023&#34;&gt;Weekly schedule: Part-time, June-August 2023&lt;/h2&gt;
+&lt;p&gt;Exact work days and times are negotiable, but ideally splits the hours over 2-3 days M-F
+between 8am-5pm and is consistent week-to-week.
+There is potential to continue part-time work during the academic year.&lt;/p&gt;
+&lt;h2 id=&#34;pay-15-18--hour&#34;&gt;Pay: $15-18 / hour&lt;/h2&gt;
+&lt;p&gt;Depending on experience.&lt;/p&gt;
+&lt;h2 id=&#34;job-duties&#34;&gt;Job duties:&lt;/h2&gt;
+&lt;p&gt;The successful candidate will support our ongoing lab experiments to study coexistence of
+microbes. The primary job duties will focus on logistical support tasks including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Washing and sterilizing glassware used during experiments&lt;/li&gt;
+&lt;li&gt;Preparing media for culturing microbes&lt;/li&gt;
+&lt;li&gt;Receiving and organizing supply shipments&lt;/li&gt;
+&lt;li&gt;Maintaining a clean and safe lab environment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Additional job duties for those interested in engaging more with our research may include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Feeding and transferring microbes to new media&lt;/li&gt;
+&lt;li&gt;Collecting experimental data on microbes under a microscope&lt;/li&gt;
+&lt;li&gt;Assisting with experiment set-up and maintenance tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;required-experience&#34;&gt;Required experience:&lt;/h2&gt;
+&lt;p&gt;Open to continuing NCSU students who have completed at least 1 biology lab class or have
+previously worked in a research lab. Candidates who have completed a microbiology lab course
+will be preferred.&lt;/p&gt;
+&lt;h2 id=&#34;to-apply&#34;&gt;To apply:&lt;/h2&gt;
+&lt;p&gt;Please email Dr. Will Petry (
+&lt;a href=&#34;mailto:wpetry@gmail.com&#34;&gt;wpetry@gmail.com&lt;/a&gt;) with the following information &amp;amp; “Lab assistant
+application” as the email subject line. Review begins 2 June &amp;amp; continues until position is filled.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A brief description of how your class and/or prior work experience prepares you for lab
+work&lt;/li&gt;
+&lt;li&gt;A brief description of what you hope to gain from a research lab work experience&lt;/li&gt;
+&lt;li&gt;Your weekly work availability &amp;amp; preferred schedule (between Monday-Friday 8am-5pm)&lt;/li&gt;
+&lt;li&gt;Your ideal start date&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Predicting and controlling ecological communities via trait and environment mediated parameterizations of dynamical models</title>
@@ -19,17 +69,6 @@
       <guid>/publication/blonder-2023-oikos/</guid>
       <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
 &lt;p&gt;Predicting or controlling the state of an ecological community is a core global change challenge. Dynamical models provide one toolkit, but parameterizing these models can be challenging, and interpretation can be difficult. We here propose rewriting dynamical model parameters in terms of more interpretable and measurable functional traits and environmental variables (trait and environment mediated parameterizations; TEMPs). For prediction, this approach could help make interpretable forecasts of equilibrium community dynamics (species coexistence), invasibility surfaces (dynamics due to biotic context), and responses to environmental change (dynamics due to abiotic context). For control, this approach could help identify policies that yield desired species and trait compositions through perturbations of the abundance of species with certain traits, or of the environment.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>None at this time</title>
-      <link>/job-posting/none/</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/job-posting/none/</guid>
-      <description>&lt;p&gt;We are not recruiting for any open positions at this time. Please don&amp;rsquo;t hesitate to contact Dr. Will Petry (
-&lt;a href=&#34;mailto:wpetry@ncsu.edu&#34;&gt;wpetry@ncsu.edu&lt;/a&gt;) if you are interested in pursuing a funding opportunity that would support your position, or have funding already in-hand. See the 
-&lt;a href=&#34;https://parameterizeit.github.io/join/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Join Us&lt;/a&gt; page for instructions about what to include in your email.&lt;/p&gt;
 </description>
     </item>
     
