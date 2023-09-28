@@ -1,7 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"matrix population model" | DICE Lab: Diversity In Changing Environments</title><link>/tag/matrix-population-model/</link><atom:link href="/tag/matrix-population-model/index.xml" rel="self" type="application/rss+xml"/><description>"matrix population model"</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>"matrix population model"</title><link>/tag/matrix-population-model/</link></image><item><title>Rcompadre and Rage—Two R packages to facilitate the use of the COMPADRE and COMADRE databases and calculation of life-history traits from matrix population models</title><link>/publication/jones-2022-methecolevol/</link><pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate><guid>/publication/jones-2022-methecolevol/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;ol>
-&lt;li>Matrix population models (MPMs) are an important tool for biologists seeking to understand the causes and consequences of variation in vital rates (e.g. survival, reproduction) across life cycles. Empirical MPMs describe the age- or stage-structured demography of organisms and usually represent the life history of a population during a particular time frame at a specific geographical location.&lt;/li>
-&lt;li>The COMPADRE Plant Matrix Database and COMADRE Animal Matrix Database are the most extensive resources for MPM data, collectively containing &amp;gt;12,000 individual projection matrices for &amp;gt;1,100 species globally. Although these databases represent an unparalleled resource for researchers, land managers and educators, the current computational tools available to answer questions with MPMs impose significant barriers to potential COM(P)ADRE database users by requiring advanced knowledge to handle diverse data structures and program custom analysis functions.&lt;/li>
-&lt;li>To close this knowledge gap, we present two interrelated R packages designed to (a) facilitate the use of these databases by providing functions to acquire, quality control and manage both the MPM data contained in COMPADRE and COMADRE, and a user&amp;rsquo;s own MPM data (&lt;strong>Rcompadre&lt;/strong>) and (b) present a range of functions to calculate life-history traits from MPMs in support of ecological and evolutionary analyses (&lt;strong>Rage&lt;/strong>). We provide examples to illustrate the use of both.&lt;/li>
-&lt;li>&lt;strong>Rcompadre&lt;/strong> and &lt;strong>Rage&lt;/strong> will facilitate demographic analyses using MPM data and contribute to the improved replicability of studies using these data. We hope that this new functionality will allow researchers, land managers and educators to unlock the potential behind the thousands of MPMs and ancillary metadata stored in the COMPADRE and COMADRE matrix databases, and in their own MPM data.&lt;/li>
-&lt;/ol></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;matrix population model&#34; | DICE Lab: Diversity In Changing Environments</title>
+    <link>/tag/matrix-population-model/</link>
+      <atom:link href="/tag/matrix-population-model/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;matrix population model&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;matrix population model&#34;</title>
+      <link>/tag/matrix-population-model/</link>
+    </image>
+    
+    <item>
+      <title>Rcompadre and Rage—Two R packages to facilitate the use of the COMPADRE and COMADRE databases and calculation of life-history traits from matrix population models</title>
+      <link>/publication/jones-2022-methecolevol/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/jones-2022-methecolevol/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Matrix population models (MPMs) are an important tool for biologists seeking to understand the causes and consequences of variation in vital rates (e.g. survival, reproduction) across life cycles. Empirical MPMs describe the age- or stage-structured demography of organisms and usually represent the life history of a population during a particular time frame at a specific geographical location.&lt;/li&gt;
+&lt;li&gt;The COMPADRE Plant Matrix Database and COMADRE Animal Matrix Database are the most extensive resources for MPM data, collectively containing &amp;gt;12,000 individual projection matrices for &amp;gt;1,100 species globally. Although these databases represent an unparalleled resource for researchers, land managers and educators, the current computational tools available to answer questions with MPMs impose significant barriers to potential COM(P)ADRE database users by requiring advanced knowledge to handle diverse data structures and program custom analysis functions.&lt;/li&gt;
+&lt;li&gt;To close this knowledge gap, we present two interrelated R packages designed to (a) facilitate the use of these databases by providing functions to acquire, quality control and manage both the MPM data contained in COMPADRE and COMADRE, and a user&amp;rsquo;s own MPM data (&lt;strong&gt;Rcompadre&lt;/strong&gt;) and (b) present a range of functions to calculate life-history traits from MPMs in support of ecological and evolutionary analyses (&lt;strong&gt;Rage&lt;/strong&gt;). We provide examples to illustrate the use of both.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rcompadre&lt;/strong&gt; and &lt;strong&gt;Rage&lt;/strong&gt; will facilitate demographic analyses using MPM data and contribute to the improved replicability of studies using these data. We hope that this new functionality will allow researchers, land managers and educators to unlock the potential behind the thousands of MPMs and ancillary metadata stored in the COMPADRE and COMADRE matrix databases, and in their own MPM data.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

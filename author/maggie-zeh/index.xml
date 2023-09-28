@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Maggie Zeh | DICE Lab: Diversity In Changing Environments</title><link>/author/maggie-zeh/</link><atom:link href="/author/maggie-zeh/index.xml" rel="self" type="application/rss+xml"/><description>Maggie Zeh</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>Maggie Zeh</title><link>/author/maggie-zeh/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maggie Zeh | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/maggie-zeh/</link>
+      <atom:link href="/author/maggie-zeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maggie Zeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright>
+    <image>
+      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
+      <title>Maggie Zeh</title>
+      <link>/author/maggie-zeh/</link>
+    </image>
+    
+  </channel>
+</rss>
