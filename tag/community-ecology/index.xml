@@ -1,26 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>&#34;community ecology&#34; | DICE Lab: Diversity In Changing Environments</title>
-    <link>/tag/community-ecology/</link>
-      <atom:link href="/tag/community-ecology/index.xml" rel="self" type="application/rss+xml" />
-    <description>&#34;community ecology&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
-      <title>&#34;community ecology&#34;</title>
-      <link>/tag/community-ecology/</link>
-    </image>
-    
-    <item>
-      <title>Elevational gradients in plant defences and insect herbivory: recent advances in the field and prospects for future research</title>
-      <link>/publication/moreira-2018-ecography/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/moreira-2018-ecography/</guid>
-      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
-&lt;p&gt;Classic research on elevational gradients in plant-herbivore interactions holds that insect herbivore pressure is stronger under the warmer, less seasonal climates characteristic of low elevations, and that this in turn selects for increased defence in low- (relative to high-) elevation plants. However, recent work has questioned this paradigm, arguing that it overly simplifies the ecological complexity in which plant-insect herbivore interactions are embedded along elevational gradients. Numerous biotic and abiotic factors vary with elevation, and their simultaneous influences are the focus of current work on elevational gradients in insect herbivory and plant defences. The present review (i) synthesizes current knowledge on elevational gradients in plant-insect herbivore interactions; (ii) critically analyses research gaps and highlights recent advances that contribute to filling these gaps; and (iii) outlines new research opportunities to uncover underlying mechanisms and build towards a unified theory on elevational gradients. We conclude that the next generation of studies should embrace community complexity–including multi-trophic dynamics and the multivariate nature of plant defence–and to do so by combining observational data, manipulative experiments and emerging analytical tools.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>"community ecology" | DICE Lab: Diversity In Changing Environments</title><link>/tag/community-ecology/</link><atom:link href="/tag/community-ecology/index.xml" rel="self" type="application/rss+xml"/><description>"community ecology"</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>"community ecology"</title><link>/tag/community-ecology/</link></image><item><title>Elevational gradients in plant defences and insect herbivory: recent advances in the field and prospects for future research</title><link>/publication/moreira-2018-ecography/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>/publication/moreira-2018-ecography/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
+&lt;p>Classic research on elevational gradients in plant-herbivore interactions holds that insect herbivore pressure is stronger under the warmer, less seasonal climates characteristic of low elevations, and that this in turn selects for increased defence in low- (relative to high-) elevation plants. However, recent work has questioned this paradigm, arguing that it overly simplifies the ecological complexity in which plant-insect herbivore interactions are embedded along elevational gradients. Numerous biotic and abiotic factors vary with elevation, and their simultaneous influences are the focus of current work on elevational gradients in insect herbivory and plant defences. The present review (i) synthesizes current knowledge on elevational gradients in plant-insect herbivore interactions; (ii) critically analyses research gaps and highlights recent advances that contribute to filling these gaps; and (iii) outlines new research opportunities to uncover underlying mechanisms and build towards a unified theory on elevational gradients. We conclude that the next generation of studies should embrace community complexity–including multi-trophic dynamics and the multivariate nature of plant defence–and to do so by combining observational data, manipulative experiments and emerging analytical tools.&lt;/p></description></item></channel></rss>
