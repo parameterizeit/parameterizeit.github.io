@@ -1,43 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | DICE Lab: Diversity In Changing Environments</title><link>/project/</link><atom:link href="/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Sun, 20 Sep 2020 00:00:42 -0400</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>/project/</link></image><item><title>Dynamics, diversity, &amp; function of microbial food webs</title><link>/project/dynamics-of-food-webs/</link><pubDate>Sun, 20 Sep 2020 00:00:42 -0400</pubDate><guid>/project/dynamics-of-food-webs/</guid><description>&lt;h2 id="what-allows-species-to-persist-in-complex-networks-of-species-interactions">What allows species to persist in complex networks of species interactions?&lt;/h2>
-&lt;p>Modern coexistence theory is structured to predict the diversity of competitor species at a single trophic level that interact indirectly through the trophic levels above (consumers) and below (resources). However, natural communities rarely are so simple. How to chain together these modules to account for more complex food web architectures is an open theoretical question, and few food webs (often of only marginally higher complexity) have had their entire range of direct and indirect interactions that shape the abundances of their constituent species fully resolved. A theory of biodiversity is incomplete if it cannot explain the maintenance of diversity in complex communities. Recent approaches that assimilate concepts from network theory offer a first step towards a fully multi-trophic coexistence theory. With this union, it is now possible to ask new questions about how diversity is maintained from simple food web modules to entire complex communities and specifically how network architecture itself influences the stability of these communities.&lt;/p>
-&lt;p>We are currently working to generalize the application of coexistence theory to full food webs in a model community of protists and larval insects that live in the water-filled leaves of pitcher plants (&lt;em>Sarracenia purpurea&lt;/em>). These communities have clear boundaries, cycle rapidly, are amenable to both lab and field experiments, and encompass a broad range of interaction signs, strengths, and network architectures with a tractable number of species. Guided by the theory, we are using lab and field experiments to parameterize each species’ demographic rates and interaction strengths. By assembling the same communities &lt;em>in silico&lt;/em> and &lt;em>in vivo&lt;/em>, we are testing theory and determining it’s limits to forecast biodiversity.&lt;/p>
-&lt;p>Related to this, Will did some work on plant-arthropod food webs back in the day.&lt;/p></description></item><item><title>Forecasting population dynamics in changing environments</title><link>/project/forecasting-populations/</link><pubDate>Sun, 20 Sep 2020 00:00:13 -0400</pubDate><guid>/project/forecasting-populations/</guid><description>&lt;h2 id="how-will-populations-behave-when-the-environment-keeps-changing">How will populations behave when the environment keeps changing?&lt;/h2>
-&lt;p>Climate change is altering the means, variances, and temporal autocorrelations of the key abiotic factors that underlie species performance. Understanding how these changes will impact species’ long-term fates is a key challenge that must be resolved in order to effectively forecast and mitigate climate change-driven biodiversity loss. Predicting the fates of organisms with simple, short-lived life histories should be relatively straightforward: These species should persist as long as the birth rate is greater than or equal to the death rate across the full range of future climatic conditions. However, many organisms have complex life cycles that span multiple years with individual demographic rates differing by age, size, stage, or sex. These organisms will experience climatic conditions over their lifespans that will range from historic norms to entirely novel conditions. The ability of species with complex, perennial life cycles to persist under climate change will therefore depend on their ability to successfully exploit climatically favorable years and buffer against unfavorable years.&lt;/p>
-&lt;p>For more than a decade, we&amp;rsquo;ve collected annual, individual-level demographic data on the long-lived, dioecious plant &lt;em>Valeriana edulis&lt;/em> across its broad elevation range near the
-&lt;a href="https://www.rmbl.org/" target="_blank" rel="noopener">Rocky Mountain Biological Laboratory&lt;/a>. By fusing these long-term data with historic data and field experiments, we are building a demographic forecasting platform that grapples with the complexities of life history and the nature and pace of climate change. This will enable us to not only forecast the future size, composition, sex ratio, and fate of &lt;em>Valeriana&lt;/em> populations, but confront these predictions with true out-of-sample observed data in future years. Inspired by this empirical work, we are developing theory to generalize our understanding of how populations behave under changing environmental conditions.&lt;/p>
-&lt;p>We&amp;rsquo;re enthusiastically representing population ecology in the
-&lt;a href="https://ecoforecast.org/" target="_blank" rel="noopener">Ecological Forecasting Initiative&lt;/a>.&lt;/p>
-&lt;h3 id="collaborators">Collaborators:&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;a href="https://www.tritrophic.org" target="_blank" rel="noopener">Kailen Mooney&lt;/a>, UC Irvine&lt;/li>
-&lt;li>Judy Soule, retired&lt;/li>
-&lt;li>
-&lt;a href="https://millerlabrice.github.io/" target="_blank" rel="noopener">Tom Miller&lt;/a>, Rice&lt;/li>
-&lt;/ul></description></item><item><title>Global-scale ecology</title><link>/project/global-ecology/</link><pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate><guid>/project/global-ecology/</guid><description>&lt;p>Process-level ecological data are usually collected locally, making scaling to the landscape and global scale a dubious exercise. I’m collaborating with three projects that seek to remedy this deficiency by using global databases &amp;amp; distributed experiments.&lt;/p>
-&lt;h3 id="compadre-databases-of-matrix-population-models">COM(P)ADRE databases of matrix population models&lt;/h3>
-&lt;p>In addition to building demographic models and parameterizing them with field data, I am a member of the Science Committee for the twin databases of matrix population models, COMPADRE and COMADRE. Our goal is to enable comparative demographic studies by assembling a comprehensive database of demographic models and their associated metadata, then making it publicly available along with tools to work with the data.&lt;/p>
-&lt;p>See our
-&lt;a href="https://compadredb.wordpress.com/" target="_blank" rel="noopener">blog&lt;/a> for highlights of recent papers that have resulted from this effort, or download the latest versions of each dataset
-&lt;a href="http://www.compadre-db.org/Data" target="_blank" rel="noopener">here&lt;/a>.&lt;/p>
-&lt;h3 id="geographic-gradients-in-species-interactions">Geographic gradients in species interactions&lt;/h3>
-&lt;p>Species diversity generally increases towards the Equator, and the extent to which this affects species interactions will have profound biogeographic and evolutionary consequences. Despite decades of local experimentation and extrapolation, we still lack a globally-coherent picture of interaction strength.&lt;/p>
-&lt;p>The
-&lt;a href="http://www.helsinki.fi/foodwebs/dummycaterpillars/index.htm" target="_blank" rel="noopener">Global Dummy Caterpillar Project&lt;/a> deployed plasticine caterpillar mimics around the world to measure predation rates by multiple taxa, distinguished by mouth marks left in the plasticine. We found strong evidence of higher predation in the tropics with a parallel pattern over elevation with stronger predation in the lowlands.&lt;/p>
-&lt;h3 id="plantpopnet-scaling-up-demography">PlantPopNet: Scaling up demography&lt;/h3>
-&lt;p>Demographic models provide powerful insight into the life history processes that control individual fitness, population growth, and extinction risk. Demographic studies to-date are too poorly replicated in space and time to tease apart the complex ways that demographic processes respond to environmental variation—-this is a key gap in our understanding of fundamental population processes made more glaring in light of global change, elevated extinctions, and species invasions.&lt;/p>
-&lt;p>
-&lt;a href="https://www.plantpopnet.com/" target="_blank" rel="noopener">PlantPopNet&lt;/a> is focusing on collecting demographic vital rates for a cosmopolitan plant, &lt;em>Plantago lanceolata&lt;/em>, all over the world. By comparing individual performance across environments, we are beginning to understand how different life history processes respond to the environment and scale up to impact population dynamics.&lt;/p>
-&lt;p>I have established five replicate monitoring populations across a broad environmental gradient in California, from the mediterranean south to the mesic redwood forests of the north. These data will be pooled with ca. 25 other sites in the network to form the largest demographic database for any single species.&lt;/p></description></item><item><title>Spatial structure of biodiversity</title><link>/project/spatial-biodiversity/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/project/spatial-biodiversity/</guid><description>&lt;h2 id="why-does-species-diversity-and-composition-differ-from-place-to-place">Why does species diversity and composition differ from place to place?&lt;/h2>
-&lt;p>Organisms compete with their neighbors–both individuals of the same and different species–-for resources. Through recent theoretical and empirical advances, we’ve come to understand the mechanisms that maintain the incredible diversity of species that we observe in competitive communities. However, these competitor species are themselves resources for consumers, and many hypotheses for the origin of diversity depend. Modern coexistence theory has shown that consumers can be a potent force in both the maintenance and erosion of diversity, yet the empirical literature has substantially lagged these advances. Though consumers have been implicated in the origin of species diversity for more than a half-century, their role in the maintenance of diversity remains an open question.&lt;/p>
-&lt;p>We&amp;rsquo;ve recently been working with a well-studied community of competing winter annual plant species and their seed-consumers (harvester ants) at the University of California’s
-&lt;a href="http://sedgwick.nrs.ucsb.edu/" target="_blank" rel="noopener">Sedgwick Reserve&lt;/a>. Ants preferentially consume some species&amp;rsquo;s seeds over others, enough to weaken and even reverse which species &amp;ldquo;win&amp;rdquo; in competition. Ant nests are easy to map, which allows us to build a high-resolution map of seed consumption risk at a landscape scale and answer questions about the spatial scales of coexistence mechanisms.&lt;/p>
-&lt;h3 id="collaborators">Collaborators:&lt;/h3>
-&lt;ul>
-&lt;li>
-&lt;a href="https://levine.princeton.edu/" target="_blank" rel="noopener">Jonathan Levine&lt;/a>, Princeton&lt;/li>
-&lt;li>
-&lt;a href="https://gauravsk.gitlab.io/" target="_blank" rel="noopener">Gaurav Kandlikar&lt;/a>, University of Missouri&lt;/li>
-&lt;li>
-&lt;a href="https://sites.lifesci.ucla.edu/eeb-kraft/" target="_blank" rel="noopener">Nathan Kraft&lt;/a>, University of California-Los Angeles&lt;/li>
-&lt;/ul></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | DICE Lab: Diversity In Changing Environments</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 DICE Lab</copyright><lastBuildDate>Sun, 20 Sep 2020 00:00:42 -0400</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Dynamics, diversity, &amp; function of microbial food webs</title>
+      <link>/project/dynamics-of-food-webs/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:42 -0400</pubDate>
+      <guid>/project/dynamics-of-food-webs/</guid>
+      <description>&lt;h2 id=&#34;what-allows-species-to-persist-in-complex-networks-of-species-interactions&#34;&gt;What allows species to persist in complex networks of species interactions?&lt;/h2&gt;
+&lt;p&gt;Modern coexistence theory is structured to predict the diversity of competitor species at a single trophic level that interact indirectly through the trophic levels above (consumers) and below (resources). However, natural communities rarely are so simple. How to chain together these modules to account for more complex food web architectures is an open theoretical question, and few food webs (often of only marginally higher complexity) have had their entire range of direct and indirect interactions that shape the abundances of their constituent species fully resolved. A theory of biodiversity is incomplete if it cannot explain the maintenance of diversity in complex communities. Recent approaches that assimilate concepts from network theory offer a first step towards a fully multi-trophic coexistence theory. With this union, it is now possible to ask new questions about how diversity is maintained from simple food web modules to entire complex communities and specifically how network architecture itself influences the stability of these communities.&lt;/p&gt;
+&lt;p&gt;We are currently working to generalize the application of coexistence theory to full food webs in a model community of protists and larval insects that live in the water-filled leaves of pitcher plants (&lt;em&gt;Sarracenia purpurea&lt;/em&gt;). These communities have clear boundaries, cycle rapidly, are amenable to both lab and field experiments, and encompass a broad range of interaction signs, strengths, and network architectures with a tractable number of species. Guided by the theory, we are using lab and field experiments to parameterize each species’ demographic rates and interaction strengths. By assembling the same communities &lt;em&gt;in silico&lt;/em&gt; and &lt;em&gt;in vivo&lt;/em&gt;, we are testing theory and determining it’s limits to forecast biodiversity.&lt;/p&gt;
+&lt;p&gt;Related to this, Will did some work on plant-arthropod food webs back in the day.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Forecasting population dynamics in changing environments</title>
+      <link>/project/forecasting-populations/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:13 -0400</pubDate>
+      <guid>/project/forecasting-populations/</guid>
+      <description>&lt;h2 id=&#34;how-will-populations-behave-when-the-environment-keeps-changing&#34;&gt;How will populations behave when the environment keeps changing?&lt;/h2&gt;
+&lt;p&gt;Climate change is altering the means, variances, and temporal autocorrelations of the key abiotic factors that underlie species performance. Understanding how these changes will impact species’ long-term fates is a key challenge that must be resolved in order to effectively forecast and mitigate climate change-driven biodiversity loss. Predicting the fates of organisms with simple, short-lived life histories should be relatively straightforward: These species should persist as long as the birth rate is greater than or equal to the death rate across the full range of future climatic conditions. However, many organisms have complex life cycles that span multiple years with individual demographic rates differing by age, size, stage, or sex. These organisms will experience climatic conditions over their lifespans that will range from historic norms to entirely novel conditions. The ability of species with complex, perennial life cycles to persist under climate change will therefore depend on their ability to successfully exploit climatically favorable years and buffer against unfavorable years.&lt;/p&gt;
+&lt;p&gt;For more than a decade, we&amp;rsquo;ve collected annual, individual-level demographic data on the long-lived, dioecious plant &lt;em&gt;Valeriana edulis&lt;/em&gt; across its broad elevation range near the 
+&lt;a href=&#34;https://www.rmbl.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rocky Mountain Biological Laboratory&lt;/a&gt;. By fusing these long-term data with historic data and field experiments, we are building a demographic forecasting platform that grapples with the complexities of life history and the nature and pace of climate change. This will enable us to not only forecast the future size, composition, sex ratio, and fate of &lt;em&gt;Valeriana&lt;/em&gt; populations, but confront these predictions with true out-of-sample observed data in future years. Inspired by this empirical work, we are developing theory to generalize our understanding of how populations behave under changing environmental conditions.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;re enthusiastically representing population ecology in the 
+&lt;a href=&#34;https://ecoforecast.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ecological Forecasting Initiative&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.tritrophic.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kailen Mooney&lt;/a&gt;, UC Irvine&lt;/li&gt;
+&lt;li&gt;Judy Soule, retired&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://millerlabrice.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tom Miller&lt;/a&gt;, Rice&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global-scale ecology</title>
+      <link>/project/global-ecology/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/project/global-ecology/</guid>
+      <description>&lt;p&gt;Process-level ecological data are usually collected locally, making scaling to the landscape and global scale a dubious exercise. I’m collaborating with three projects that seek to remedy this deficiency by using global databases &amp;amp; distributed experiments.&lt;/p&gt;
+&lt;h3 id=&#34;compadre-databases-of-matrix-population-models&#34;&gt;COM(P)ADRE databases of matrix population models&lt;/h3&gt;
+&lt;p&gt;In addition to building demographic models and parameterizing them with field data, I am a member of the Science Committee for the twin databases of matrix population models, COMPADRE and COMADRE. Our goal is to enable comparative demographic studies by assembling a comprehensive database of demographic models and their associated metadata, then making it publicly available along with tools to work with the data.&lt;/p&gt;
+&lt;p&gt;See our 
+&lt;a href=&#34;https://compadredb.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt; for highlights of recent papers that have resulted from this effort, or download the latest versions of each dataset 
+&lt;a href=&#34;http://www.compadre-db.org/Data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;geographic-gradients-in-species-interactions&#34;&gt;Geographic gradients in species interactions&lt;/h3&gt;
+&lt;p&gt;Species diversity generally increases towards the Equator, and the extent to which this affects species interactions will have profound biogeographic and evolutionary consequences. Despite decades of local experimentation and extrapolation, we still lack a globally-coherent picture of interaction strength.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;http://www.helsinki.fi/foodwebs/dummycaterpillars/index.htm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Global Dummy Caterpillar Project&lt;/a&gt; deployed plasticine caterpillar mimics around the world to measure predation rates by multiple taxa, distinguished by mouth marks left in the plasticine. We found strong evidence of higher predation in the tropics with a parallel pattern over elevation with stronger predation in the lowlands.&lt;/p&gt;
+&lt;h3 id=&#34;plantpopnet-scaling-up-demography&#34;&gt;PlantPopNet: Scaling up demography&lt;/h3&gt;
+&lt;p&gt;Demographic models provide powerful insight into the life history processes that control individual fitness, population growth, and extinction risk. Demographic studies to-date are too poorly replicated in space and time to tease apart the complex ways that demographic processes respond to environmental variation—-this is a key gap in our understanding of fundamental population processes made more glaring in light of global change, elevated extinctions, and species invasions.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.plantpopnet.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PlantPopNet&lt;/a&gt; is focusing on collecting demographic vital rates for a cosmopolitan plant, &lt;em&gt;Plantago lanceolata&lt;/em&gt;, all over the world. By comparing individual performance across environments, we are beginning to understand how different life history processes respond to the environment and scale up to impact population dynamics.&lt;/p&gt;
+&lt;p&gt;I have established five replicate monitoring populations across a broad environmental gradient in California, from the mediterranean south to the mesic redwood forests of the north. These data will be pooled with ca. 25 other sites in the network to form the largest demographic database for any single species.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial structure of biodiversity</title>
+      <link>/project/spatial-biodiversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/spatial-biodiversity/</guid>
+      <description>&lt;h2 id=&#34;why-does-species-diversity-and-composition-differ-from-place-to-place&#34;&gt;Why does species diversity and composition differ from place to place?&lt;/h2&gt;
+&lt;p&gt;Organisms compete with their neighbors–both individuals of the same and different species–-for resources. Through recent theoretical and empirical advances, we’ve come to understand the mechanisms that maintain the incredible diversity of species that we observe in competitive communities. However, these competitor species are themselves resources for consumers, and many hypotheses for the origin of diversity depend. Modern coexistence theory has shown that consumers can be a potent force in both the maintenance and erosion of diversity, yet the empirical literature has substantially lagged these advances. Though consumers have been implicated in the origin of species diversity for more than a half-century, their role in the maintenance of diversity remains an open question.&lt;/p&gt;
+&lt;p&gt;We&amp;rsquo;ve recently been working with a well-studied community of competing winter annual plant species and their seed-consumers (harvester ants) at the University of California’s 
+&lt;a href=&#34;http://sedgwick.nrs.ucsb.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sedgwick Reserve&lt;/a&gt;. Ants preferentially consume some species&amp;rsquo;s seeds over others, enough to weaken and even reverse which species &amp;ldquo;win&amp;rdquo; in competition. Ant nests are easy to map, which allows us to build a high-resolution map of seed consumption risk at a landscape scale and answer questions about the spatial scales of coexistence mechanisms.&lt;/p&gt;
+&lt;h3 id=&#34;collaborators&#34;&gt;Collaborators:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://levine.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jonathan Levine&lt;/a&gt;, Princeton&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://gauravsk.gitlab.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Gaurav Kandlikar&lt;/a&gt;, University of Missouri&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://sites.lifesci.ucla.edu/eeb-kraft/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nathan Kraft&lt;/a&gt;, University of California-Los Angeles&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pavel Kratina | DICE Lab: Diversity In Changing Environments</title><link>/author/pavel-kratina/</link><atom:link href="/author/pavel-kratina/index.xml" rel="self" type="application/rss+xml"/><description>Pavel Kratina</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2023 DICE Lab</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate><image><url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url><title>Pavel Kratina</title><link>/author/pavel-kratina/</link></image><item><title>Global predation pressure redistribution under future climate change</title><link>/publication/romero-2018-natureclimatechange/</link><pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate><guid>/publication/romero-2018-natureclimatechange/</guid><description>&lt;h3 id="abstract">Abstract&lt;/h3>
-&lt;p>How climate affects biotic interactions is a question of urgent concern. Theory predicts that biotic interactions are stronger at lower latitudes. However, the role of climate in governing these patterns is typically assumed, rather than explicitly tested. Here, we dissected the influence of climatic descriptors on predation pressure using data from a global experiment with model caterpillars. We then used projections of future climate change to predict shifts in predation pressure. Climate, particularly components of temperature, explained latitudinal and elevational patterns of predation better than latitude or elevation by themselves. Projected predation pressure was greater under higher temperatures and more stable climates. Increased climatic instability projected for the near future predicts a general decrease in predation pressure over time. By identifying the current climatic drivers of global patterns in a key biotic interaction, we show how shifts in these drivers could alter the functioning of terrestrial ecosystems and their associated services.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pavel Kratina | DICE Lab: Diversity In Changing Environments</title>
+    <link>/author/pavel-kratina/</link>
+      <atom:link href="/author/pavel-kratina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pavel Kratina</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 DICE Lab</copyright><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu6a27496071d1742974f94433b19e4b34_25318_512x512_fill_lanczos_center_3.png</url>
+      <title>Pavel Kratina</title>
+      <link>/author/pavel-kratina/</link>
+    </image>
+    
+    <item>
+      <title>Global predation pressure redistribution under future climate change</title>
+      <link>/publication/romero-2018-natureclimatechange/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/romero-2018-natureclimatechange/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;How climate affects biotic interactions is a question of urgent concern. Theory predicts that biotic interactions are stronger at lower latitudes. However, the role of climate in governing these patterns is typically assumed, rather than explicitly tested. Here, we dissected the influence of climatic descriptors on predation pressure using data from a global experiment with model caterpillars. We then used projections of future climate change to predict shifts in predation pressure. Climate, particularly components of temperature, explained latitudinal and elevational patterns of predation better than latitude or elevation by themselves. Projected predation pressure was greater under higher temperatures and more stable climates. Increased climatic instability projected for the near future predicts a general decrease in predation pressure over time. By identifying the current climatic drivers of global patterns in a key biotic interaction, we show how shifts in these drivers could alter the functioning of terrestrial ecosystems and their associated services.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
