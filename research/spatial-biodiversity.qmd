@@ -12,12 +12,16 @@ Plants compete for resources and are themselves resources for consumers. We prev
 
 ### Applying biodiversity-ecosystem function (BEF) to engineering challenges
 
-Diverse plant communities tend to have higher measures of ecosystem function. With NCSU collaborators [Brina Montoya](https://ccee.ncsu.edu/people/bmmorten/) (Civil, Construction, & Environmental Engineering), [Amy Grunden](https://cals.ncsu.edu/plant-and-microbial-biology/people/amgrunde/) (Plant and Microbial Biology), [Celso Castro Bolinaga](https://bae.ncsu.edu/people/cfcastro/) (Biological & Agricultural Engineering), and [Ben Breland](https://www.linkedin.com/in/benjamin-breland-pg-3ab40282) (US Army Corps of Engineers), we are assessing the compatibility of plant species mixes with microbially-induced calcite precipitation (MICP) as a way to increase soil stability on dams, levees, and similar flood control structures.
+Diverse plant communities tend to have higher measures of ecosystem function. With NCSU collaborators [Brina Montoya](https://ccee.ncsu.edu/people/bmmorten/) (Civil, Construction, & Environmental Engineering), [Amy Grunden](https://cals.ncsu.edu/plant-and-microbial-biology/people/amgrunde/) (Plant and Microbial Biology), [Celso Castro Bolinaga](https://bae.ncsu.edu/people/cfcastro/) (Biological & Agricultural Engineering), and [Ben Breland](https://www.linkedin.com/in/benjamin-breland-pg-3ab40282) and [Allison Scates](https://www.linkedin.com/in/allisonrscates) (US Army Corps of Engineers), we are assessing the compatibility of plant species mixes with microbially-induced calcite precipitation (MICP) as a way to increase soil stability on dams, levees, and similar flood control structures.
 
 This collaborative work is supported by a grant from the [US Army Engineer Research & Development Center](https://www.erdc.usace.army.mil/).
 
 ![](/static/logo-erdc.PNG){fig-align="center" width="2.5in"}
 
+![Planting seeds for MICP germination experiment. (L to R: Pegah Ghasemi, Alden Sears, Will Petry)](/static/micp-seed-planting.jpg){fig-align="center" width="6in"}
+
 ## Selected publications
 
 -   Petry, W.K., Kandlikar, G.S., Kraft, N.J.B., Godoy, O. & Levine, J.M. **(2018)** A competition-defence trade-off both promotes and weakens coexistence in an annual plant community. [*Journal of Ecology*]{.underline}, 106, 1806–1818. [\[doi\]](https://doi.org/10.1111/1365-2745.13028) [\[pdf\]](publications/Petry et al. - 2018 - A competition–defence trade-off both promotes and .pdf) [\[data\]](https://doi.org/10.5281/zenodo.1256658)
+
+-   Ghasemi, P., Hiscott, H., Sears, A., Montoya, B.M., Castro-Bolinaga, C., Petry, W.K., Grunden, A.M., Breland, B., Scates, A. **(2025)** Integration of Plants and Microbially Induced Soil Stabilization for Sustainable Infrastructure Design. In: [*Proceedings of the ICBBG2025*]{.underline}. Presented at the International Conference on Bio-mediated and Bio-inspired Geotechnics, Tempe, Arizona USA. [\[doi\]](https://doi.org/10.53243/ICBBG2025-40) [\[pdf\]](publications/Ghasemi et al. - 2025 - Integration of Plants and Microbially Induced Soil Stabilization for Sustainable Infrastructure Desi.pdf)

@@ -1,3 +1,9 @@
+![*Bassica rapa* fields near Kloten, Switzerland](static/brassica-kloten.jpg){fig-align="center" width="8in"}
+
+## Email
+
+The email addresses for each lab member can be found on our [People](people.qmd) page.
+
 ## Mailing address
 
 ### NCSU Campus

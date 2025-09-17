@@ -26,6 +26,8 @@ Demographic models provide powerful insight into the life history processes that
 
 I established five replicate monitoring populations across a broad environmental gradient in California, from mediterranean southern climates to the mesic redwood forests of the north. These data will be pooled with ca. 25 other sites in the network to form the largest demographic database for any single species.
 
+![*Plantago lanceolata* demography and leaf-level physiology at Norris Ranch Marino Reserve. (L to R: Greg Vose, Emily Griffoul)](/static/plantago-norris-ranch-marino.JPG){fig-align="center" width="6in"}
+
 ## Representative publications
 
 -   Roslin, T., Hardwick, B., Novotny, V., Petry, W.K., \[Dummy Caterpillar Project\], Slade, E.M. **(2017)** Higher predation risk for insect prey at low latitudes and elevations. [*Science*]{.underline}, 356, 742–744. [\[doi\]](https://doi.org/10.1126/science.aaj1631) [\[pdf\]](publications/Roslin%20et%20al.%20-%202017%20-%20Higher%20predation%20risk%20for%20insect%20prey%20at%20low%20latit.pdf) [\[data\]](https://doi.org/10.5061/dryad.j432q)

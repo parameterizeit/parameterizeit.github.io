@@ -2,56 +2,54 @@
 
 ![*Hill 1, Wheat*, Hajime Namiki (2000)](static/namiki-hill1-wheat.jpg){fig-align="center"}
 
-*click on each person's name for more information about their role and contributions*
-
 ### Graduate students
 
--   [Rodrigo Granjel](people/granjel-r/about.qmd), Fulbright Fellow (2022-2023), *currently a postdoc at the Basque Centre for Climate Change*
+-   [Rodrigo Granjel](https://es.linkedin.com/in/rodrigo-granjel), Fulbright Pre-doctoral Fellow (2022-2023), *currently a postdoc at the Basque Centre for Climate Change*
 
--   [Ewa Merz](people/merz-e/about.qmd), ETHZ Masters student (2018), *currently a postdoc at Scripps Institute of Oceanography*
+-   [Ewa Merz](https://scholar.google.com/citations?user=c5Q9Y2AAAAAJ), ETHZ Masters student (2018), *currently a postdoc at Scripps Institute of Oceanography*
 
 ### Undergraduate students
 
--   [Ryan Hou](people/hou-r/about.qmd), UMBS education program (2025)
+-   Ryan Hou, UMBS education program (2025)
 
--   [Caleb Boxwell](people/boxwell-c/about.qmd), RMBL education program (2025)
+-   Caleb Boxwell, RMBL education program (2025)
 
--   [Jake Davis](people/davis-j/about.qmd), RMBL education program (2024)
+-   Jake Davis, RMBL education program (2024)
 
--   [Zachary Dodd](people/dodd-z/about.qmd), NCSU (2023-2024)
+-   Zachary Dodd, NCSU (2023-2024)
 
--   [Emma Wilson](people/wilson-e/about.qmd), NCSU undergrad (2023), *currently a Masters student in the [Mali Lab](https://imalilab.weebly.com/) at NC State University*
+-   [Emma Wilson](https://www.linkedin.com/in/wilsonemma), NCSU undergrad (2023), *currently a Masters student in the [Mali Lab](https://imalilab.weebly.com/) at NC State University*
 
--   [Ben Davis](people/davis-b/about.qmd), RMBL education program (2023)
+-   Ben Davis, RMBL education program (2023)
 
--   [Dom Pham](people/pham-d/about.qmd), RMBL education program (2022), *currently a Ph.D. student at the University of Connecticut*
+-   Dominique (Dom) Pham, RMBL education program (2022), *currently a Ph.D. student in the [Heyduk Lab](https://www.kheyduk.net/) at the University of Connecticut*
 
--   [Maggie Zeh](people/zeh-m), RMBL education program (2021)
+-   Maggie Zeh, RMBL education program (2021)
 
--   [Sydney Peterson](people/peterson-s/about.qmd), RMBL education program (2020)
+-   Sydney Peterson, RMBL education program (2020)
 
--   [Lucy (Yifei) Zhang](people/zhang-l/about.qmd), RMBL education program (2020)
+-   Lucy (Yifei) Zhang, RMBL education program (2020), *currently a Masters student at Duke Kunshan University*
 
 ### Field technicians
 
--   [Jake Davis](people/davis-j/about.qmd), plant demography, RMBL (2025)
+-   Jake Davis, plant demography, RMBL (2025)
 
--   [Emily Kresin](people/kresin-e/about.qmd), plant demography, RMBL (2024)
+-   [Emily Kresin](https://www.linkedin.com/in/emily-kresin), plant demography, RMBL (2024)
 
--   [E Redick](people/redick-e/about.qmd), phenology experiment, NCSU (2024)
+-   E Redick, phenology experiment, NCSU (2024)
 
--   [Sarah Hoffman](people/hoffman-s/about.qmd), plant demography, RMBL (2023)
+-   Sarah Hoffman, plant demography, RMBL (2023)
 
--   [Ce Compton](people/compton-c/about.qmd), plant demography, RMBL (2022)
+-   Ce Compton, plant demography, RMBL (2022)
 
 -   [Alden Sears](people/sears-a/about.qmd), plant demography, RMBL (2022), *currently a Ph.D. candidate in the DICE Lab*
 
--   [Hope Anderson](people/anderson-h/about.qmd), plant demography, RMBL (2021)
+-   Hope Anderson, plant demography, RMBL (2021)
 
--   [Eddie Peabody](people/peabody-e/about.qmd), plant demography, RMBL (2021)
+-   Eddie Peabody, plant demography, RMBL (2021)
 
--   [Jack Snow](people/snow-j/about.qmd), plant demography, RMBL (2018-2020)
+-   [Jackson (Jack) Snow](https://www.linkedin.com/in/jacksonsnow), plant demography, RMBL (2018-2020), *currently a chemical engineer at Tynt Technologies*
 
--   [Val Watson](people/watson-v/about.qmd), plant demography, RMBL (2018-2019), *currently a Forest Management Research Assistant at the [Schoodic Institute](https://schoodicinstitute.org/), Acadia National Park*
+-   [Val Watson](https://www.linkedin.com/in/val-watson-885346291), plant demography, RMBL (2018-2019), *currently a Forest Management Research Assistant at the [Schoodic Institute](https://schoodicinstitute.org/), Acadia National Park*
 
--   [Peter Innes](people/innes-p/about.qmd), plant demography, RMBL (2015-2017), *currently a [postdoc](https://peterinnes.net/) in evolutionary genetics at the University of Colorado*
+-   [Peter Innes](https://peterinnes.net/), plant demography, RMBL (2015-2017), *currently a postdoc in evolutionary genetics at the University of Colorado*

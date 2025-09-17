@@ -8,13 +8,13 @@ Predicting the coexistence of two species in a simple Lotka-Volterra model has a
 
 Communities can take dozens to hundreds of generations for competitive exclusion to play out, greatly challenging our ability to test the predictions of theory with typical "fast" cycling macroscopic organisms like annual plants. The microbial communities of pitcher plants (*Sarracenia purpurea*) have generation times of several hours and highly specialized associations with their host plant. We are using this model system for lab and field experiments to probe the mechanisms of multispecies community assembly and coexistence. Furthermore, Ph.D. student [Nicole Burroughs](../people/burroughs-n/about.qmd) is examining the repeatability of community assembly and testing how variation in microbial dispersal determines the likelihood of alternative assembly pathways.
 
-![Collecting samples from a microbial dispersal experiment in northern Michigan. (L to R): Nicole Burroughs, Ryan Hou.](/static/protist-dispersal-array.jpg){fig-align="center" width="4.5in"}
+![Collecting samples from a microbial dispersal experiment in northern Michigan. (L to R: Nicole Burroughs, Ryan Hou)](/static/protist-dispersal-array.jpg){fig-align="center" width="4.5in"}
 
 ### Decomposing the roles of species interaction intermediaries
 
 Plant species interact with each other through multiple intermediaries: resources, pollinators, and herbivores. Collectively, these intermediaries determine the net interaction sign and magnitude, ranging from competition to facilitation. NSF Graduate Research Fellow [Alden Sears](../people/sears-a/about.qmd) is experimentally decomposing these interactions in a community of wildflowers in the family Asteraceae that differ in the degree to which they share resources, pollinators, and herbivores.
 
-![Clipping flower buds to manipulate the density and species composition around focal plants in Colorado. (L to R): Ben Davis, Sarah Hoffman, Alden Sears.](/static/clipping-experiment.jpg){fig-align="center" width="6in"}
+![Clipping flower buds to manipulate the density and species composition around focal plants in Colorado. (L to R: Ben Davis, Sarah Hoffman, Alden Sears)](/static/clipping-experiment.jpg){fig-align="center" width="6in"}
 
 ## Selected publications
 

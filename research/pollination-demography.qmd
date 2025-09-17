@@ -12,7 +12,7 @@ This collaborative work is supported by NSF DEB awards [1754518](https://www.nsf
 
 ![](/static/logo-nsf.jpg){fig-align="center" width="0.75in"}
 
-![Censusing Hydrophyllum fendleri (Boraginaceae) with (L to R): Sarah Walwema, Rachel Dickson, Justin Bain, Amy Iler, and Will Petry. Photo: P.J. CaraDonna](/static/pollination-demog-hyfe-census.jpg){fig-align="center" width="4.5in"}
+![Censusing Hydrophyllum fendleri (Boraginaceae). (L to R: Sarah Walwema, Rachel Dickson, Justin Bain, Amy Iler, and Will Petry) Photo: P.J. CaraDonna](/static/pollination-demog-hyfe-census.jpg){fig-align="center" width="4.5in"}
 
 ### Pollinator network rewiring & functional compensation during pollinator extinctions
 

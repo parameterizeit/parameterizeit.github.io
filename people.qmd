@@ -2,7 +2,7 @@
 
 [![](people/petry-w/avatar.jpeg){fig-align="left" width="3in"}](people/petry-w/about.qmd)
 
-**Dr. Will Petry** [\[about\]](people/petry-w/about.qmd) [\[email\]](mailto:wpetry@ncsu.edu) [\[Google Scholar\]](https://scholar.google.com/citations?user=npE9NiAAAAAJ) [\[GitHub\]](https://github.com/wpetry)
+**Dr. Will Petry** [\[about\]](people/petry-w/about.qmd) [\[email\]](mailto:wpetry@ncsu.edu) [\[Google Scholar\]](https://scholar.google.com/citations?user=npE9NiAAAAAJ) [\[GitHub\]](https://github.com/wpetry) [\[cv\]](people/petry-w/cv.pdf)
 
 Assistant Professor, Department of Plant & Microbial Biology
 

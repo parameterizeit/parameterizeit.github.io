@@ -1,5 +1,5 @@
 ::: {.callout-note appearance="simple"}
-## PDFs of all DICE Lab papers are freely available via the links below. Please [contact us](people.qmd) if you encounter any issues accessing our research.
+## PDFs of all DICE Lab papers are freely available via the links below. Papers since \~2016 also have freely available datasets and code linked, when relevant. Please [contact us](people.qmd) if you encounter any issues accessing our research products.
 :::
 
 ![*Smell of ink* (detail), Hansjörg Mayer (2017)](static/mayer-smell-of-ink.jpg){fig-align="center" width="8in"}
@@ -16,7 +16,7 @@
 
 -   Baudraz, M.E.A., Childs, D.Z., Kelly, R., Smith, A.L., Villellas, J., \[PlantPop Net, including W.K. Petry\], Buckley, Y.M. **(2025)** Several candidate size metrics explain vital rates across multiple populations throughout a widespread species’ range. [*Journal of Ecology*]{.underline}. [\[doi\]](http://doi.org/10.1111/1365-2745.70148) [\[pdf\]](publications/Baudraz et al. - Several candidate size metrics explain vital rates across multiple populations throughout a widespre.pdf) [\[data\]](https://datadryad.org/dataset/doi:10.5061/dryad.mw6m9067c)
 
--   Conlin, M.R., Krings, A., Petry, W., Forrester, J. & Crawford, J. **(2024)** Range-Wide Quantitative Habitat Characterization of Critically Imperiled *Ludwigia ravenii* (Onagraceae). [*Castanea*]{.underline}, 89, 63–95. [\[doi\]](https://doi.org/10.2179/0008-7475.89.1.63) \[pdf\] \[data\]
+-   Conlin, M.R., Krings, A., Petry, W., Forrester, J. & Crawford, J. **(2024)** Range-Wide Quantitative Habitat Characterization of Critically Imperiled *Ludwigia ravenii* (Onagraceae). [*Castanea*]{.underline}, 89, 63–95. [\[doi\]](https://doi.org/10.2179/0008-7475.89.1.63) \[pdf\]
 
 -   Blonder, B.W., Gaüzère, P., Iversen, L.L., Ke, P.-J., Petry, W.K., Ray, C.A., Salguero-Gómez, R., Sharpless, W., Violle, C. **(2023)** Predicting and controlling ecological communities via trait and environment mediated parameterizations of dynamical models. [*Oikos*]{.underline}, 2023, e09415. [\[doi\]](https://doi.org/10.1111/oik.09415) [\[pdf\]](publications/Blonder et al. - 2023 - Predicting and controlling ecological communities via trait and environment mediated parameterizatio.pdf) [\[data\]](https://zenodo.org/record/7576397)
 
@@ -58,6 +58,8 @@
 
 -   Petry, W.K., Foré, S.A., Fielden, L.J. & Kim, H.-J. **(2010)** A quantitative comparison of two sample methods for collecting *Amblyomma americanum* and *Dermacentor variabilis* (Acari: Ixodidae) in Missouri. [*Experimental and Applied Acarology*]{.underline}, 52, 427–438. [\[doi\]](https://doi.org/10.1007/s10493-010-9373-9) [\[pdf\]](publications/Petry et al. - 2010 - A quantitative comparison of two sample methods fo.pdf)
 
-### Other publications
+### Other publications (reports & conference papers)
 
 -   Petry, W.K. & I.K. Breckheimer **(in press)** Pairing on-ground and drone-based monitoring for rare plants: A case study in Avery Peak Twinpod (*Physaria alpina*). [*Aquilegia*]{.underline}. \[html\] \[pdf\]
+
+-   Ghasemi, P., Hiscott, H., Sears, A., Montoya, B.M., Castro-Bolinaga, C., Petry, W.K., Grunden, A.M., Breland, B., Scates, A. **(2025)** Integration of Plants and Microbially Induced Soil Stabilization for Sustainable Infrastructure Design. In: [*Proceedings of the ICBBG2025*]{.underline}. Presented at the International Conference on Bio-mediated and Bio-inspired Geotechnics, Tempe, Arizona USA. [\[doi\]](https://doi.org/10.53243/ICBBG2025-40) [\[pdf\]](publications/Ghasemi et al. - 2025 - Integration of Plants and Microbially Induced Soil Stabilization for Sustainable Infrastructure Desi.pdf)

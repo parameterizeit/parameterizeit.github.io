@@ -22,7 +22,7 @@ Monocarpic plants exhibit an unusual life history in which they grow vegetativel
 
 Some species have large ranges, whereas others are restricted to very small areas that increase their vulnerability to extinction. In 2024, we began collaborating with Ian Breckheimer (RMBL) to understand the mechansims of local-to-landscape level variation in abundance in the Colorado rare plant, *Physaria alpina* (Brassicaceae). We are pairing traditional plot-scale demography with a drone-mounted advanced imaging suite to scale up our understanding of variation in plant performance. This work is advancing our understanding of fundamental plant ecology questions while simultaneously supporting conservation priorities of the [Colorado Natural Heritage Program](https://cnhp.colostate.edu/rareplant/details/?plantID=23986) and the Colorado Parks and Wildlife [State Wildlife Action Plan](https://cpw.state.co.us/conservation-plans).
 
-![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.png){fig-align="center" width="8in"}
+![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.png){fig-align="center" width="6in"}
 
 ## Selected publications
 
