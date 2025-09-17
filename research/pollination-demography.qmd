@@ -16,7 +16,7 @@ This collaborative work is supported by NSF DEB awards [1754518](https://www.nsf
 
 ### Pollinator network rewiring & functional compensation during pollinator extinctions
 
-A pollinator extinction opens up opportunities for remaining pollinator species to access floral resources that were dominated by the lost species. A single interaction change can trigger others that ripple through the entire network as every other species responds to interaction rewiring that impacts their preferred flower species. NSF Graduate Research Fellow [Melina Schopler](../people/schopler-m/about.qmd) is leading an experiment to understand how pollination networks rewire and the consequences of network structure for realized pollination service.
+When a pollinator goes extinct, remaining species gain access to floral resources once dominated by the lost species. A single interaction change can trigger others that ripple through the entire network as every other species responds to interaction rewiring that impacts their preferred flower species. NSF Graduate Research Fellow [Melina Schopler](../people/schopler-m/about.qmd) is leading an experiment to understand how pollination networks rewire and the consequences of network structure for realized pollination service.
 
 ![Pollinator mesocosms for extinction experiment. Photo: M. Schopler](/static/extinction-mesocosm.jpeg){fig-align="center" width="6in"}
 
