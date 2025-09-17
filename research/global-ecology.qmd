@@ -1,0 +1,39 @@
+# Global-scale ecology
+
+![*Cosmic Thing*, Damian Ortega (2002)](/static/ortgega-cosmic-thing.jpg){fig-align="center" width="8in"}
+
+Process-level ecological data are usually collected locally, making scaling to the landscape and global scale a dubious exercise. I’m collaborating with three projects that seek to remedy this deficiency by using global databases & distributed experiments.
+
+### COM(P)ADRE databases of matrix population models
+
+In addition to building demographic models and parameterizing them with field data, I am a member of the Science Committee for the twin databases of matrix population models, COMPADRE and COMADRE. Our goal is to enable comparative demographic studies by assembling a comprehensive database of demographic models and their associated metadata, then making it publicly available along with tools to work with the data.
+
+See our [blog](https://compadredb.wordpress.com/) for highlights of recent papers that have resulted from this effort, or download the latest versions of each dataset [here](http://www.compadre-db.org/Data).
+
+### Geographic gradients in species interactions
+
+Species diversity generally increases towards the Equator, and the extent to which this affects species interactions will have profound biogeographic and evolutionary consequences. Despite decades of local experimentation and extrapolation, we still lack a globally-coherent picture of interaction strength.
+
+The [Global Dummy Caterpillar Project](http://www.helsinki.fi/foodwebs/dummycaterpillars/index.htm) deployed plasticine caterpillar mimics around the world to measure predation rates by multiple taxa, distinguished by mouth marks left in the plasticine. We found strong evidence of higher predation in the tropics with a parallel pattern over elevation with stronger predation in the lowlands.
+
+![Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin](/static/zackenberg-dummy-caterpillar.png){alt="Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin" fig-align="center" width="6in"}
+
+### PlantPopNet: Scaling up demography
+
+Demographic models provide powerful insight into the life history processes that control individual fitness, population growth, and extinction risk. Demographic studies to-date are too poorly replicated in space and time to tease apart the complex ways that demographic processes respond to environmental variation—this is a key gap in our understanding of fundamental population processes made more glaring in light of global change, elevated extinctions, and species invasions.
+
+[PlantPopNet](https://www.plantpopnet.com/) is focusing on collecting demographic vital rates for a cosmopolitan plant, *Plantago lanceolata*, all over the world. By comparing individual performance across environments, we are beginning to understand how different life history processes respond to the environment and scale up to impact population dynamics.
+
+I established five replicate monitoring populations across a broad environmental gradient in California, from mediterranean southern climates to the mesic redwood forests of the north. These data will be pooled with ca. 25 other sites in the network to form the largest demographic database for any single species.
+
+## Representative publications
+
+-   Roslin, T., Hardwick, B., Novotny, V., Petry, W.K., \[Dummy Caterpillar Project\], Slade, E.M. **(2017)** Higher predation risk for insect prey at low latitudes and elevations. [*Science*]{.underline}, 356, 742–744. [\[doi\]](https://doi.org/10.1126/science.aaj1631) [\[pdf\]](publications/Roslin%20et%20al.%20-%202017%20-%20Higher%20predation%20risk%20for%20insect%20prey%20at%20low%20latit.pdf) [\[data\]](https://doi.org/10.5061/dryad.j432q)
+
+-   Romero, G.Q., Gonçalves-Souza, T., Kratina, P., Marino, N.A.C., Petry, W.K., Sobral-Souza, T., Roslin, T. **(2018)** Global predation pressure redistribution under future climate change. [*Nature Climate Change*]{.underline}, 8, 1087. [\[doi\]](https://doi.org/10.1038/s41558-018-0347-y) [\[pdf\]](publications/Romero%20et%20al.%20-%202018%20-%20Global%20predation%20pressure%20redistribution%20under%20fut.pdf) [\[data\]](https://doi.org/10.5061/dryad.j432q)
+
+-   Moreira, X., Petry, W.K., Mooney, K.A., Rasmann, S. & Abdala-Roberts, L. (2018) Elevational gradients in plant defences and insect herbivory: recent advances in the field and prospects for future research. Ecography, 41, 1485–1496. \[doi\] \[pdf\]
+
+-   Baudraz, M.E.A., Childs, D.Z., Kelly, R., Smith, A.L., Villellas, J., \[PlantPop Net, including W.K. Petry\], Buckley, Y.M. **(2025)** Several candidate size metrics explain vital rates across multiple populations throughout a widespread species’ range. [*Journal of Ecology*]{.underline}. [\[doi\]](http://doi.org/10.1111/1365-2745.70148) [\[pdf\]](publications/Baudraz%20et%20al.%20-%20Several%20candidate%20size%20metrics%20explain%20vital%20rates%20across%20multiple%20populations%20throughout%20a%20widespre.pdf) [\[data\]](https://datadryad.org/dataset/doi:10.5061/dryad.mw6m9067c)
+
+-   Smith, A.L., Hodkinson, T.R., Villellas, J., Catford, J.A., Csergő, A.M., Blomberg, S.P., \[PlantPop Net, including W.K. Petry\], Buckley, Y.M. **(2020)** Global gene flow releases invasive plants from environmental constraints on genetic diversity. [*Proceedings of the National Academy of Sciences*]{.underline}, 117, 4218-4227. [\[doi\]](https://doi.org/10.1073/pnas.1915848117) [\[pdf\]](publications/Smith%20et%20al.%20-%202020%20-%20Global%20gene%20flow%20releases%20invasive%20plants%20from%20env.pdf) [\[data\]](https://zenodo.org/record/3626288)

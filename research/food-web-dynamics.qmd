@@ -1,0 +1,25 @@
+# Predicting food web dynamics & diversity
+
+![*Composition with circles and semi-circles*, Sophie Taeuber-Arp (1938)](/static/arp-composition-with-circles-semicircles-1938.jpeg){fig-align="center" width="8in"}
+
+Predicting the coexistence of two species in a simple Lotka-Volterra model has a tidy closed-form solution that is commonly taught in undergraduate ecology classes. But add a third species, and solving the problem suddenly becomes extremely difficult. Recent advances in coexistence theory have offered a path forward, and our research is confronting these approaches with empirical data.
+
+### Community assembly & coexistence in pitcher plant microbes
+
+Communities can take dozens to hundreds of generations for competitive exclusion to play out, greatly challenging our ability to test the predictions of theory with typical "fast" cycling macroscopic organisms like annual plants. The microbial communities of pitcher plants (*Sarracenia purpurea*) have generation times of several hours and highly specialized associations with their host plant. We are using this model system for lab and field experiments to probe the mechanisms of multispecies community assembly and coexistence. Furthermore, Ph.D. student [Nicole Burroughs](../people/burroughs-n/about.qmd) is examining the repeatability of community assembly and testing how variation in microbial dispersal determines the likelihood of alternative assembly pathways.
+
+![Collecting samples from a microbial dispersal experiment in northern Michigan. (L to R): Nicole Burroughs, Ryan Hou.](/static/protist-dispersal-array.jpg){fig-align="center" width="4.5in"}
+
+### Decomposing the roles of species interaction intermediaries
+
+Plant species interact with each other through multiple intermediaries: resources, pollinators, and herbivores. Collectively, these intermediaries determine the net interaction sign and magnitude, ranging from competition to facilitation. NSF Graduate Research Fellow [Alden Sears](../people/sears-a/about.qmd) is experimentally decomposing these interactions in a community of wildflowers in the family Asteraceae that differ in the degree to which they share resources, pollinators, and herbivores.
+
+![Clipping flower buds to manipulate the density and species composition around focal plants in Colorado. (L to R): Ben Davis, Sarah Hoffman, Alden Sears.](/static/clipping-experiment.jpg){fig-align="center" width="6in"}
+
+## Selected publications
+
+-   Petry, W.K., Kandlikar, G.S., Kraft, N.J.B., Godoy, O. & Levine, J.M. **(2018)** A competition-defence trade-off both promotes and weakens coexistence in an annual plant community. [*Journal of Ecology*]{.underline}, 106, 1806–1818. [\[doi\]](https://doi.org/10.1111/1365-2745.13028) [\[pdf\]](publications/Petry et al. - 2018 - A competition–defence trade-off both promotes and .pdf) [\[data\]](https://doi.org/10.5281/zenodo.1256658)
+
+-   Blonder, B.W., Gaüzère, P., Iversen, L.L., Ke, P.-J., Petry, W.K., Ray, C.A., Salguero-Gómez, R., Sharpless, W., Violle, C. **(2023)** Predicting and controlling ecological communities via trait and environment mediated parameterizations of dynamical models. [*Oikos*]{.underline}, 2023, e09415. [\[doi\]](https://doi.org/10.1111/oik.09415) [\[pdf\]](publications/Blonder et al. - 2023 - Predicting and controlling ecological communities via trait and environment mediated parameterizatio.pdf) [\[data\]](https://zenodo.org/record/7576397)
+
+-   Petry, W.K., Perry, K.I., Fremgen, A., Rudeen, S.K., Lopez, M., Dryburgh, J., Mooney, K.A. **(2013)** Mechanisms underlying plant sexual dimorphism in multi-trophic arthropod communities. [*Ecology*]{.underline}, 94, 2055–2065. [\[doi\]](https://doi.org/10.1890/12-2170.1) [\[pdf\]](publications/Petry et al. - 2013 - Mechanisms underlying plant sexual dimorphism in m.pdf)

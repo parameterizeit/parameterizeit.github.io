@@ -1,0 +1,9 @@
+![](avatar.jpeg){fig-align="left" width="3in"}
+
+**Will Petry**
+
+**Assistant Professor, Department of Plant & Microbial Biology**
+
+[\[email\]](mailto:wpetry@ncsu.edu) [\[Google Scholar\]](https://scholar.google.com/citations?user=npE9NiAAAAAJ) [\[GitHub\]](https://github.com/wpetry)
+
+I am a quantitative field ecologist exploring the dynamics of populations and communities through the lenses of species interactions and intraspecific variation. I develop mathematical models and collect field data to test theoretical predictions of how individual-level traits and interactions scale to generate the structure, function, and diversity we see in natural populations and communities.

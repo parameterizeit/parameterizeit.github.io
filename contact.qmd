@@ -1,0 +1,42 @@
+## Mailing address
+
+### NCSU Campus
+
+Department of Plant and Microbial Biology\
+North Carolina State University\
+Campus Box 7612\
+Raleigh, NC 27695-7612
+
+### Rocky Mountain Biological Laboratory
+
+c/o RMBL\
+8000 County Road 317\
+Box 519\
+Crested Butte, CO 81224
+
+## Location
+
+**Office:** 4206 Gardner Hall
+
+**Lab:** 3209 Gardner Hall
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() |>
+  addTiles() |>
+  addMarkers(lat = 35.78751942515419, lng = -78.67201959031928, popup = "DICE Lab") |>
+  setView(lat = 35.78751942515419, lng = -78.67201959031928, zoom = 17)
+```
+
+## About our lab name
+
+> ## **dice**
+>
+> 1.  *n.* A small, usually cube-shaped object with sides displaying a different numeral or number of spots, typically used in games of chance.
+>
+> 2.  *v.* Cut into small cubes.
+>
+> 3.  *v.* (Latin) present singular imperative form of the verb *dicere*, to say or tell, as in the commands “Say!” and “Tell!”
+
+“DICE” is a convenient acronym for our lab name, but it also speaks to the fundamental aims of what we do. First, our research is motivated to understand biodiversity responses to environmental change, transforming uncertainty into accurate understanding. Second, we tackle ecological complexity by breaking problems into component parts, understanding how each functions in turn and how they fit together to build the whole. Finally, the word in Latin invokes our responsibility as scientists to share what we learn and to engage fully in building more just, equitable, and sustainable world.

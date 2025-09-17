@@ -1,0 +1,63 @@
+::: {.callout-note appearance="simple"}
+## PDFs of all DICE Lab papers are freely available via the links below. Please [contact us](people.qmd) if you encounter any issues accessing our research.
+:::
+
+![*Smell of ink* (detail), Hansjörg Mayer (2017)](static/mayer-smell-of-ink.jpg){fig-align="center" width="8in"}
+
+### Preprints
+
+-   Schopler, M., Simha, A., Dalton, R.M., Wilson, E.M., Redick, E., Youngsteadt, E., Petry, W.K. **(preprint)**. Spring ephemeral *Erythronium umbilicatum* may not be vulnerable to phenological mismatch with overstory trees. [\[preprint\]](https://www.biorxiv.org/content/10.1101/2025.05.14.652260v1) [\[data\]](https://doi.org/10.5061/dryad.0k6djhbc9)
+
+-   Williams, J., Angert, A., Campbell, A., Compagnoni, A., DeMarche, M., Evans, M., Fowler, J., González, E., Iler, A.M., Loesberg, J., Louthan, A., Martin, A., Moutouama, J., Nordstrom, S., Petry, W.K., Sęn, B., Sheth, S.N., Miller, T.E.X. **(preprint)** Linking climate and demography to predict population dynamics and persistence under global change. [\[preprint\]](https://www.authorea.com/doi/full/10.22541/au.175270366.69122163)
+
+### Peer-reviewed publications
+
+-   Bain, J.A., Ogilvie, J.E., Petry, W.K. & CaraDonna, P.J. **(2025)** Nutrient niche dynamics among wild pollinators. [*Proceedings of the Royal Society - B*]{.underline}, 292, 20250643. [\[doi\]](https://doi.org/10.1098/rspb.2025.0643) [\[pdf\]](publications/Bain et al. - 2025 - Nutrient niche dynamics among wild pollinators.pdf) [\[data\]](https://doi.org/10.17605/OSF.IO/JNBHZ)
+
+-   Baudraz, M.E.A., Childs, D.Z., Kelly, R., Smith, A.L., Villellas, J., \[PlantPop Net, including W.K. Petry\], Buckley, Y.M. **(2025)** Several candidate size metrics explain vital rates across multiple populations throughout a widespread species’ range. [*Journal of Ecology*]{.underline}. [\[doi\]](http://doi.org/10.1111/1365-2745.70148) [\[pdf\]](publications/Baudraz et al. - Several candidate size metrics explain vital rates across multiple populations throughout a widespre.pdf) [\[data\]](https://datadryad.org/dataset/doi:10.5061/dryad.mw6m9067c)
+
+-   Conlin, M.R., Krings, A., Petry, W., Forrester, J. & Crawford, J. **(2024)** Range-Wide Quantitative Habitat Characterization of Critically Imperiled *Ludwigia ravenii* (Onagraceae). [*Castanea*]{.underline}, 89, 63–95. [\[doi\]](https://doi.org/10.2179/0008-7475.89.1.63) \[pdf\] \[data\]
+
+-   Blonder, B.W., Gaüzère, P., Iversen, L.L., Ke, P.-J., Petry, W.K., Ray, C.A., Salguero-Gómez, R., Sharpless, W., Violle, C. **(2023)** Predicting and controlling ecological communities via trait and environment mediated parameterizations of dynamical models. [*Oikos*]{.underline}, 2023, e09415. [\[doi\]](https://doi.org/10.1111/oik.09415) [\[pdf\]](publications/Blonder et al. - 2023 - Predicting and controlling ecological communities via trait and environment mediated parameterizatio.pdf) [\[data\]](https://zenodo.org/record/7576397)
+
+-   Jones, O.R., Barks, P., Stott, I., James, T.D., Levin, S., Petry, W.K., Capdevila, P., Che-Castaldo, J., Jackson, J., Römer, G., Schuette, C., Salguero-Gómez, R. **(2022)** Rcompadre and Rage—Two R packages to facilitate the use of the COMPADRE and COMADRE databases and calculation of life-history traits from matrix population models. [*Methods in Ecology and Evolution*]{.underline}, 13, 770–781. [\[doi\]](https://doi.org/10.1111/2041-210X.13792) [\[pdf\]](publications/Jones et al. - 2022 - Rcompadre and Rage—Two R packages to facilitate the use of the COMPADRE and COMADRE databases and ca.pdf) [\[CRAN Rcompadre\]](https://cran.r-project.org/package=Rcompadre) [\[CRAN Rage\]](https://cran.r-project.org/package=Rage)
+
+-   Gamelon, M., Firth, J.A., Moullec, M.L., Petry, W.K. & Salguero-Gomez, R. **(2021)** Longitudinal demographic data collection. In: [*Demographic Methods Across the Tree of Life*]{.underline} (eds. Salguero-Gómez, R. & Gamelon, M.). Oxford University Press. [\[doi\]](https://academic.oup.com/book/41173) [\[pdf\]](publications/Gamelon et al. - 2021 - Longitudinal demographic data collection.pdf)
+
+-   Villellas, J., Ehrlén, J., Crone, E.E., Csergő, A.M., Garcia, M.B., Laine, A.-L., Roach, D.A., Salguero-Gómez, R., Wardle, G.M., \[PlantPop Net, including W.K. Petry\], Buckley, Y.M. **(2021)** Phenotypic plasticity masks range-wide genetic differentiation for vegetative but not reproductive traits in a short-lived plant. [*Ecology Letters*]{.underline}, 24, 2378–2393. [\[doi\]](https://doi.org/10.1111/ele.13858) [\[pdf\]](publications/Villellas et al. - 2021 - Phenotypic plasticity masks range-wide genetic dif.pdf) [\[data\]](https://doi.org/10.6084/m9.figshare.15029115.v1)
+
+-   Jerome, D.K., Petry, W.K., Mooney, K.A. & Iler, A.M. **(2021)** Snow melt timing acts independently and in conjunction with temperature accumulation to drive subalpine plant phenology. [*Global Change Biololgy*]{.underline}, 27, 5054–5069. [\[doi\]](https://doi.org/10.1111/gcb.15803) [\[pdf\]](publications/Jerome et al. - 2021 - Snow melt timing acts independently and in conjunc.pdf) [\[data\]](https://doi.org/10.6073/pasta/8831719d04c94504eed6b12318ed7312)
+
+-   Smith, A.L., Hodkinson, T.R., Villellas, J., Catford, J.A., Csergő, A.M., Blomberg, S.P., \[PlantPop Net, including W.K. Petry\], Buckley, Y.M. **(2020)** Global gene flow releases invasive plants from environmental constraints on genetic diversity. [*Proceedings of the National Academy of Sciences*]{.underline}, 117, 4218-4227. [\[doi\]](https://doi.org/10.1073/pnas.1915848117) [\[pdf\]](publications/Smith et al. - 2020 - Global gene flow releases invasive plants from env.pdf) [\[data\]](https://zenodo.org/record/3626288)
+
+-   Galmán, A., Petry, W.K., Abdala-Roberts, L., Butrón, A., de la Fuente, M., Francisco, M., Kergunteuil, A., Rasmann, S. **(2018)** Inducibility of chemical defences in young oak trees is stronger in species with high elevational ranges. [*Tree Physiology*]{.underline}, 39, 606-614. [\[doi\]](https://doi.org/10.1093/treephys/tpy139) [\[pdf\]](publications/Galmán et al. - 2018 - Inducibility of chemical defences in young oak tre.pdf)
+
+-   Romero, G.Q., Gonçalves-Souza, T., Kratina, P., Marino, N.A.C., Petry, W.K., Sobral-Souza, T., Roslin, T. **(2018)** Global predation pressure redistribution under future climate change. [*Nature Climate Change*]{.underline}, 8, 1087. [\[doi\]](https://doi.org/10.1038/s41558-018-0347-y) [\[pdf\]](publications/Romero et al. - 2018 - Global predation pressure redistribution under fut.pdf) [\[data\]](https://doi.org/10.5061/dryad.j432q)
+
+-   Petry, W.K., Kandlikar, G.S., Kraft, N.J.B., Godoy, O. & Levine, J.M. **(2018)** A competition-defence trade-off both promotes and weakens coexistence in an annual plant community. [*Journal of Ecology*]{.underline}, 106, 1806–1818. [\[doi\]](https://doi.org/10.1111/1365-2745.13028) [\[pdf\]](publications/Petry et al. - 2018 - A competition–defence trade-off both promotes and .pdf) [\[data\]](https://doi.org/10.5281/zenodo.1256658)
+
+-   Moreira, X., Petry, W.K., Mooney, K.A., Rasmann, S. & Abdala-Roberts, L. **(2018)** Elevational gradients in plant defences and insect herbivory: recent advances in the field and prospects for future research. [*Ecography*]{.underline}, 41, 1485–1496. [\[doi\]](https://doi.org/10.1111/ecog.03184) [\[pdf\]](publications/Moreira et al. - 2018 - Elevational gradients in plant defences and insect.pdf)
+
+-   Abdala-Roberts, L., Galmán, A., Petry, W.K., Covelo, F., Fuente, M. de la, Glauser, G., Moreira, X. **(2018)** Interspecific variation in leaf functional and defensive traits in oak species and its underlying climatic drivers. [*PLOS ONE*]{.underline}, 13, e0202548. [\[doi\]](https://doi.org/10.1371/journal.pone.0202548) [\[pdf\]](publications/Abdala-Roberts et al. - 2018 - Interspecific variation in leaf functional and def.pdf)
+
+-   Roslin, T., Hardwick, B., Novotny, V., Petry, W.K., \[Dummy Caterpillar Project\], Slade, E.M. **(2017)** Higher predation risk for insect prey at low latitudes and elevations. [*Science*]{.underline}, 356, 742–744. [\[doi\]](https://doi.org/10.1126/science.aaj1631) [\[pdf\]](publications/Roslin et al. - 2017 - Higher predation risk for insect prey at low latit.pdf) [\[data\]](https://doi.org/10.5061/dryad.j432q)
+
+-   CaraDonna, P.J., Petry, W.K., Brennan, R.M., Cunningham, J.L., Bronstein, J.L., Waser, N.M., Sanders, N.J. **(2017)** Interaction rewiring and the rapid turnover of plant-pollinator networks. [*Ecology Letters*]{.underline}, 20, 385–394. [\[doi\]](https://doi.org/10.1111/ele.12740) [\[pdf\]](publications/CaraDonna et al. - 2017 - Interaction rewiring and the rapid turnover of plant-pollinator networks.pdf) [\[data\]](https://doi.org/10.5061/dryad.s91p4)
+
+-   Petry, W.K., Soule, J.D., Iler, A.M., Chicas-Mosier, A., Inouye, D.W., Miller, T.E.X., Mooney, K.A. **(2016)** Sex-specific responses to climate change in plants alter population sex ratio and performance. [*Science*]{.underline}, 353, 69–71. [\[doi\]](https://doi.org/10.1126/science.aaf2588) [\[pdf\]](publications/Petry et al. - 2016 - Sex-specific responses to climate change in plants.pdf) [\[data\]](https://doi.org/10.5061/dryad.1cf8p)
+
+-   Moreira, X., Petry, W.K., Hernández-Cumplido, J., Morelon, S. & Benrey, B. **(2016)** Plant defence responses to volatile alert signals are population-specific. [*Oikos*]{.underline}, 125, 950–956. [\[doi\]](https://doi.org/10.1111/oik.02891) [\[pdf\]](publications/Moreira et al. - 2016 - Plant defence responses to volatile alert signals .pdf) [\[data\]](https://doi.org/10.5061/dryad.d6rb0)
+
+-   Moreira, X., Mooney, K.A., Rasmann, S., Petry, W.K., Carrillo-Gavilán, A., Zas, R., Sampedro, L. **(2014)** Trade-offs between constitutive and induced defences drive geographical and climatic clines in pine chemical defences. [*Ecology Letters*]{.underline}, 17, 537–546. [\[doi\]](https://doi.org/10.1111/ele.12253) [\[pdf\]](publications/Moreira et al. - 2014 - Trade-offs between constitutive and induced defenc.pdf)
+
+-   Petry, W.K., Perry, K.I., Fremgen, A., Rudeen, S.K., Lopez, M., Dryburgh, J., Mooney, K.A. **(2013)** Mechanisms underlying plant sexual dimorphism in multi-trophic arthropod communities. [*Ecology*]{.underline}, 94, 2055–2065. [\[doi\]](https://doi.org/10.1890/12-2170.1) [\[pdf\]](publications/Petry et al. - 2013 - Mechanisms underlying plant sexual dimorphism in m.pdf)
+
+-   Petry, W.K., Perry, K.I. & Mooney, K.A. **(2012)** Influence of macronutrient imbalance on native ant foraging and interspecific interactions in the field. [*Ecological Entomology*]{.underline}, 37, 175–183. [\[doi\]](https://doi.org/10.1111/j.1365-2311.2012.01349.x) [\[pdf\]](publications/Petry et al. - 2012 - Influence of macronutrient imbalance on native ant.pdf)
+
+-   Mooney, K.A., Fremgen, A. & Petry, W.K. **(2012)** Plant sex and induced responses independently influence herbivore performance, natural enemies and aphid-tending ants. [*Arthropod-Plant Interactions*]{.underline}, 6, 553–560. [\[doi\]](https://doi.org/10.1007/s11829-012-9204-5) [\[pdf\]](publications/Mooney et al. - 2012 - Plant sex and induced responses independently infl.pdf)
+
+-   Petry, W.K., Foré, S.A., Fielden, L.J. & Kim, H.-J. **(2010)** A quantitative comparison of two sample methods for collecting *Amblyomma americanum* and *Dermacentor variabilis* (Acari: Ixodidae) in Missouri. [*Experimental and Applied Acarology*]{.underline}, 52, 427–438. [\[doi\]](https://doi.org/10.1007/s10493-010-9373-9) [\[pdf\]](publications/Petry et al. - 2010 - A quantitative comparison of two sample methods fo.pdf)
+
+### Other publications
+
+-   Petry, W.K. & I.K. Breckheimer **(in press)** Pairing on-ground and drone-based monitoring for rare plants: A case study in Avery Peak Twinpod (*Physaria alpina*). [*Aquilegia*]{.underline}. \[html\] \[pdf\]

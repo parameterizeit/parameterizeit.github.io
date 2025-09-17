@@ -1,0 +1,57 @@
+# Lab alumni
+
+![*Hill 1, Wheat*, Hajime Namiki (2000)](static/namiki-hill1-wheat.jpg){fig-align="center"}
+
+*click on each person's name for more information about their role and contributions*
+
+### Graduate students
+
+-   [Rodrigo Granjel](people/granjel-r/about.qmd), Fulbright Fellow (2022-2023), *currently a postdoc at the Basque Centre for Climate Change*
+
+-   [Ewa Merz](people/merz-e/about.qmd), ETHZ Masters student (2018), *currently a postdoc at Scripps Institute of Oceanography*
+
+### Undergraduate students
+
+-   [Ryan Hou](people/hou-r/about.qmd), UMBS education program (2025)
+
+-   [Caleb Boxwell](people/boxwell-c/about.qmd), RMBL education program (2025)
+
+-   [Jake Davis](people/davis-j/about.qmd), RMBL education program (2024)
+
+-   [Zachary Dodd](people/dodd-z/about.qmd), NCSU (2023-2024)
+
+-   [Emma Wilson](people/wilson-e/about.qmd), NCSU undergrad (2023), *currently a Masters student in the [Mali Lab](https://imalilab.weebly.com/) at NC State University*
+
+-   [Ben Davis](people/davis-b/about.qmd), RMBL education program (2023)
+
+-   [Dom Pham](people/pham-d/about.qmd), RMBL education program (2022), *currently a Ph.D. student at the University of Connecticut*
+
+-   [Maggie Zeh](people/zeh-m), RMBL education program (2021)
+
+-   [Sydney Peterson](people/peterson-s/about.qmd), RMBL education program (2020)
+
+-   [Lucy (Yifei) Zhang](people/zhang-l/about.qmd), RMBL education program (2020)
+
+### Field technicians
+
+-   [Jake Davis](people/davis-j/about.qmd), plant demography, RMBL (2025)
+
+-   [Emily Kresin](people/kresin-e/about.qmd), plant demography, RMBL (2024)
+
+-   [E Redick](people/redick-e/about.qmd), phenology experiment, NCSU (2024)
+
+-   [Sarah Hoffman](people/hoffman-s/about.qmd), plant demography, RMBL (2023)
+
+-   [Ce Compton](people/compton-c/about.qmd), plant demography, RMBL (2022)
+
+-   [Alden Sears](people/sears-a/about.qmd), plant demography, RMBL (2022), *currently a Ph.D. candidate in the DICE Lab*
+
+-   [Hope Anderson](people/anderson-h/about.qmd), plant demography, RMBL (2021)
+
+-   [Eddie Peabody](people/peabody-e/about.qmd), plant demography, RMBL (2021)
+
+-   [Jack Snow](people/snow-j/about.qmd), plant demography, RMBL (2018-2020)
+
+-   [Val Watson](people/watson-v/about.qmd), plant demography, RMBL (2018-2019), *currently a Forest Management Research Assistant at the [Schoodic Institute](https://schoodicinstitute.org/), Acadia National Park*
+
+-   [Peter Innes](people/innes-p/about.qmd), plant demography, RMBL (2015-2017), *currently a [postdoc](https://peterinnes.net/) in evolutionary genetics at the University of Colorado*

@@ -1,0 +1,23 @@
+# Origin & maintenance of spatial biodiversity patterns
+
+![*Grasgrond* (photo manipulated), Vincent Van Gogh (1887)](/static/van-gogh-grasgrond.jpg){fig-align="center" width="8in"}
+
+Plant communities create rich, variable tapestries of species mixtures across landscapes. We are studying the processes by which these patterns arise and how spatial variation in biodiversity drives variation in function.
+
+### Species- and coexistence-area relationships in annual plant communities
+
+Plants compete for resources and are themselves resources for consumers. We previously worked at Sedgwick Reserve to understand how the spatial distribution of seed harvesting ants (*Veromessor andrei*) shape the distribution and diversity of annual plant communities through the lens of modern coexistence theory. ETHZ Masters student [Ewa Merz](../people/merz-e/about.qmd) tested how plant community structure changes with distance from ant nests and how seed diversity affects consumption rates.
+
+![Plant competition experiment to parameterize a coexistence model. Different plots have a different dominant species and density into which we planted focal individuals of every other species.](/static/corndog-plots2.JPG){fig-align="center" width="6in"}
+
+### Applying biodiversity-ecosystem function (BEF) to engineering challenges
+
+Diverse plant communities tend to have higher measures of ecosystem function. With NCSU collaborators [Brina Montoya](https://ccee.ncsu.edu/people/bmmorten/) (Civil, Construction, & Environmental Engineering), [Amy Grunden](https://cals.ncsu.edu/plant-and-microbial-biology/people/amgrunde/) (Plant and Microbial Biology), [Celso Castro Bolinaga](https://bae.ncsu.edu/people/cfcastro/) (Biological & Agricultural Engineering), and [Ben Breland](https://www.linkedin.com/in/benjamin-breland-pg-3ab40282) (US Army Corps of Engineers), we are assessing the compatibility of plant species mixes with microbially-induced calcite precipitation (MICP) as a way to increase soil stability on dams, levees, and similar flood control structures.
+
+This collaborative work is supported by a grant from the [US Army Engineer Research & Development Center](https://www.erdc.usace.army.mil/).
+
+![](/static/logo-erdc.PNG){fig-align="center" width="2.5in"}
+
+## Selected publications
+
+-   Petry, W.K., Kandlikar, G.S., Kraft, N.J.B., Godoy, O. & Levine, J.M. **(2018)** A competition-defence trade-off both promotes and weakens coexistence in an annual plant community. [*Journal of Ecology*]{.underline}, 106, 1806–1818. [\[doi\]](https://doi.org/10.1111/1365-2745.13028) [\[pdf\]](publications/Petry et al. - 2018 - A competition–defence trade-off both promotes and .pdf) [\[data\]](https://doi.org/10.5281/zenodo.1256658)

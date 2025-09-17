@@ -1,0 +1,7 @@
+We are a research team focused on illuminating the mechanisms that maintain biodiversity in nature and using our understanding to forecast how ecological systems will respond to our changing world. Our approach is broad, bringing together field & lab experiments, natural history, statistics, math, and code.
+
+We are based in the [Department of Plant & Microbial Biology](https://cals.ncsu.edu/plant-and-microbial-biology/) at North Carolina State University. During the field season, you may also find us crouched among the wildflowers at the [Rocky Mountain Biological Lab](https://www.rmbl.org/) or knee-deep in a bogs at the [University of Michigan Biological Station](https://lsa.umich.edu/umbs).
+
+![DICE Lab and family picnic at the Art Museum park (May 2024)](static/DICE-Lab-May2024.JPG){width="8in"}
+
+North Carolina State University was established with funding from the Morrill Act. [Learn about the history of how Land Grant Universities](https://www.landgrabu.org/).

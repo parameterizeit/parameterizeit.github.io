@@ -1,0 +1,39 @@
+## Group leader
+
+[![](people/petry-w/avatar.jpeg){fig-align="left" width="3in"}](people/petry-w/about.qmd)
+
+**Dr. Will Petry** [\[about\]](people/petry-w/about.qmd) [\[email\]](mailto:wpetry@ncsu.edu) [\[Google Scholar\]](https://scholar.google.com/citations?user=npE9NiAAAAAJ) [\[GitHub\]](https://github.com/wpetry)
+
+Assistant Professor, Department of Plant & Microbial Biology
+
+## Graduate Students
+
+[![](people/schopler-m/avatar.jpg){fig-align="left" width="3in"}](people/schopler-m/about.qmd)
+
+**Melina Schopler** [\[about\]](people/schopler-m/about.qmd) [\[email\]](mailto:mckeighr@ncsu.edu) [\[Google Scholar\]](https://scholar.google.ch/citations?user=zLPPlQkAAAAJ) [\[GitHub\]](https://github.com/mkeighron)
+
+Ph.D. candidate, Plant Biology Graduate Program (2021-present)
+
+[![](people/sears-a/avatar.jpg){fig-align="left" width="3in"}](people/sears-a/about.qmd)
+
+**Alden Sears** [\[about\]](people/sears-a/about.qmd) [\[email\]](mailto:arsears3@ncsu.edu) [\[GitHub\]](https://github.com/AldenSears)
+
+Ph.D. candidate, Plant Biology Graduate Program (2022-present)
+
+[![](people/burroughs-n/avatar.jpg){fig-align="left" width="3in"}](people/burroughs-n/about.qmd)
+
+**Nicole Burroughs** [\[about\]](people/burroughs-n/about.qmd) [\[email\]](mailto:nlesch@ncsu.edu) [\[GitHub\]](https://github.com/nlesch)
+
+Ph.D. student, Microbiology Graduate Program (2023-present)
+
+## Undergraduate Students
+
+![](people/oberg-r/avatar.jpg){fig-align="left" width="3in"}
+
+**Raina Oberg** [\[about\]](people/oberg-r.html)
+
+NCSU undergraduate researcher (2024-present)
+
+## Alumni
+
+Check out our [alumni page](alumni.qmd) for a list of previous lab members.

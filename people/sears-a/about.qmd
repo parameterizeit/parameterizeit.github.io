@@ -1,0 +1,15 @@
+![](avatar.jpg){fig-align="left" width="3in"}
+
+**Alden Sears**
+
+**Ph.D. candidate, Plant Biology Graduate Program**
+
+**National Science Foundation Graduate Research Fellow (NSF-GRF)**
+
+[\[email\]](#0) [\[GitHub\]](#0)
+
+I was raised in San José, Costa Rica, where my interests in species interactions and range dynamics were born. I received my B.S. in Ecology and Evolutionary Biology from Rice University after completing thesis research on the contribution of pollination patterns to creosote (*Larrea tridentata*) range dynamics in the Chihuahuan desert. In my doctoral research at DICE Lab, I am computationally exploring the consequences of using phenomenological models such as the competitive Lotka-Volterra to predict patterns of multispecies community assembly. In summer 2023, I will begin an experiment at the Rocky Mountain Biological Laboratory quantifying the effects of plant-pollinator and plant-predator interactions on multispecies plant coexistence. Outside the lab I am a hiker, philosopher, poet, runner, and advocate for increasing access to science opportunities for low-income students and those facing other forms of financial instability.
+
+### Selected publications
+
+-   Armitage, D.W., Alonso-Sánchez, A.G., Coy, S.R., Cheng, Z., Hagenbeck, A., López-Martínez, K.P., Phua, Y.H., A.R. Sears **(preprint)** Adaptive pangenomic remodeling in the *Azolla* cyanobiont amid a transient microbiome. [\[preprint\]](https://www.biorxiv.org/content/10.1101/2025.03.24.644982v1)

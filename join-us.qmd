@@ -1,0 +1,69 @@
+![Ryerse Lake, upper peninsula of Michigan.](static/ryerse_lake.JPG){fig-align="center" width="8in"}
+
+We work at the **interface of experiments, mathematical models, and theory** to answer questions about the **maintenance of species diversity, ecological forecasting, and population dynamics**. Our work encompasses a broad range of study systems—including plants, microbes, pollinators—and methodological approaches, all anchored by the common goal of understanding the biodiversity in changing environments. If these topics inspire you too, we hope you’ll consider opportunities to join us as we work to expand access to ecology for all.
+
+## Graduate students
+
+::: callout-note
+## For the 2025 application cycle, we are only able to consider applicants who would bring fellowship funding to support their tuition, fees, and stipend for the initial few years. Please make sure to highlight the fellowships you're eligible for, and ideas for your application. *updated: fall 2025*
+:::
+
+Prospective graduate students who want to do ecological research on questions related to biodiversity in changing environments should [email Dr. Petry](people/petry-w/about.qmd) in the late summer or early fall with the following pieces of information:
+
+-   A short paragraph describing the **ecological concepts and questions** that you want to study. Be as specific as you can. Concrete details help to show that you’ve prepared yourself for graduate research through background reading of the scientific literature and reflection on your aims. As part of this, please also explain why you think our lab (or a co-advising arrangement with another lab at NCSU) would be a good fit to support your research interests.
+
+-   The degree you are seeking (M.S. or Ph.D.) and a short paragraph outlining your **motivation and preparedness** for pursuing graduate research. Be sure to answer (i) Why are you interested in pursuing a graduate degree and (ii) What previous studies and experiences have prepared you for graduate research?[^join-us-1]
+
+-   Indicate whether you have applied or would like to work together on a fellowship application (e.g., [NSF GRFP](https://www.nsfgrfp.org/) or [others](https://www.pathwaystoscience.org/Grad.aspx)).
+
+-   Your current CV (see advice [here](https://wordvice.com/how-to-write-a-flawless-cv-curriculum-vitae-for-graduate-school/) and [here](https://www.prepscholar.com/gre/blog/how-to-write-a-cv-for-graduate-school/)).
+
+[^join-us-1]: Changing fields? A record of ecology-focused study and research experience can help, but isn’t necessary. Many great ecologists started off in completely different disciplines. Just be sure to explain why you want to study ecology, and think creatively about how the skills you’ve gained in your discipline can transfer or give you unique insight into ecological processes.
+
+Our Department offers two programs for graduate students, each of which has a Masters and Ph.D. track: [Plant Biology](https://cals.ncsu.edu/plant-and-microbial-biology/students/graduate/pb-grad-homepage/) and [Microbiology](https://cals.ncsu.edu/plant-and-microbial-biology/students/graduate/mb-grad-programs/). Both have December/January application deadlines for admission in the following Fall. I am also open to students in [Biomathematics](http://bma.math.ncsu.edu/). None of these programs requires GRE scores, and I do not use them when evaluating prospective students. Students may also be admitted through any [other graduate program at NCSU](https://grad.ncsu.edu/programs/), although there may be additional logistical hurdles.
+
+Applying to graduate programs is very different from applying to undergraduate programs. These differences are especially strong in ecology & evolutionary biology in the USA, where student usually apply to a particular adviser’s lab (vs. general admission into a school/degree program). This usually means that prospective students need to contact potential advisers prior to formally applying to discuss research interest overlap and ensure that the adviser is able to accept students. Understanding the process is key component of a successful application, and the following resources offer a good starting place:
+
+-   [How-to guide](https://www.mordecailab.com/blog/applying-for-grad-school) for ecology and evolution programs compiled by Erin Mordecai’s lab.
+
+-   [NCSU’s resources](https://grad.ncsu.edu/students/international-students/) for international applicants & graduate students.
+
+## Postdocs
+
+::: callout-note
+## There are no funded postdoc opportunities at this time. Please contact us if you're interested to pursue a postdoctoral fellowship. *updated: fall 2025*
+:::
+
+Prospective postdocs should have a relevant research background, demonstrated publication record, and clear motivation for why they’d like to join the lab. There are three mechanisms through which this can happen:
+
+-   **Advertised positions:** these are usually funded through an existing grant and will be announced broadly via ECOLOG, Twitter, and similar venues ([why we advertise](https://www.chronicle.com/article/how-the-opaque-way-we-hire-postdocs-contributes-to-sciences-diversity-problem/))
+
+-   **Fellowships:** these are initiated by the prospective postdoc, based on a collaboratively-developed application to a specific fellowship competition (several lists of eco/evo postdoc fellowships are available, e.g., [here](http://biologypostdocs.weebly.com/north-america.html), [here](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html#Postdoc), & [here](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0))
+
+-   **Grants** (uncommon): these are the same federally-funded research grants with support for a postdoc position as the advertised position, but are written collaboratively with the postdoc that would fill the position
+
+We’re especially keen to have postdocs join the group whose expertise complements ours, enabling us to collaboratively answer new questions that neither of us could have done alone. We view complementarity broadly–inclusive of bridges between (sub)disciplines, between fundamental and applied ecology, and between academia and industry/government/NGOs.
+
+For advertised positions, specific application instructions will be included in the post. Postdoctoral candidates interested in seeking their own fellowship funding should [email Dr. Petry](people/petry-w/about.qmd) well in advance of the application deadline with (i) a brief summary of your research background and interests, (ii) a ‘pitch’ of your project idea, and (iii) your current CV.
+
+## Undergraduate students
+
+::: callout-note
+## There are no undergraduate research opportunities at NCSU at this time. *updated: fall 2025*
+:::
+
+Participating in undergraduate research is an unparalleled way to engage in the scientific discovery process and explore the possibility of a career in research. We anticipate regular openings during the academic year to assist with research projects for course credit, fulfillment of a degree requirement, work study, or pay ( more here). Interested undergraduates should email me with a paragraph outlining their motivation and preparedness for research (e.g., relevant coursework or previous research experience).
+
+We also may have opportunities during the summer to engage in field research in the [Rocky Mountains](https://www.rmbl.org/students/undergraduates-beyond/summer-education-programreu/) and in [northern Michigan](https://lsa.umich.edu/umbs/students.html). These include educational programs for course credit, fully-funded & paid independent research through the NSF-REU program, and seasonal technician jobs (see below). Interested students may [email Dr. Petry](people/petry-w/about.qmd) at anytime to discuss these opportunities, but should do so **no later than January 15th** if applying for an NSF-REU (application deadlines are usually in February).
+
+## Seasonal field technicians
+
+::: callout-note
+## Please check back in December/January for opportunities for summer 2026. *updated fall 2025*
+:::
+
+We typically hire 1-2 summer field technicians to help us collect data from ongoing projects in Colorado (plant population responses to climate change) and/or Michigan (microbial food webs in Sarracenia pitcher plants). Advertisements for these openings will be announced here, on ECOLOG, and other platforms in January/February for fieldwork occurring from June through August. These are great opportunities for nearly- or recently-graduated undergraduate students thinking about graduate school in ecology or work in the environmental sciences. These positions are paid at a competitive hourly rate, plus travel to/from the field station and on-site housing.
+
+## Academic visitors
+
+We welcome visiting academics at all stages who want to work on a project with us. Typically this will require you acquire your own funding or work with us on a joint proposal via your home lab/institution, a [Fulbright Commission](https://eca.state.gov/fulbright/about-fulbright/funding-and-administration/fulbright-commissions), or a national science funding agency. Please [email Dr. Petry](people/petry-w/about.qmd) and include a brief description of the project, the ideal start date and duration of your visit, and information about the funding you have or are seeking.

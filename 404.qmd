@@ -1,0 +1,11 @@
+---
+title: "[404 error] Uh oh, looks like you're lost"
+---
+
+![](static/mountain-goat.JPG){fig-align="center" width="8in"}
+
+The mountain goat we hired to find lost folks has found you. On the bright side, he beat the mountain lion to you.
+
+The page you requested cannot be found. Perhaps it was moved or renamed, or maybe just a typo. Please return to the main menu or try the search bar to find what you're looking for.
+
+If you think this error is our mistake, we'd be grateful if you'd let us know by posting an [issue in the GitHub repository](https://github.com/parameterizeit/parameterizeit.github.io/issues/new/choose) that contains this website or contacting us by [email](mailto:wpetry@ncsu.edu).

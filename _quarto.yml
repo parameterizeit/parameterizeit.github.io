@@ -1,0 +1,75 @@
+project:
+  type: website
+
+website:
+  title: "DICE Lab: Diversity In Changing Environments"
+  favicon: static/icon.png
+  # announcement:
+  #   icon: info-circle-fill
+  #   dismissable: true
+  #   content: "**Prospective graduate students:** please read the 'Join us' page for information on the 2025 application cycle"
+  #   type: primary
+  #   position: below-navbar
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - text: "Research"
+        menu:
+          - href: research/food-web-dynamics.qmd
+            text: "Predicting food web dynamics & diversity"
+          - href: research/life-cycles-change.qmd
+            text: "Complex life cycles under rapid environmental change"
+          - href: research/pollination-demography.qmd
+            text: "Plant population dynamics under changing pollination regimes"
+          - href: research/spatial-biodiversity.qmd
+            text: "Origins & maintenance of spatial biodiversity patterns"
+          - href: research/global-ecology.qmd
+            text: "Global-scale ecology"
+      - text: "People"
+        menu:
+          - href: people.qmd
+            text: "Current members"
+          - href: alumni.qmd
+            text: "Alumni"
+      - href: publications.qmd
+        text: "Publications"
+      - text: "Software"
+        menu:
+          - href: https://dicelab-ncsu.github.io/invasiongraph/
+            text: "invasiongraph: community assembly analyses for invasion graphs"
+          - href: https://ecodynamics.shinyapps.io/StructuralCoexistence/
+            text: "Structural approaches to multispecies coexistence"
+          - href: https://jonesor.github.io/Rage/
+            text: "Rage: calculating life history metrics from matrix population models"
+          - href: https://jonesor.github.io/Rcompadre/
+            text: "Rcompadre: interface to COM(P)ADRE matrix population model databases"
+          - href: https://dicelab-ncsu.github.io/reachr/
+            text: "reachr: tools for working with Emlid GNSS receivers"
+      - href: join-us.qmd
+        text: "Join us"
+      - href: contact.qmd
+        text: "Contact"
+    right:
+      - icon: github
+        href: https://github.com/DICELab-NCSU
+      - icon: mortarboard-fill
+        href: https://scholar.google.ch/citations?user=npE9NiAAAAAJ
+      - icon: building-fill
+        href: https://cals.ncsu.edu/plant-and-microbial-biology/
+  open-graph: true
+  page-footer:
+    center:
+      - "© 2025 DICE Lab; excluding artworks & photos that are attributed to their creators"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+

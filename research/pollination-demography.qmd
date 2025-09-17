@@ -1,0 +1,27 @@
+# Plant population dynamics under changing pollination regimes 
+
+![Study sketch for Incomplete Open Cubes, Sol LeWitt (c.1970)](/static/lewitt-studies-for-incomplete-cubes.png){fig-align="center" width="8in"}
+
+Reproduction in plant species depend, at least in part, on animal pollinators to transfer pollen between stationary individual plants. Therefore, seed production and plant population persistence *must* depend on pollination, but theory suggests that it may not be a simple, straightforward relationship. Understanding these relationships will be essential to effective conservation of plant biodiversity amid the mounting evidence for pollinator declines and increasing numbers of pollinator species in peril.
+
+### Experimental pollination demography
+
+Plants face uncertainty in the availability of pollination services that can drastically change their costs of reproduction from one year to the next. With collaborators [Amy Iler](https://amymarieiler.weebly.com/) and [Paul CaraDonna](https://paulcaradonna.weebly.com/) (Chicago Botanic Garden), we are experimentally altering the amount of pollination perennial plants receive and following their demographic responses across the full life cycle. Our work is grappling with the role of trade-offs and stochasticity to better understand how population dynamics are buffered against (or susceptible to) changes in their species interaction partners.
+
+This collaborative work is supported by NSF DEB awards [1754518](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1754518&HistoricalAwards=false), [2337426](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337426&HistoricalAwards=false), and [2337427](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2337427&HistoricalAwards=false).
+
+![](/static/logo-nsf.jpg){fig-align="center" width="0.75in"}
+
+![Censusing Hydrophyllum fendleri (Boraginaceae) with (L to R): Sarah Walwema, Rachel Dickson, Justin Bain, Amy Iler, and Will Petry. Photo: P.J. CaraDonna](/static/pollination-demog-hyfe-census.jpg){fig-align="center" width="4.5in"}
+
+### Pollinator network rewiring & functional compensation during pollinator extinctions
+
+A pollinator extinction opens up opportunities for remaining pollinator species to access floral resources that were dominated by the lost species. A single interaction change can trigger others that ripple through the entire network as every other species responds to interaction rewiring that impacts their preferred flower species. NSF Graduate Research Fellow [Melina Schopler](../people/schopler-m/about.qmd) is leading an experiment to understand how pollination networks rewire and the consequences of network structure for realized pollination service.
+
+![Pollinator mesocosms for extinction experiment. Photo: M. Schopler](/static/extinction-mesocosm.jpeg){fig-align="center" width="6in"}
+
+## Selected publications
+
+-   Bain, J.A., Ogilvie, J.E., Petry, W.K. & CaraDonna, P.J. **(2025)** Nutrient niche dynamics among wild pollinators. [*Proceedings of the Royal Society - B*]{.underline}, 292, 20250643. [\[doi\]](https://doi.org/10.1098/rspb.2025.0643) [\[pdf\]](publications/Bain et al. - 2025 - Nutrient niche dynamics among wild pollinators.pdf) [\[data\]](https://doi.org/10.17605/OSF.IO/JNBHZ)
+
+-   CaraDonna, P.J., Petry, W.K., Brennan, R.M., Cunningham, J.L., Bronstein, J.L., Waser, N.M., Sanders, N.J. **(2017)** Interaction rewiring and the rapid turnover of plant-pollinator networks. [*Ecology Letters*]{.underline}, 20, 385–394. [\[doi\]](https://doi.org/10.1111/ele.12740) [\[pdf\]](publications/CaraDonna et al. - 2017 - Interaction rewiring and the rapid turnover of plant-pollinator networks.pdf) [\[data\]](https://doi.org/10.5061/dryad.s91p4)
