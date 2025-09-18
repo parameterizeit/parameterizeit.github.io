@@ -20,7 +20,7 @@ website:
           - href: research/food-web-dynamics.qmd
             text: "Predicting food web dynamics & diversity"
           - href: research/life-cycles-change.qmd
-            text: "Complex life cycles under rapid environmental change"
+            text: "Persistence of complex life cycles under rapid environmental change"
           - href: research/pollination-demography.qmd
             text: "Plant population dynamics under changing pollination regimes"
           - href: research/spatial-biodiversity.qmd
@@ -46,7 +46,7 @@ website:
           - href: https://jonesor.github.io/Rcompadre/
             text: "Rcompadre: interface to COM(P)ADRE matrix population model databases"
           - href: https://dicelab-ncsu.github.io/reachr/
-            text: "reachr: tools for working with Emlid GNSS receivers"
+            text: "reachr: tools for working with Emlid RTK-GNSS receivers"
       - href: join-us.qmd
         text: "Join us"
       - href: contact.qmd
@@ -55,7 +55,7 @@ website:
       - icon: github
         href: https://github.com/DICELab-NCSU
       - icon: mortarboard-fill
-        href: https://scholar.google.ch/citations?user=npE9NiAAAAAJ
+        href: https://scholar.google.com/citations?user=UJk1BokAAAAJ
       - icon: building-fill
         href: https://cals.ncsu.edu/plant-and-microbial-biology/
   open-graph: true

@@ -1,4 +1,4 @@
-# Plant population dynamics under changing pollination regimes 
+# Plant population dynamics under changing pollination regimes
 
 ![Study sketch for Incomplete Open Cubes, Sol LeWitt (c.1970)](/static/lewitt-studies-for-incomplete-cubes.png){fig-align="center" width="8in"}
 
@@ -22,6 +22,6 @@ When a pollinator goes extinct, remaining species gain access to floral resource
 
 ## Selected publications
 
--   Bain, J.A., Ogilvie, J.E., Petry, W.K. & CaraDonna, P.J. **(2025)** Nutrient niche dynamics among wild pollinators. [*Proceedings of the Royal Society - B*]{.underline}, 292, 20250643. [\[doi\]](https://doi.org/10.1098/rspb.2025.0643) [\[pdf\]](publications/Bain et al. - 2025 - Nutrient niche dynamics among wild pollinators.pdf) [\[data\]](https://doi.org/10.17605/OSF.IO/JNBHZ)
+-   Bain, J.A., Ogilvie, J.E., Petry, W.K. & CaraDonna, P.J. **(2025)** Nutrient niche dynamics among wild pollinators. [*Proceedings of the Royal Society - B*]{.underline}, 292, 20250643. [\[doi\]](https://doi.org/10.1098/rspb.2025.0643) [\[pdf\]](publications/Bain%20et%20al.%20-%202025%20-%20Nutrient%20niche%20dynamics%20among%20wild%20pollinators.pdf) [\[data\]](https://doi.org/10.17605/OSF.IO/JNBHZ)
 
--   CaraDonna, P.J., Petry, W.K., Brennan, R.M., Cunningham, J.L., Bronstein, J.L., Waser, N.M., Sanders, N.J. **(2017)** Interaction rewiring and the rapid turnover of plant-pollinator networks. [*Ecology Letters*]{.underline}, 20, 385–394. [\[doi\]](https://doi.org/10.1111/ele.12740) [\[pdf\]](publications/CaraDonna et al. - 2017 - Interaction rewiring and the rapid turnover of plant-pollinator networks.pdf) [\[data\]](https://doi.org/10.5061/dryad.s91p4)
+-   CaraDonna, P.J., Petry, W.K., Brennan, R.M., Cunningham, J.L., Bronstein, J.L., Waser, N.M., Sanders, N.J. **(2017)** Interaction rewiring and the rapid turnover of plant-pollinator networks. [*Ecology Letters*]{.underline}, 20, 385–394. [\[doi\]](https://doi.org/10.1111/ele.12740) [\[pdf\]](publications/CaraDonna%20et%20al.%20-%202017%20-%20Interaction%20rewiring%20and%20the%20rapid%20turnover%20of%20plant-pollinator%20networks.pdf) [\[data\]](https://doi.org/10.5061/dryad.s91p4)

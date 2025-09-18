@@ -1,14 +1,16 @@
-# Complex life cycles under rapid environmental change
+# Persistence of complex life cycles under rapid environmental change
 
-![La teoría de un rumor, Ulises Carrión (1978)](/static/carrion-la-teoria-de-un-rumor.png){fig-align="center" width="8in"}
+![*La teoría de un rumor*, Ulises Carrión (1978)](/static/carrion-la-teoria-de-un-rumor.png){fig-align="center" width="8in"}
 
-How will populations behave when the environment keeps changing? Climate change is altering the means, variances, and temporal autocorrelations of the key abiotic factors that underlie species performance. Understanding how these changes will impact species’ long-term fates is a key challenge that must be resolved in order to effectively forecast and mitigate climate change-driven biodiversity loss. Predicting the fates of organisms with simple, short-lived life histories should be relatively straightforward: These species should persist as long as the birth rate is greater than or equal to the death rate across the full range of future climatic conditions. However, many organisms have complex life cycles that span multiple years with individual demographic rates differing by age, size, stage, or sex. These organisms will experience climatic conditions over their lifespans that will range from historic norms to entirely novel conditions. The ability of species with complex, perennial life cycles to persist under climate change will therefore depend on their ability to successfully exploit climatically favorable years and buffer against unfavorable years.
+How will populations behave when the environment keeps changing? Climate change is altering the means, variances, and temporal autocorrelations of the key abiotic factors that underlie species performance. Understanding how these changes will impact species’ long-term fates is a key challenge that must be resolved in order to effectively forecast and mitigate climate change-driven biodiversity loss. Predicting the fates of organisms with simple, short-lived life histories should be relatively straightforward: These species should persist as long as the birth rate is greater than or equal to the death rate across the full range of future climatic conditions. However, many organisms have complex life cycles that span multiple years with individual demographic rates differing by age, size, stage, or sex. These organisms will experience climatic conditions over their lifespans that will range from historic norms to entirely novel conditions, potentially creating more ways the life cycle could break. The ability of species with complex, perennial life cycles to persist under climate change will therefore depend on their ability to successfully exploit climatically favorable years and buffer against unfavorable years.
 
 ### Sex ratio change in dioecious plants
 
 For more than a decade, we’ve collected annual, individual-level demographic data on the long-lived, dioecious plant *Valeriana edulis* (Caprifoliaceae) across its broad elevation range near the [Rocky Mountain Biological Laboratory](https://www.rmbl.org/). By fusing these long-term data with historic data and field experiments, we are building a demographic forecasting platform that grapples with the complexities of life history and the nature and pace of climate change. This will enable us to not only forecast the future size, composition, sex ratio, and fate of *Valeriana* populations, but confront these predictions with true out-of-sample observed data in future years. Inspired by this empirical work, we are developing theory to generalize our understanding of how populations behave under changing environmental conditions.
 
 This long-term ecological research has been supported by grants from NSF DEB [1407318](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1407318&HistoricalAwards=false) and [1457029](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1457029&HistoricalAwards=false).
+
+![](/static/logo-nsf.jpg){fig-align="center" width="0.75in"}
 
 ![*Valeriana edulis* growing at its current upper elevation range limit (3790 m).](/static/valeriana-frigid-air.jpg){fig-align="center" width="3.75in"}
 
@@ -21,6 +23,10 @@ Monocarpic plants exhibit an unusual life history in which they grow vegetativel
 ### Endemism, rarity, and conservation
 
 Some species have large ranges, whereas others are restricted to very small areas that increase their vulnerability to extinction. In 2024, we began collaborating with Ian Breckheimer (RMBL) to understand the mechansims of local-to-landscape level variation in abundance in the Colorado rare plant, *Physaria alpina* (Brassicaceae). We are pairing traditional plot-scale demography with a drone-mounted advanced imaging suite to scale up our understanding of variation in plant performance. This work is advancing our understanding of fundamental plant ecology questions while simultaneously supporting conservation priorities of the [Colorado Natural Heritage Program](https://cnhp.colostate.edu/rareplant/details/?plantID=23986) and the Colorado Parks and Wildlife [State Wildlife Action Plan](https://cpw.state.co.us/conservation-plans).
+
+The seed funds for this work came from the Myrna Steinkamp Grant for research on rare plants from the [Colorado Native Plant Society](https://conps.org/).
+
+![](/static/logo-conps.png){fig-align="center" width="1.25in"}
 
 ![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.png){fig-align="center" width="6in"}
 

@@ -1,0 +1,33 @@
+<!--# This is a comment that won't appear on the page. You can delete these or leave them alone. They are here to offer tips and a formatting/style guide for each component of the page. Please try to follow these. -->
+
+![](/static/avatar.jpg){fig-align="left" width="3in"}
+
+<!--# Replace the dice image with a square-ish portrait photo where your face is reasonably unobscured called "avatar.jpg" and located in the corresponding person's subfolder. Feel welcome to use a photo that shows your interests/personality as long as it meets the above criteria and it's appropriate for a public-facing representation of our lab group. If you don't want a picture of your face on our website, feel free to keep the dice avatar. -->
+
+<!--# Set the image to align LEFT and a width of 3 inches. -->
+
+**\[First name\] \[Last name\]**
+
+<!--# First and last name are bolded and on their own line. -->
+
+**\[Role in lab\] (\[year joined\]-present)**
+
+<!--# Lab role should be specific (i.e., "Ph.D. student" not "Graduate student") and reasonably match terminology for other people in similar position. -->
+
+**\[Additional titles, if applicable\]**
+
+<!--# Additional titles in bold text on their own line. These generally refer to graduate/postdoc fellowships (e.g., NSF-GRFP). Delete this line if not applicable--we still think you're amazing. -->
+
+[\[email\]](mailto:your@email.com) \[Google Scholar\] \[GitHub\] [\[cv\]](people/lastname-firstinitial/cv.pdf)
+
+<!--# [email] should be your NCSU/professional email address. This is set up as a link that is prefixed with "mailto:". If you prefer not to post your email, delete this text+link. -->
+
+<!--# [Google Scholar] and [GitHub] should be a standard hyperlink to your Google Scholar and GitHub profile pages, respectively. If you don't have one or don't want it linked here, delete this text+link. -->
+
+<!--# [cv] links to a pdf of your curriculum vitae. Place that file in the same subfolder where this about.qmd is located and name it "cv.pdf". The file path for the link should be editted to insert the correct [family name]-[given name initial] slug. -->
+
+\[Blurb about your professional interests, activities in the lab, professional history, and/or statement about who you are. In short, the impossible task of summing up your whole self in a few sentences.\]
+
+### Selected publications
+
+<!--# Level 3 header in sentence case followed by a list of selected publications following the formatting style used on the Publications page. If they were completed in the DICE Lab, please add them to the Publications page, too. If you don't have publications yet, or prefer not to post them here, please delete the full "Selected publications" header. -->
