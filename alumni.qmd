@@ -14,7 +14,11 @@
 
 -   Caleb Boxwell, RMBL education program (2025)
 
+-   Ruby Jewett, RMBL education program (2025)
+
 -   Jake Davis, RMBL education program (2024)
+
+-   David Esquivel, RMBL education program (2024)
 
 -   Zachary Dodd, NCSU (2023-2024)
 
@@ -30,7 +34,7 @@
 
 -   Lucy (Yifei) Zhang, RMBL education program (2020), *currently a Masters student at Duke Kunshan University*
 
-### Field technicians
+### Field & lab technicians
 
 -   Jake Davis, plant demography, RMBL (2025)
 
@@ -39,6 +43,8 @@
 -   E Redick, phenology experiment, NCSU (2024)
 
 -   Sarah Hoffman, plant demography, RMBL (2023)
+
+-   [Nicole Burroughs](people/burroughs-n/about.qmd), lab manager, NCSU (2022-2023), *currently a Ph.D. student in the DICE Lab*
 
 -   Ce Compton, plant demography, RMBL (2022)
 
