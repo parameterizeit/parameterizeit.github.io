@@ -1,6 +1,6 @@
 # Plant population dynamics under changing pollination regimes
 
-![Study sketch for Incomplete Open Cubes, Sol LeWitt (c.1970)](/static/lewitt-studies-for-incomplete-cubes.png){fig-align="center" width="8in"}
+![Study sketch for Incomplete Open Cubes, Sol LeWitt (c.1970)](/static/lewitt-studies-for-incomplete-cubes.jpeg){fig-align="center" width="8in"}
 
 Reproduction in plant species depend, at least in part, on animal pollinators to transfer pollen between stationary individual plants. Therefore, seed production and plant population persistence *must* depend on pollination, but theory suggests that it may not be a simple, straightforward relationship. Understanding these relationships will be essential to effective conservation of plant biodiversity amid the mounting evidence for pollinator declines and increasing numbers of pollinator species in peril.
 

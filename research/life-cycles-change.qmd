@@ -1,6 +1,6 @@
 # Persistence of complex life cycles under rapid environmental change
 
-![*La teoría de un rumor*, Ulises Carrión (1978)](/static/carrion-la-teoria-de-un-rumor.png){fig-align="center" width="8in"}
+![*La teoría de un rumor*, Ulises Carrión (1978)](/static/carrion-la-teoria-de-un-rumor.jpeg){fig-align="center" width="8in"}
 
 How will populations behave when the environment keeps changing? Climate change is altering the means, variances, and temporal autocorrelations of the key abiotic factors that underlie species performance. Understanding how these changes will impact species’ long-term fates is a key challenge that must be resolved in order to effectively forecast and mitigate climate change-driven biodiversity loss. Predicting the fates of organisms with simple, short-lived life histories should be relatively straightforward: These species should persist as long as the birth rate is greater than or equal to the death rate across the full range of future climatic conditions. However, many organisms have complex life cycles that span multiple years with individual demographic rates differing by age, size, stage, or sex. These organisms will experience climatic conditions over their lifespans that will range from historic norms to entirely novel conditions, potentially creating more ways the life cycle could break. The ability of species with complex, perennial life cycles to persist under climate change will therefore depend on their ability to successfully exploit climatically favorable years and buffer against unfavorable years.
 
@@ -28,7 +28,7 @@ The seed funds for this work came from the Myrna Steinkamp Grant for research on
 
 ![](/static/logo-conps.png){fig-align="center" width="1.25in"}
 
-![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.png){fig-align="center" width="6in"}
+![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.jpeg){fig-align="center" width="6in"}
 
 ## Selected publications
 

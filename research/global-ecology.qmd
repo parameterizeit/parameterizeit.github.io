@@ -1,6 +1,6 @@
 # Global-scale ecology
 
-![*Cosmic Thing*, Damian Ortega (2002)](/static/ortgega-cosmic-thing.jpg){fig-align="center" width="8in"}
+![*Cosmic Thing*, Damian Ortega (2002)](/static/ortgega-cosmic-thing.jpeg){fig-align="center" width="8in"}
 
 Process-level ecological data are usually collected locally, making scaling to the landscape and global scale a dubious exercise. I’m collaborating with three projects that seek to remedy this deficiency by using global databases & distributed experiments.
 
@@ -16,7 +16,7 @@ Species diversity generally increases towards the Equator, and the extent to whi
 
 The [Global Dummy Caterpillar Project](http://www.helsinki.fi/foodwebs/dummycaterpillars/index.htm) deployed plasticine caterpillar mimics around the world to measure predation rates by multiple taxa, distinguished by mouth marks left in the plasticine. We found strong evidence of higher predation in the tropics with a parallel pattern over elevation with stronger predation in the lowlands.
 
-![Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin](/static/zackenberg-dummy-caterpillar.png){alt="Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin" fig-align="center" width="6in"}
+![Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin](/static/zackenberg-dummy-caterpillar.jpeg){fig-align="center" width="6in"}
 
 ### PlantPopNet: Scaling up demography
 

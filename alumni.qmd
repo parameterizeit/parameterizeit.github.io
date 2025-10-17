@@ -1,6 +1,6 @@
 # Lab alumni
 
-![*Hill 1, Wheat*, Hajime Namiki (2000)](static/namiki-hill1-wheat.jpg){fig-align="center"}
+![*Hill 1, Wheat*, Hajime Namiki (2000)](static/namiki-hill1-wheat.jpg){fig-align="center" width="8in"}
 
 ### Graduate students
 

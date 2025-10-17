@@ -1,4 +1,4 @@
-![Ryerse Lake, upper peninsula of Michigan.](static/ryerse_lake.JPG){fig-align="center" width="8in"}
+![Ryerse Lake, upper peninsula of Michigan.](static/ryerse_lake.jpeg){fig-align="center" width="8in"}
 
 We work at the **interface of experiments, mathematical models, and theory** to answer questions about the **maintenance of species diversity, ecological forecasting, and population dynamics**. Our work encompasses a broad range of study systems—including plants, microbes, pollinators—and methodological approaches, all anchored by the common goal of understanding the biodiversity in changing environments. If these topics inspire you too, we hope you’ll consider opportunities to join us as we work to expand access to ecology for all.
 
