@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://parameterizeit.github.io/people.html</loc>
-    <lastmod>2025-09-29T19:14:57.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/people/sears-a/about.html</loc>
-    <lastmod>2025-09-29T19:14:58.037Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/people/about-template.html</loc>
-    <lastmod>2025-09-29T19:14:57.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/people/petry-w/about.html</loc>
-    <lastmod>2025-09-29T19:14:58.009Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/research/spatial-biodiversity.html</loc>
-    <lastmod>2025-09-29T19:14:58.171Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/research/food-web-dynamics.html</loc>
-    <lastmod>2025-09-29T19:14:58.170Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/publications.html</loc>
-    <lastmod>2025-09-29T19:14:58.042Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/alumni.html</loc>
-    <lastmod>2025-09-29T19:14:57.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/index.html</loc>
-    <lastmod>2025-09-29T19:14:57.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/contact.html</loc>
-    <lastmod>2025-09-29T19:14:57.993Z</lastmod>
-  </url>
-  <url>
     <loc>https://parameterizeit.github.io/join-us.html</loc>
-    <lastmod>2025-09-29T19:14:57.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/research/pollination-demography.html</loc>
-    <lastmod>2025-09-29T19:14:58.170Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/research/global-ecology.html</loc>
-    <lastmod>2025-09-29T19:14:58.170Z</lastmod>
+    <lastmod>2025-10-17T18:21:11.301Z</lastmod>
   </url>
   <url>
     <loc>https://parameterizeit.github.io/research/life-cycles-change.html</loc>
-    <lastmod>2025-09-29T19:14:58.170Z</lastmod>
+    <lastmod>2025-10-17T18:21:11.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/research/spatial-biodiversity.html</loc>
+    <lastmod>2025-10-17T18:21:11.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/index.html</loc>
+    <lastmod>2025-10-17T18:21:11.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/alumni.html</loc>
+    <lastmod>2025-10-17T18:21:11.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/contact.html</loc>
+    <lastmod>2025-10-17T18:21:11.301Z</lastmod>
   </url>
   <url>
     <loc>https://parameterizeit.github.io/people/oberg-r/about.html</loc>
-    <lastmod>2025-09-29T19:14:58.008Z</lastmod>
-  </url>
-  <url>
-    <loc>https://parameterizeit.github.io/people/burroughs-n/about.html</loc>
-    <lastmod>2025-09-29T19:14:57.997Z</lastmod>
+    <lastmod>2025-10-17T18:21:11.316Z</lastmod>
   </url>
   <url>
     <loc>https://parameterizeit.github.io/people/schopler-m/about.html</loc>
-    <lastmod>2025-09-29T19:14:58.031Z</lastmod>
+    <lastmod>2025-10-17T18:21:11.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/people/burroughs-n/about.html</loc>
+    <lastmod>2025-10-17T18:21:11.305Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/people.html</loc>
+    <lastmod>2025-10-17T18:21:11.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/people/petry-w/about.html</loc>
+    <lastmod>2025-10-17T18:21:11.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/people/sears-a/about.html</loc>
+    <lastmod>2025-10-17T18:21:11.345Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/people/about-template.html</loc>
+    <lastmod>2025-10-17T18:21:11.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/publications.html</loc>
+    <lastmod>2025-10-17T18:21:11.350Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/research/pollination-demography.html</loc>
+    <lastmod>2025-10-17T18:21:11.478Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/research/food-web-dynamics.html</loc>
+    <lastmod>2025-10-17T18:21:11.477Z</lastmod>
+  </url>
+  <url>
+    <loc>https://parameterizeit.github.io/research/global-ecology.html</loc>
+    <lastmod>2025-10-17T18:21:11.478Z</lastmod>
   </url>
 </urlset>
