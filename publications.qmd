@@ -1,8 +1,6 @@
-::: {.callout-note appearance="simple"}
-## PDFs of all DICE Lab papers are freely available via the links below. Papers since \~2016 also have freely available datasets and code linked, when relevant. Please [contact us](people.qmd) if you encounter any issues accessing our research products.
-:::
-
 ![*Smell of ink* (detail), Hansjörg Mayer (2017)](static/mayer-smell-of-ink.jpg){fig-align="center" width="8in"}
+
+PDFs of all DICE Lab papers are freely available via the links below. Papers since \~2016 also have freely available datasets and code linked, when relevant. Please [contact us](contact.qmd) if you encounter any issues accessing our research products.
 
 ### Preprints
 
@@ -14,7 +12,7 @@
 
 ### Peer-reviewed publications
 
--   Schopler, M., Simha, A., Dalton, R.M., Wilson, E.M., Redick, E., Youngsteadt, E., Petry, W.K. **(2026)**. Spring ephemeral *Erythronium umbilicatum* may not be vulnerable to phenological mismatch with overstory trees. [*American Journal of Botany*]{.underline}, e70172 [\[doi\]](https://doi.org/10.1002/ajb2.70172) [\[pdf\]](publications/Schopler et al. - 2026 - Spring ephemeral Erythronium umbilicatum may not be vulnerable to phenological mismatch with.pdf) [\[preprint\]](https://www.biorxiv.org/content/10.1101/2025.05.14.652260v1) [\[data\]](https://doi.org/10.5061/dryad.0k6djhbc9)
+-   Schopler, M., Simha, A., Dalton, R.M., Wilson, E.M., Redick, E., Youngsteadt, E., Petry, W.K. **(2026)**. Spring ephemeral *Erythronium umbilicatum* may not be vulnerable to phenological mismatch with overstory trees. [*American Journal of Botany*]{.underline}, e70172 [\[doi\]](https://doi.org/10.1002/ajb2.70172) [\[pdf\]](publications/Schopler%20et%20al.%20-%202026%20-%20Spring%20ephemeral%20Erythronium%20umbilicatum%20may%20not%20be%20vulnerable%20to%20phenological%20mismatch%20with.pdf) [\[preprint\]](https://www.biorxiv.org/content/10.1101/2025.05.14.652260v1) [\[data\]](https://doi.org/10.5061/dryad.0k6djhbc9)
 
 -   Williams, J., Angert, A., Campbell, A., Compagnoni, A., DeMarche, M., Evans, M., Fowler, J., González, E., Iler, A.M., Loesberg, J., Louthan, A., Martin, A., Moutouama, J., Nordstrom, S., Petry, W.K., Sęn, B., Sheth, S.N., Miller, T.E.X. **(2025)** Linking climate and demography to predict population dynamics and persistence under global change. [*Ecology Letters*]{.underline}, 28, e70238 [\[doi\]](https://doi.org/10.1111/ele.70283) [\[pdf\]](publications/Williams%20et%20al.%20-%202025%20-%20Linking%20climate%20and%20demography%20to%20predict%20population%20dynamics%20and%20persistence%20under%20global%20change.pdf) [\[preprint\]](https://www.authorea.com/doi/full/10.22541/au.175270366.69122163)
 
@@ -24,7 +22,7 @@
 
 -   Baudraz, M.E.A., Childs, D.Z., Kelly, R., Smith, A.L., Villellas, J., \[PlantPop Net, including W.K. Petry\], Buckley, Y.M. **(2025)** Several candidate size metrics explain vital rates across multiple populations throughout a widespread species’ range. [*Journal of Ecology*]{.underline}. [\[doi\]](http://doi.org/10.1111/1365-2745.70148) [\[pdf\]](publications/Baudraz%20et%20al.%20-%20Several%20candidate%20size%20metrics%20explain%20vital%20rates%20across%20multiple%20populations%20throughout%20a%20widespre.pdf) [\[data\]](https://datadryad.org/dataset/doi:10.5061/dryad.mw6m9067c)
 
--   Conlin, M.R., Krings, A., Petry, W., Forrester, J. & Crawford, J. **(2024)** Range-Wide Quantitative Habitat Characterization of Critically Imperiled *Ludwigia ravenii* (Onagraceae). [*Castanea*]{.underline}, 89, 63–95. [\[doi\]](https://doi.org/10.2179/0008-7475.89.1.63) \[pdf\]
+-   Conlin, M.R., Krings, A., Petry, W., Forrester, J. & Crawford, J. **(2024)** Range-Wide Quantitative Habitat Characterization of Critically Imperiled *Ludwigia ravenii* (Onagraceae). [*Castanea*]{.underline}, 89, 63–95. [\[doi\]](https://doi.org/10.2179/0008-7475.89.1.63) [\[pdf\]](publications/Conlin et al. - 2024 - Range-Wide quantitative habitat characterization of critically imperiled Ludwigia ravenii.pdf)
 
 -   Blonder, B.W., Gaüzère, P., Iversen, L.L., Ke, P.-J., Petry, W.K., Ray, C.A., Salguero-Gómez, R., Sharpless, W., Violle, C. **(2023)** Predicting and controlling ecological communities via trait and environment mediated parameterizations of dynamical models. [*Oikos*]{.underline}, e09415. [\[doi\]](https://doi.org/10.1111/oik.09415) [\[pdf\]](publications/Blonder%20et%20al.%20-%202023%20-%20Predicting%20and%20controlling%20ecological%20communities%20via%20trait%20and%20environment%20mediated%20parameterizatio.pdf) [\[data\]](https://zenodo.org/record/7576397)
 

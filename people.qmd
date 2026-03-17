@@ -28,11 +28,23 @@ Ph.D. student, Microbiology Graduate Program (2023-present)
 
 ## Undergraduate Students
 
-![](people/oberg-r/avatar.jpg){fig-align="left" width="3in"}
+[![](people/oberg-r/avatar.jpg){fig-align="left" width="3in"}](people/oberg-r/about.qmd)
 
-**Raina Oberg** [\[about\]](people/oberg-r.html)
+**Raina Oberg** [\[about\]](people/oberg-r/about.qmd)
 
 NCSU undergraduate researcher (2024-present)
+
+[![](static/avatar.jpg){fig-align="left" width="3in"}](people/ceballos-a/about.qmd)
+
+**Amanda Ceballos** [\[about\]](people/ceballos-a/about.qmd)
+
+NCSU undergraduate researcher (2026-present)
+
+[![](static/avatar.jpg){fig-align="left" width="3in"}](people/sundell-turner-c/about.qmd)
+
+**Cheyan Sundell-Turner** [\[about\]](people/sundell-turner-c/about.qmd)
+
+RMBL undergraduate researcher (2026)
 
 ## Alumni
 

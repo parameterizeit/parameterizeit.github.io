@@ -4,12 +4,12 @@ project:
 website:
   title: "DICE Lab: Diversity In Changing Environments"
   favicon: static/icon.png
-  announcement:
-    icon: info-circle-fill
-    dismissable: true
-    content: "**Prospective graduate students:** please read the 'Join us' page for information on the 2025 application cycle"
-    type: primary
-    position: below-navbar
+  # announcement:
+  #   icon: info-circle-fill
+  #   dismissable: true
+  #   content: "**Prospective graduate students:** please read the 'Join us' page for information on the 2025-26 application cycle"
+  #   type: primary
+  #   position: below-navbar
   search:
     location: navbar
     type: overlay
@@ -61,7 +61,7 @@ website:
   open-graph: true
   page-footer:
     center:
-      - "© 2025 DICE Lab; excluding artworks & photos that are attributed to their creators"
+      - "©2026 DICE Lab; excluding artworks & photos that are attributed to their creators"
 
 format:
   html:

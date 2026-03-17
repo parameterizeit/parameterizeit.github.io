@@ -1,0 +1,13 @@
+![](/static/avatar.jpg){fig-align="left" width="3in"}
+
+<!--# Replace the dice image with a square-ish portrait photo where your face is reasonably unobscured called "avatar.jpg" and located in the corresponding person's subfolder. Feel welcome to use a photo that shows your interests/personality as long as it meets the above criteria and it's appropriate for a public-facing representation of our lab group. If you don't want a picture of your face on our website, feel free to keep the dice avatar. -->
+
+<!--# Set the image to align LEFT and a width of 3 inches. -->
+
+**Amanda Ceballos**
+
+<!--# First and last name are bolded and on their own line. -->
+
+**NCSU undergraduate researcher** **(2026-present)**
+
+<!--# [Blurb about your professional interests, activities in the lab, professional history, and/or statement about who you are. In short, the impossible task of summing up your whole self in a few sentences.] -->
