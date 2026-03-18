@@ -1,4 +1,4 @@
-![](avatar.jpg){fig-align="left" width="3in"}
+![](avatar.jpg){fig-alt="Headshot of Nicole Burroughs" fig-align="left" width="3in"}
 
 **Nicole Burroughs**
 

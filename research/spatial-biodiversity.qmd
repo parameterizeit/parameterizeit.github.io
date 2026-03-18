@@ -1,6 +1,6 @@
 # Origin & maintenance of spatial biodiversity patterns
 
-![*Grasgrond* (photo manipulated), Vincent Van Gogh (1887)](/static/van-gogh-grasgrond.jpg){fig-align="center" width="8in"}
+![*Grasgrond* (photo manipulated), Vincent Van Gogh (1887)](/static/van-gogh-grasgrond.jpg){fig-alt="An impressionist painting of grass and wildflowers, the right side of which has been deliberately pixellated." fig-align="center" width="8in"}
 
 Plant communities create rich, variable tapestries of species mixtures across landscapes. We are studying the processes by which these patterns arise and how spatial variation in biodiversity drives variation in function.
 
@@ -8,7 +8,7 @@ Plant communities create rich, variable tapestries of species mixtures across la
 
 Plants compete for resources and are themselves resources for consumers. We previously worked at Sedgwick Reserve to understand how the spatial distribution of seed harvesting ants (*Veromessor andrei*) shape the distribution and diversity of annual plant communities through the lens of modern coexistence theory. ETHZ Masters student [Ewa Merz](../alumni.qmd) tested how plant community structure changes with distance from ant nests and how seed diversity affects consumption rates.
 
-![Plant competition experiment to parameterize a coexistence model. Different plots have a different dominant species and density into which we planted focal individuals of every other species.](/static/corndog-plots2.jpeg){fig-align="center" width="6in"}
+![Plant competition experiment to parameterize a coexistence model. Different plots have a different dominant species and density into which we planted focal individuals of every other species.](/static/corndog-plots2.jpeg){fig-alt="A grid of plots containing different mixes of plants separated by black landscaping fabric with oak trees, rolling hills, and dark clouds in the background." fig-align="center" width="6in"}
 
 ### Applying biodiversity-ecosystem function (BEF) to engineering challenges
 
@@ -16,14 +16,14 @@ Diverse plant communities tend to have higher measures of ecosystem function. Wi
 
 This collaborative work is supported by a grant from the [US Army Engineer Research & Development Center](https://www.erdc.usace.army.mil/).
 
-![](/static/logo-erdc.PNG){fig-align="center" width="2.5in"}
+![](/static/logo-erdc.PNG){fig-alt="Logo of the Engineer Research & Development Center" fig-align="center" width="2.5in"}
 
-![Planting seeds for MICP germination experiment. (L to R: Pegah Ghasemi, Alden Sears, Will Petry)](/static/micp-seed-planting.jpg){fig-align="center" width="6in"}
+![Planting seeds for MICP germination experiment. (L to R: Pegah Ghasemi, Alden Sears, Will Petry)](/static/micp-seed-planting.jpg){fig-alt="Three people planting grids of seeds into replicate pots on steel tables." fig-align="center" width="6in"}
 
 ## Selected publications
 
 -   Petry, W.K., Kandlikar, G.S., Kraft, N.J.B., Godoy, O. & Levine, J.M. **(2018)** A competition-defence trade-off both promotes and weakens coexistence in an annual plant community. [*Journal of Ecology*]{.underline}, 106, 1806–1818. [\[doi\]](https://doi.org/10.1111/1365-2745.13028) [\[pdf\]](publications/Petry%20et%20al.%20-%202018%20-%20A%20competition–defence%20trade-off%20both%20promotes%20and%20.pdf) [\[data\]](https://doi.org/10.5281/zenodo.1256658)
 
--   Hiscott, H., Ghasemi, P., Montoya, B.M., Castro-Bolinaga, C., Petry, W.K., Grunden, A.M., Breland, B., Scates, A. **(2026)** Plant species influence on microbially induced carbonate precipitation: X-ray diffraction analysis of mineral formation and composition. [*Geo-Congress 2026*]{.underline}, GSP 376, 511-521. [\[doi\]](https://doi.org/10.1061/9780784486719.052) [\[pdf\]](publications/Hiscott et al. - 2026 - Plant Species Influence on Microbially Induced Carbonate Precipitation X-Ray Diffraction Analysis o.pdf)
+-   Hiscott, H., Ghasemi, P., Montoya, B.M., Castro-Bolinaga, C., Petry, W.K., Grunden, A.M., Breland, B., Scates, A. **(2026)** Plant species influence on microbially induced carbonate precipitation: X-ray diffraction analysis of mineral formation and composition. [*Geo-Congress 2026*]{.underline}, GSP 376, 511-521. [\[doi\]](https://doi.org/10.1061/9780784486719.052) [\[pdf\]](publications/Hiscott%20et%20al.%20-%202026%20-%20Plant%20Species%20Influence%20on%20Microbially%20Induced%20Carbonate%20Precipitation%20X-Ray%20Diffraction%20Analysis%20o.pdf)
 
 -   Ghasemi, P., Hiscott, H., Sears, A., Montoya, B.M., Castro-Bolinaga, C., Petry, W.K., Grunden, A.M., Breland, B., Scates, A. **(2025)** Integration of plants and microbially induced soil stabilization for sustainable infrastructure design. International Conference on Bio-mediated and Bio-inspired Geotechnics (ICBBG2025), 1-10. [\[doi\]](https://doi.org/10.53243/ICBBG2025-40) [\[pdf\]](publications/Ghasemi%20et%20al.%20-%202025%20-%20Integration%20of%20Plants%20and%20Microbially%20Induced%20Soil%20Stabilization%20for%20Sustainable%20Infrastructure%20Desi.pdf)

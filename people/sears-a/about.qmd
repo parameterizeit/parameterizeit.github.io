@@ -1,4 +1,4 @@
-![](avatar.jpg){fig-align="left" width="3in"}
+![](avatar.jpg){fig-alt="Headshot of Alden Sears" fig-align="left" width="3in"}
 
 **Alden Sears**
 

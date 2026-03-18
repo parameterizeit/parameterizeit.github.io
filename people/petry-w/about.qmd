@@ -1,4 +1,4 @@
-![](avatar.jpeg){fig-align="left" width="3in"}
+![](avatar.jpeg){fig-alt="Headshot of Will Petry" fig-align="left" width="3in"}
 
 **Will Petry**
 

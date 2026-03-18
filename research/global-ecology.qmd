@@ -1,6 +1,6 @@
 # Global-scale ecology
 
-![*Cosmic Thing*, Damian Ortega (2002)](/static/ortgega-cosmic-thing.jpeg){fig-align="center" width="8in"}
+![*Cosmic Thing*, Damian Ortega (2002)](/static/ortgega-cosmic-thing.jpeg){fig-alt="A Volkswagon Beetle car disassembled into parts that are suspended by wire from the ceiling and arranged to be near their adjacent parts when the car was assembled." fig-align="center" width="8in"}
 
 Process-level ecological data are usually collected locally, making scaling to the landscape and global scale a dubious exercise. I’m collaborating with three projects that seek to remedy this deficiency by using global databases & distributed experiments.
 
@@ -16,7 +16,7 @@ Species diversity generally increases towards the Equator, and the extent to whi
 
 The [Global Dummy Caterpillar Project](http://www.helsinki.fi/foodwebs/dummycaterpillars/index.htm) deployed plasticine caterpillar mimics around the world to measure predation rates by multiple taxa, distinguished by mouth marks left in the plasticine. We found strong evidence of higher predation in the tropics with a parallel pattern over elevation with stronger predation in the lowlands.
 
-![Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin](/static/zackenberg-dummy-caterpillar.jpeg){fig-align="center" width="6in"}
+![Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin](/static/zackenberg-dummy-caterpillar.jpeg){fig-alt="A green-grey plasticine model of a geometrid caterpillar on low-growing vegetation with a mountain in the background." fig-align="center" width="6in"}
 
 ### PlantPopNet: Scaling up demography
 
@@ -26,7 +26,7 @@ Demographic models provide powerful insight into the life history processes that
 
 I established five replicate monitoring populations across a broad environmental gradient in California, from mediterranean southern climates to the mesic redwood forests of the north. These data will be pooled with ca. 25 other sites in the network to form the largest demographic database for any single species.
 
-![*Plantago lanceolata* demography and leaf-level physiology at Norris Ranch Marino Reserve. (L to R: Greg Vose, Emily Griffoul)](/static/plantago-norris-ranch-marino.JPG){fig-align="center" width="6in"}
+![*Plantago lanceolata* demography and leaf-level physiology at Norris Ranch Marino Reserve. (L to R: Greg Vose, Emily Griffoul)](/static/plantago-norris-ranch-marino.JPG){fig-alt="Two people collecting demographic census data and photosynthesis rates with a LiCor infrared gas analyzer in a coastal grassland." fig-align="center" width="6in"}
 
 ## Representative publications
 

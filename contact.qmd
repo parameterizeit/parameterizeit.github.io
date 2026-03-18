@@ -1,4 +1,4 @@
-![*Bassica rapa* fields near Kloten, Switzerland](static/brassica-kloten.jpg){fig-align="center" width="8in"}
+![*Bassica rapa* fields near Kloten, Switzerland](static/brassica-kloten.jpg){fig-alt="Yellow-flowered Bassica rapa fields from above near Kloten, Switzerland" fig-align="center" width="8in"}
 
 ## Email
 

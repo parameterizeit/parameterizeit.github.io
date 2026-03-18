@@ -2,7 +2,7 @@
 title: "[404 error] Uh oh, looks like you're lost"
 ---
 
-![](static/mountain-goat.JPG){fig-align="center" width="8in"}
+![](static/mountain-goat.JPG){fig-alt="Mountain goat looking back over its shoulder" fig-align="center" width="8in"}
 
 The mountain goat we hired to find lost folks has found you. On the bright side, he beat the mountain lion to you.
 

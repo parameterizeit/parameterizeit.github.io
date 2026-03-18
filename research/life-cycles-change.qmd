@@ -1,6 +1,6 @@
 # Persistence of complex life cycles under rapid environmental change
 
-![*La teoría de un rumor*, Ulises Carrión (1978)](/static/carrion-la-teoria-de-un-rumor.jpeg){fig-align="center" width="8in"}
+![*La teoría de un rumor*, Ulises Carrión (1978)](/static/carrion-la-teoria-de-un-rumor.jpeg){fig-alt="A grid of framed drawings, each with arrows pointing in various directions." fig-align="center" width="8in"}
 
 How will populations behave when the environment keeps changing? Climate change is altering the means, variances, and temporal autocorrelations of the key abiotic factors that underlie species performance. Understanding how these changes will impact species’ long-term fates is a key challenge that must be resolved in order to effectively forecast and mitigate climate change-driven biodiversity loss. Predicting the fates of organisms with simple, short-lived life histories should be relatively straightforward: These species should persist as long as the birth rate is greater than or equal to the death rate across the full range of future climatic conditions. However, many organisms have complex life cycles that span multiple years with individual demographic rates differing by age, size, stage, or sex. These organisms will experience climatic conditions over their lifespans that will range from historic norms to entirely novel conditions, potentially creating more ways the life cycle could break. The ability of species with complex, perennial life cycles to persist under climate change will therefore depend on their ability to successfully exploit climatically favorable years and buffer against unfavorable years.
 
@@ -10,15 +10,15 @@ For more than a decade, we’ve collected annual, individual-level demographic d
 
 This long-term ecological research has been supported by grants from NSF DEB [1407318](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1407318&HistoricalAwards=false) and [1457029](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1457029&HistoricalAwards=false).
 
-![](/static/logo-nsf.jpg){fig-align="center" width="0.75in"}
+![](/static/logo-nsf.jpg){fig-alt="Logo of the National Science Foundation" fig-align="center" width="0.75in"}
 
-![*Valeriana edulis* growing at its current upper elevation range limit (3790 m).](/static/valeriana-frigid-air.jpg){fig-align="center" width="3.75in"}
+![*Valeriana edulis* growing at its current upper elevation range limit (3790 m).](/static/valeriana-frigid-air.jpg){fig-alt="A plant rosette growing on a high mountain ridge." fig-align="center" width="3.75in"}
 
 ### Long-lived monocarpic plants
 
 Monocarpic plants exhibit an unusual life history in which they grow vegetatively for several years before one spectacular season of flowering and seed production before dying. This strategy relies on the plant being able to slowly accumulate future fitness payoffs and survive long enough to see those returns. In 2024, we began working with David Inouye (emeritus at U. Maryland) on a high elevation (3740 m) population of *Frasera speciosa* (Gentianaceae) that he has censused annually since 1973. This is—to our knowledge—the longest running demographic study of any herbaceous plant. *Frasera* is [*extremely*]{.underline} slow growing at this site, which makes it an excellent candidate for studying how sequences of good and bad years determine plant performance and population persistence.
 
-![David Inouye (L) and Jake Davis (R) conducting the 53rd annual *Frasera speciosa* census. One individual has produced a column of flowers in it's final swan song after decades of vegetative growth.](/static/frasera-cumberland-pass.jpg){fig-align="center" width="3.75in"}
+![David Inouye (L) and Jake Davis (R) conducting the 53rd annual *Frasera speciosa* census. One individual has produced a column of flowers in it's final swan song after decades of vegetative growth.](/static/frasera-cumberland-pass.jpg){fig-alt="Two people collecting data in an alpine meadow divided into a 1x1m grid of plots by white string." fig-align="center" width="3.75in"}
 
 ### Endemism, rarity, and conservation
 
@@ -26,9 +26,9 @@ Some species have large ranges, whereas others are restricted to very small area
 
 The seed funds for this work came from the Myrna Steinkamp Grant for research on rare plants from the [Colorado Native Plant Society](https://conps.org/).
 
-![](/static/logo-conps.png){fig-align="center" width="1.25in"}
+![](/static/logo-conps.png){fig-alt="Logo of the Colorado Native Plant Society" fig-align="center" width="1.25in"}
 
-![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.jpeg){fig-align="center" width="6in"}
+![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.jpeg){fig-alt="A small plant with silvery-green leaves and bright yellow flowers growing on a rocky alpine ridge." fig-align="center" width="6in"}
 
 ## Selected publications
 

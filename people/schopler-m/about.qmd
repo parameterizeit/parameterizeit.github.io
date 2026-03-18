@@ -1,4 +1,4 @@
-![](avatar.jpg){fig-align="left" width="3in"}
+![](avatar.jpg){fig-alt="Headshot of Melina Schopler" fig-align="left" width="3in"}
 
 **Melina Schopler**
 
@@ -16,7 +16,7 @@ Melina comes to the DICE Lab with expertise in population biology and intraspeci
 
 *(previously published as Melina Keighron)*
 
--   Schopler, M., Simha, A., Dalton, R.M., Wilson, E.M., Redick, E., Youngsteadt, E., Petry, W.K. **(2026)**. Spring ephemeral *Erythronium umbilicatum* may not be vulnerable to phenological mismatch with overstory trees. [*American Journal of Botany*]{.underline}, e70172 [\[doi\]](https://doi.org/10.1002/ajb2.70172) [\[pdf\]](publications/Schopler et al. - 2026 - Spring ephemeral Erythronium umbilicatum may not be vulnerable to phenological mismatch with.pdf) [\[preprint\]](https://www.biorxiv.org/content/10.1101/2025.05.14.652260v1) [\[data\]](https://doi.org/10.5061/dryad.0k6djhbc9)
+-   Schopler, M., Simha, A., Dalton, R.M., Wilson, E.M., Redick, E., Youngsteadt, E., Petry, W.K. **(2026)**. Spring ephemeral *Erythronium umbilicatum* may not be vulnerable to phenological mismatch with overstory trees. [*American Journal of Botany*]{.underline}, e70172 [\[doi\]](https://doi.org/10.1002/ajb2.70172) [\[pdf\]](publications/Schopler%20et%20al.%20-%202026%20-%20Spring%20ephemeral%20Erythronium%20umbilicatum%20may%20not%20be%20vulnerable%20to%20phenological%20mismatch%20with.pdf) [\[preprint\]](https://www.biorxiv.org/content/10.1101/2025.05.14.652260v1) [\[data\]](https://doi.org/10.5061/dryad.0k6djhbc9)
 
 -   Youngsteadt, E., Keighron, M.C. **(2023)** Urban pollination ecology. [*Annual Review of Ecology, Evolution, and Systematics*]{.underline}, 54: 21-42. [\[doi\]](https://doi.org/10.1146/annurev-ecolsys-102221-044616)
 

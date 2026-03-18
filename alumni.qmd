@@ -1,6 +1,6 @@
 # Lab alumni
 
-![*Hill 1, Wheat*, Hajime Namiki (2000)](static/namiki-hill1-wheat.jpg){fig-align="center" width="8in"}
+![*Hill 1, Wheat*, Hajime Namiki (2000)](static/namiki-hill1-wheat.jpg){fig-alt="Multi-color woodblock print of a lone tree in the distance across a wheat field." fig-align="center" width="8in"}
 
 ### Graduate students
 
