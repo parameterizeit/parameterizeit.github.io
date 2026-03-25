@@ -4,7 +4,7 @@
 
 Reproduction in plant species depend, at least in part, on animal pollinators to transfer pollen between stationary individual plants. Therefore, seed production and plant population persistence *must* depend on pollination, but theory suggests that it may not be a simple, straightforward relationship. Understanding these relationships will be essential to effective conservation of plant biodiversity amid the mounting evidence for pollinator declines and increasing numbers of pollinator species in peril.
 
-### Experimental pollination demography
+## Experimental pollination demography
 
 Plants face uncertainty in the availability of pollination services that can drastically change their costs of reproduction from one year to the next. With collaborators [Amy Iler](https://amymarieiler.weebly.com/) and [Paul CaraDonna](https://paulcaradonna.weebly.com/) (Chicago Botanic Garden), we are experimentally altering the amount of pollination perennial plants receive and following their demographic responses across the full life cycle. Our work is grappling with the role of trade-offs and stochasticity to better understand how population dynamics are buffered against (or susceptible to) changes in their species interaction partners.
 
@@ -14,7 +14,7 @@ This collaborative work is supported by NSF DEB awards [1754518](https://www.nsf
 
 ![Censusing Hydrophyllum fendleri (Boraginaceae). (L to R: Sarah Walwema, Rachel Dickson, Justin Bain, Amy Iler, and Will Petry) Photo: P.J. CaraDonna](/static/pollination-demog-hyfe-census.jpg){fig-alt="A group of 5 people in the understory vegetation of an aspen forest with white stringed research plots in the foreground." fig-align="center" width="4.5in"}
 
-### Pollinator network rewiring & functional compensation during pollinator extinctions
+## Pollinator network rewiring & functional compensation during pollinator extinctions
 
 When a pollinator goes extinct, remaining species gain access to floral resources once dominated by the lost species. A single interaction change can trigger others that ripple through the entire network as every other species responds to interaction rewiring that impacts their preferred flower species. NSF Graduate Research Fellow [Melina Schopler](../people/schopler-m/about.qmd) is leading an experiment to understand how pollination networks rewire and the consequences of network structure for realized pollination service.
 

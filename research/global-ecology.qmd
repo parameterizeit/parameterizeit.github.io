@@ -4,13 +4,13 @@
 
 Process-level ecological data are usually collected locally, making scaling to the landscape and global scale a dubious exercise. I’m collaborating with three projects that seek to remedy this deficiency by using global databases & distributed experiments.
 
-### COM(P)ADRE databases of matrix population models
+## COM(P)ADRE databases of matrix population models
 
 In addition to building demographic models and parameterizing them with field data, I am a member of the Science Committee for the twin databases of matrix population models, COMPADRE and COMADRE. Our goal is to enable comparative demographic studies by assembling a comprehensive database of demographic models and their associated metadata, then making it publicly available along with tools to work with the data.
 
 See our [blog](https://compadredb.wordpress.com/) for highlights of recent papers that have resulted from this effort, or download the latest versions of each dataset [here](http://www.compadre-db.org/Data).
 
-### Geographic gradients in species interactions
+## Geographic gradients in species interactions
 
 Species diversity generally increases towards the Equator, and the extent to which this affects species interactions will have profound biogeographic and evolutionary consequences. Despite decades of local experimentation and extrapolation, we still lack a globally-coherent picture of interaction strength.
 
@@ -18,7 +18,7 @@ The [Global Dummy Caterpillar Project](http://www.helsinki.fi/foodwebs/dummycate
 
 ![Plasticine dummy caterpillar in Zackenberg, Greenland. Photo: T. Roslin](/static/zackenberg-dummy-caterpillar.jpeg){fig-alt="A green-grey plasticine model of a geometrid caterpillar on low-growing vegetation with a mountain in the background." fig-align="center" width="6in"}
 
-### PlantPopNet: Scaling up demography
+## PlantPopNet: Scaling up demography
 
 Demographic models provide powerful insight into the life history processes that control individual fitness, population growth, and extinction risk. Demographic studies to-date are too poorly replicated in space and time to tease apart the complex ways that demographic processes respond to environmental variation—this is a key gap in our understanding of fundamental population processes made more glaring in light of global change, elevated extinctions, and species invasions.
 
@@ -28,7 +28,7 @@ I established five replicate monitoring populations across a broad environmental
 
 ![*Plantago lanceolata* demography and leaf-level physiology at Norris Ranch Marino Reserve. (L to R: Greg Vose, Emily Griffoul)](/static/plantago-norris-ranch-marino.JPG){fig-alt="Two people collecting demographic census data and photosynthesis rates with a LiCor infrared gas analyzer in a coastal grassland." fig-align="center" width="6in"}
 
-## Representative publications
+## Selected publications
 
 -   Roslin, T., Hardwick, B., Novotny, V., Petry, W.K., \[Dummy Caterpillar Project\], Slade, E.M. **(2017)** Higher predation risk for insect prey at low latitudes and elevations. [*Science*]{.underline}, 356, 742–744. [\[doi\]](https://doi.org/10.1126/science.aaj1631) [\[pdf\]](publications/Roslin%20et%20al.%20-%202017%20-%20Higher%20predation%20risk%20for%20insect%20prey%20at%20low%20latit.pdf) [\[data\]](https://doi.org/10.5061/dryad.j432q)
 

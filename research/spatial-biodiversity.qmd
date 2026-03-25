@@ -4,13 +4,13 @@
 
 Plant communities create rich, variable tapestries of species mixtures across landscapes. We are studying the processes by which these patterns arise and how spatial variation in biodiversity drives variation in function.
 
-### Species- and coexistence-area relationships in annual plant communities
+## Species- and coexistence-area relationships in annual plant communities
 
 Plants compete for resources and are themselves resources for consumers. We previously worked at Sedgwick Reserve to understand how the spatial distribution of seed harvesting ants (*Veromessor andrei*) shape the distribution and diversity of annual plant communities through the lens of modern coexistence theory. ETHZ Masters student [Ewa Merz](../alumni.qmd) tested how plant community structure changes with distance from ant nests and how seed diversity affects consumption rates.
 
 ![Plant competition experiment to parameterize a coexistence model. Different plots have a different dominant species and density into which we planted focal individuals of every other species.](/static/corndog-plots2.jpeg){fig-alt="A grid of plots containing different mixes of plants separated by black landscaping fabric with oak trees, rolling hills, and dark clouds in the background." fig-align="center" width="6in"}
 
-### Applying biodiversity-ecosystem function (BEF) to engineering challenges
+## Applying biodiversity-ecosystem function (BEF) to engineering challenges
 
 Diverse plant communities tend to have higher measures of ecosystem function. With NCSU collaborators [Brina Montoya](https://ccee.ncsu.edu/people/bmmorten/) (Civil, Construction, & Environmental Engineering), [Amy Grunden](https://cals.ncsu.edu/plant-and-microbial-biology/people/amgrunde/) (Plant and Microbial Biology), [Celso Castro Bolinaga](https://bae.ncsu.edu/people/cfcastro/) (Biological & Agricultural Engineering), and [Ben Breland](https://www.linkedin.com/in/benjamin-breland-pg-3ab40282) and [Allison Scates](https://www.linkedin.com/in/allisonrscates) (US Army Corps of Engineers), we are assessing the compatibility of plant species mixes with microbially-induced calcite precipitation (MICP) as a way to increase soil stability on dams, levees, and similar flood control structures.
 
