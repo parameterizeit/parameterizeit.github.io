@@ -2,13 +2,13 @@
 
 ![*Hill 1, Wheat*, Hajime Namiki (2000)](static/namiki-hill1-wheat.jpg){fig-alt="Multi-color woodblock print of a lone tree in the distance across a wheat field." fig-align="center" width="8in"}
 
-### Graduate students
+## Graduate students
 
 -   [Rodrigo Granjel](https://es.linkedin.com/in/rodrigo-granjel), Fulbright Pre-doctoral Fellow (2022-2023), *postdoc at the Basque Centre for Climate Change*
 
 -   [Ewa Merz](https://scholar.google.com/citations?user=c5Q9Y2AAAAAJ), ETHZ Masters student (2018), *postdoc at Scripps Institute of Oceanography*
 
-### Undergraduate students
+## Undergraduate students
 
 -   Ryan Hou, UMBS education program (2025), *undergraduate student at University of Michigan*
 
@@ -34,7 +34,7 @@
 
 -   Lucy (Yifei) Zhang, RMBL education program (2020), *Masters student in Environmental Policy at Duke Kunshan University*
 
-### Field & lab technicians
+## Field & lab technicians
 
 -   Jake Davis, plant demography fieldwork at RMBL (2025)
 

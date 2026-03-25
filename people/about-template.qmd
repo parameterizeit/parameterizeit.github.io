@@ -6,9 +6,9 @@
 
 <!--# Set the image to align LEFT and a width of 3 inches. -->
 
-**\[First name\] \[Last name\]**
+# **\[First name\] \[Last name\]**
 
-<!--# First and last name are bolded and on their own line. -->
+<!--# First and last name are bolded level 1 headers and on their own line. -->
 
 **\[Role in lab\] (\[year joined\]-present)**
 

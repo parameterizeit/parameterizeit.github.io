@@ -1,8 +1,10 @@
+# Publications
+
 ![*Smell of ink* (detail), Hansjörg Mayer (2017)](static/mayer-smell-of-ink.jpg){fig-alt="A grid of various letters with various 90 degree rotations that are printed on top of one another in blue, yellow, and red ink" fig-align="center" width="8in"}
 
 PDFs of all DICE Lab papers are freely available via the links below. Papers since \~2016 also have freely available datasets and code linked, when relevant. Please [contact us](contact.qmd) if you encounter any issues accessing our research products.
 
-### Preprints
+## Preprints
 
 -   Simpson, D.T., Petry, W.K., CaraDonna, P.J., Iler, A.M. **(preprint)**. Changing pollination rates affect plant life history strategies. [*bioRxiv*]{.underline} [\[preprint\]](https://doi.org/10.64898/2026.02.11.705202)
 
@@ -10,7 +12,7 @@ PDFs of all DICE Lab papers are freely available via the links below. Papers sin
 
 -   Buckley, Y., Finn, A., Molloy, A., Csergő, A. Crone, E., Smith, A., Elderd, B., McKeon, C., Roach, D., Childs, D., Wardle, G., Garcia, M., Baudraz, M., Penczykowski, R., Salguero-Gómez, R., Kelly, R., Ramula, S., Laine, A-L., Blomberg, S., Ehrlen, J., Villellas, J., Helm, A., Roscher, C., Raveala, K., Hamre, L., Korell, L., Brearley, F., Olsen, S., Wingler, A., Moore, J., Tack, A., Bucharova, A., Skarpaas, O., Bodis, J., Compagnoni, A., Munné-Bosch, S., Münzbergová, Z., Töpper, J., Vesk, P., Morales, M., Wandrag, E., Saastamoinen, M., Andrzejak, M., Rasmussen, P., Caruso, C., Duncan, R., Dwyer, J., Coghill, M., Groenteman, R., Partel, M., Petry, W.K., Lonati, M., Puy, J., Catford, J., Drees, T., Rosche, C., Shea, K., Ravetto Enri, S., Gremer, J., Deák, B., Fraser, L., Laanisto, L., Valkó, O., Sieg, R.D., Bachelot, B., Firn, J. **(preprint)** Quality Assurance framework for the design, collection and curation of Standard Data Products from a distributed ecology network. [*Authorea*]{.underline} [\[preprint\]](https://doi.org/10.22541/au.177269598.81210007/v1)
 
-### Peer-reviewed publications
+## Peer-reviewed publications
 
 -   Schopler, M., Simha, A., Dalton, R.M., Wilson, E.M., Redick, E., Youngsteadt, E., Petry, W.K. **(2026)**. Spring ephemeral *Erythronium umbilicatum* may not be vulnerable to phenological mismatch with overstory trees. [*American Journal of Botany*]{.underline}, e70172 [\[doi\]](https://doi.org/10.1002/ajb2.70172) [\[pdf\]](publications/Schopler%20et%20al.%20-%202026%20-%20Spring%20ephemeral%20Erythronium%20umbilicatum%20may%20not%20be%20vulnerable%20to%20phenological%20mismatch%20with.pdf) [\[preprint\]](https://www.biorxiv.org/content/10.1101/2025.05.14.652260v1) [\[data\]](https://doi.org/10.5061/dryad.0k6djhbc9)
 

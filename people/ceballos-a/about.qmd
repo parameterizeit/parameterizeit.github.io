@@ -4,7 +4,7 @@
 
 <!--# Set the image to align LEFT and a width of 3 inches. -->
 
-**Amanda Ceballos**
+# **Amanda Ceballos**
 
 <!--# First and last name are bolded and on their own line. -->
 

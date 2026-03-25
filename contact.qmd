@@ -1,3 +1,5 @@
+# Contact us
+
 ![*Bassica rapa* fields near Kloten, Switzerland](static/brassica-kloten.jpg){fig-alt="Yellow-flowered Bassica rapa fields from above near Kloten, Switzerland" fig-align="center" width="8in"}
 
 ## Email
@@ -37,7 +39,7 @@ leaflet() |>
 
 ## About our lab name
 
-> ## **dice**
+> ### **dice**
 >
 > 1.  *n.* A small, usually cube-shaped object with sides displaying a different numeral or number of spots, typically used in games of chance.
 >

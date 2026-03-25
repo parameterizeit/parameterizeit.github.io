@@ -1,6 +1,6 @@
 ![](avatar.jpeg){fig-alt="Headshot of Will Petry" fig-align="left" width="3in"}
 
-**Will Petry**
+# **Will Petry**
 
 **Assistant Professor, Department of Plant & Microbial Biology**
 

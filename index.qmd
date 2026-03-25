@@ -1,5 +1,7 @@
 ![](static/logo-dice.png){fig-alt="Logo featuring a game die with \"DICE Lab\" and \"Plants. Microbes. Connections.\" on adjacent faces." fig-align="center" width="3in"}
 
+# Diversity In Changing Environments Lab
+
 We are a research team focused on illuminating the mechanisms that maintain biodiversity and using our understanding to predict the stability of ecological systems in a changing world. Our approach is broad, bringing together field and lab experiments with natural history, mathematical models, and statistics.
 
 We are based in the [Department of Plant & Microbial Biology](https://cals.ncsu.edu/plant-and-microbial-biology/) at North Carolina State University. During the field season, you may also find us crouched among the wildflowers at the [Rocky Mountain Biological Lab](https://www.rmbl.org/) or knee-deep in a bogs at the [University of Michigan Biological Station](https://lsa.umich.edu/umbs).

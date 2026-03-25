@@ -4,7 +4,7 @@
 
 <!--# Set the image to align LEFT and a width of 3 inches. -->
 
-**Cheyan Sundell-Turner**
+# **Cheyan Sundell-Turner**
 
 <!--# First and last name are bolded and on their own line. -->
 

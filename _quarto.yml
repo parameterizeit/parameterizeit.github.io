@@ -60,10 +60,13 @@ website:
     right:
       - icon: github
         href: https://github.com/DICELab-NCSU
+        aria-label: GitHub
       - icon: mortarboard-fill
         href: https://scholar.google.com/citations?user=UJk1BokAAAAJ
+        aria-label: Google Scholar
       - icon: building-fill
         href: https://cals.ncsu.edu/plant-and-microbial-biology/
+        aria-label: NCSU Department of Plant & Microbial Biology
   open-graph: true
   page-footer:
     center:
