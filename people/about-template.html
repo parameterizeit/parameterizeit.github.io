@@ -179,17 +179,17 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/DICELab-NCSU"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/DICELab-NCSU"> <i class="bi bi-github" role="img" aria-label="GitHub">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://scholar.google.com/citations?user=UJk1BokAAAAJ"> <i class="bi bi-mortarboard-fill" role="img">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=UJk1BokAAAAJ"> <i class="bi bi-mortarboard-fill" role="img" aria-label="Google Scholar">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://cals.ncsu.edu/plant-and-microbial-biology/"> <i class="bi bi-building-fill" role="img">
+    <a class="nav-link" href="https://cals.ncsu.edu/plant-and-microbial-biology/"> <i class="bi bi-building-fill" role="img" aria-label="NCSU Department of Plant &amp; Microbial Biology">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -212,7 +212,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#selected-publications" id="toc-selected-publications" class="nav-link active" data-scroll-target="#selected-publications">Selected publications</a></li>
+  <li><a href="#first-name-last-name" id="toc-first-name-last-name" class="nav-link active" data-scroll-target="#first-name-last-name"><strong>[First name] [Last name]</strong></a>
+  <ul class="collapse">
+  <li><a href="#selected-publications" id="toc-selected-publications" class="nav-link" data-scroll-target="#selected-publications">Selected publications</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -230,8 +233,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <!--# Replace the dice image with a square-ish portrait photo where your face is reasonably unobscured called "avatar.jpg" and located in the corresponding person's subfolder. Feel welcome to use a photo that shows your interests/personality as long as it meets the above criteria and it's appropriate for a public-facing representation of our lab group. If you don't want a picture of your face on our website, feel free to keep the dice avatar. -->
 <!--# Set the image to align LEFT and a width of 3 inches. -->
-<p><strong>[First name] [Last name]</strong></p>
-<!--# First and last name are bolded and on their own line. -->
+<section id="first-name-last-name" class="level1">
+<h1><strong>[First name] [Last name]</strong></h1>
+<!--# First and last name are bolded level 1 headers and on their own line. -->
 <p><strong>[Role in lab] ([year joined]-present)</strong></p>
 <!--# Lab role should be specific (i.e., "Ph.D. student" not "Graduate student") and reasonably match terminology for other people in similar position. -->
 <p><strong>[Additional titles, if applicable]</strong></p>
@@ -246,6 +250,7 @@ ul.task-list li input[type="checkbox"] {
 <!--# Level 3 header in sentence case followed by a list of selected publications following the formatting style used on the Publications page. If they were completed in the DICE Lab, please add them to the Publications page, too. If you don't have publications yet, or prefer not to post them here, please delete the full "Selected publications" header. -->
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
