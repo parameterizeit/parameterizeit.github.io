@@ -1,6 +1,6 @@
 ![](static/logo-dice.png){fig-alt="Logo featuring a game die with \"DICE Lab\" and \"Plants. Microbes. Connections.\" on adjacent faces." fig-align="center" width="3in"}
 
-# Diversity In Changing Environments Lab
+# Diversity In Changing Environments Lab {style="text-align: center"}
 
 We are a research team focused on illuminating the mechanisms that maintain biodiversity and using our understanding to predict the stability of ecological systems in a changing world. Our approach is broad, bringing together field and lab experiments with natural history, mathematical models, and statistics.
 
