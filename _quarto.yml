@@ -73,8 +73,9 @@ format:
   html:
     theme:
       - cosmo
-      - brand
-    css: styles.css
+      # - brand
+      - custom.scss
+    # css: styles.css
     toc: true
 
 execute:
