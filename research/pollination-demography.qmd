@@ -20,6 +20,8 @@ When a pollinator goes extinct, remaining species gain access to floral resource
 
 ![Pollinator mesocosms for extinction experiment. Photo: M. Schopler](/static/extinction-mesocosm.jpeg){fig-alt="The interior of a cube-shaped mesh mesocosm containing potted flowering plants. Several more mesocosms are visible in the background through the fabric walls." fig-align="center" width="6in"}
 
+------------------------------------------------------------------------
+
 ## Selected publications
 
 -   Simpson, D.T., Petry, W.K., CaraDonna, P.J., Iler, A.M. **(preprint)**. Changing pollination rates affect plant life history strategies. [*bioRxiv*]{.underline} [\[preprint\]](https://doi.org/10.64898/2026.02.11.705202)

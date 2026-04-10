@@ -16,6 +16,8 @@ Plant species interact with each other through multiple intermediaries: resource
 
 ![Clipping flower buds to manipulate the density and species composition around focal plants in Colorado. (L to R: Ben Davis, Sarah Hoffman, Alden Sears)](/static/clipping-experiment.jpg){fig-alt="Three people in a mountain meadow among white pin flags while collecting data." fig-align="center" width="6in"}
 
+------------------------------------------------------------------------
+
 ## Selected publications
 
 -   Petry, W.K., Kandlikar, G.S., Kraft, N.J.B., Godoy, O. & Levine, J.M. **(2018)** A competition-defence trade-off both promotes and weakens coexistence in an annual plant community. [*Journal of Ecology*]{.underline}, 106, 1806–1818. [\[doi\]](https://doi.org/10.1111/1365-2745.13028) [\[pdf\]](publications/Petry%20et%20al.%20-%202018%20-%20A%20competition–defence%20trade-off%20both%20promotes%20and%20.pdf) [\[data\]](https://doi.org/10.5281/zenodo.1256658)

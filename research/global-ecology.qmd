@@ -8,7 +8,7 @@ Process-level ecological data are usually collected locally, making scaling to t
 
 In addition to building demographic models and parameterizing them with field data, I am a member of the Science Committee for the twin databases of matrix population models, COMPADRE and COMADRE. Our goal is to enable comparative demographic studies by assembling a comprehensive database of demographic models and their associated metadata, then making it publicly available along with tools to work with the data.
 
-See our [blog](https://compadredb.wordpress.com/) for highlights of recent papers that have resulted from this effort, or download the latest versions of each dataset [here](http://www.compadre-db.org/Data).
+See our [blog](https://compadredb.wordpress.com/) for highlights of recent papers that have resulted from this effort, or [download the latest versions of each dataset](http://www.compadre-db.org/Data).
 
 ## Geographic gradients in species interactions
 
@@ -27,6 +27,8 @@ Demographic models provide powerful insight into the life history processes that
 I established five replicate monitoring populations across a broad environmental gradient in California, from mediterranean southern climates to the mesic redwood forests of the north. These data will be pooled with ca. 25 other sites in the network to form the largest demographic database for any single species.
 
 ![*Plantago lanceolata* demography and leaf-level physiology at Norris Ranch Marino Reserve. (L to R: Greg Vose, Emily Griffoul)](/static/plantago-norris-ranch-marino.JPG){fig-alt="Two people collecting demographic census data and photosynthesis rates with a LiCor infrared gas analyzer in a coastal grassland." fig-align="center" width="6in"}
+
+------------------------------------------------------------------------
 
 ## Selected publications
 

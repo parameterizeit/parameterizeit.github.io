@@ -78,7 +78,7 @@ format:
       - cosmo
       # - brand
       - custom.scss
-    # css: styles.css
+    css: styles.css
     toc: true
 
 execute:

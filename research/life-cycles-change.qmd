@@ -30,6 +30,8 @@ The seed funds for this work came from the Myrna Steinkamp Grant for research on
 
 ![An individual *Physaria alpina* moments before being imaged by the drone launching in the background.](/static/physaria-drone-launch.jpeg){fig-alt="A small plant with silvery-green leaves and bright yellow flowers growing on a rocky alpine ridge." fig-align="center" width="6in"}
 
+------------------------------------------------------------------------
+
 ## Selected publications
 
 -   Petry, W.K., Soule, J.D., Iler, A.M., Chicas-Mosier, A., Inouye, D.W., Miller, T.E.X., Mooney, K.A. **(2016)** Sex-specific responses to climate change in plants alter population sex ratio and performance. [*Science*]{.underline}, 353, 69–71. [\[doi\]](https://doi.org/10.1126/science.aaf2588) [\[pdf\]](publications/Petry%20et%20al.%20-%202016%20-%20Sex-specific%20responses%20to%20climate%20change%20in%20plants.pdf) [\[data\]](https://doi.org/10.5061/dryad.1cf8p)
