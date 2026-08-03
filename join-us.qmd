@@ -18,13 +18,13 @@ We work at the **interface of experiments, mathematical models, and theory** to 
 
 Prospective graduate students who want to do ecological research on questions related to biodiversity in changing environments should [email Dr. Petry](people/petry-w/about.qmd) in the late summer or early fall (July-October) with the following pieces of information:
 
--   A short paragraph describing the **ecological concepts and questions** that you want to study. Be as specific as you can. Concrete details help to show that you’ve prepared yourself for graduate research through background reading of the scientific literature and reflection on your aims. As part of this, please also explain why you think our lab (or a co-advising arrangement with another lab at NCSU) would be a good fit to support your research interests.
+- A short paragraph describing the **ecological concepts and questions** that you want to study. Be as specific as you can. Concrete details help to show that you’ve prepared yourself for graduate research through background reading of the scientific literature and reflection on your aims. As part of this, please also explain why you think our lab (or a co-advising arrangement with another lab at NCSU) would be a good fit to support your research interests.
 
--   The degree you are seeking (M.S. or Ph.D.) and a short paragraph outlining your **motivation and preparedness** for pursuing graduate research. Be sure to answer (i) Why are you interested in pursuing a graduate degree and (ii) What previous studies and experiences have prepared you for graduate research?[^join-us-1]
+- The degree you are seeking (M.S. or Ph.D.) and a short paragraph outlining your **motivation and preparedness** for pursuing graduate research. Be sure to answer (i) Why are you interested in pursuing a graduate degree and (ii) What previous studies and experiences have prepared you for graduate research?[^join-us-1]
 
--   Indicate whether you have applied or would like to work together on a fellowship application (e.g., [NSF GRFP](https://www.nsfgrfp.org/) or [one of many other fellowships](https://www.pathwaystoscience.org/Grad.aspx)).
+- Indicate whether you have applied or would like to work together on a fellowship application (e.g., [NSF GRFP](https://www.nsfgrfp.org/) or [one of many other fellowships](https://www.pathwaystoscience.org/Grad.aspx)).
 
--   Your current CV (see advice [at Word Vice](https://wordvice.com/how-to-write-a-flawless-cv-curriculum-vitae-for-graduate-school/) and [Prep Scholar](https://www.prepscholar.com/gre/blog/how-to-write-a-cv-for-graduate-school/) on how to prepare an effective CV).
+- Your current CV (see advice [at Word Vice](https://wordvice.com/how-to-write-a-flawless-cv-curriculum-vitae-for-graduate-school/) and [Prep Scholar](https://www.prepscholar.com/gre/blog/how-to-write-a-cv-for-graduate-school/) on how to prepare an effective CV).
 
 [^join-us-1]: Changing fields? A record of ecology-focused study and research experience can help, but isn’t necessary. Many great ecologists started off in completely different disciplines. Just be sure to explain why you want to study ecology, and think creatively about how the skills you’ve gained in your discipline can transfer or give you unique insight into ecological processes.
 
@@ -32,9 +32,9 @@ Our Department offers two programs for graduate students, each of which has a Ma
 
 Applying to graduate programs is very different from applying to undergraduate programs. These differences are especially strong in ecology & evolutionary biology in the USA, where student usually apply to a particular adviser’s lab (vs. general admission into a school/degree program). This usually means that prospective students need to contact potential advisers prior to formally applying to discuss research interest overlap and ensure that the adviser is able to accept students. Understanding the process is key component of a successful application, and the following resources offer a good starting place:
 
--   [How-to guide](https://www.mordecailab.com/blog/applying-for-grad-school) for ecology and evolution programs compiled by Erin Mordecai’s lab.
+- [How-to guide](https://www.mordecailab.com/blog/applying-for-grad-school) for ecology and evolution programs compiled by Erin Mordecai’s lab.
 
--   [NCSU’s resources](https://grad.ncsu.edu/students/international-students/) for international applicants & graduate students.
+- [NCSU’s resources](https://grad.ncsu.edu/students/international-students/) for international applicants & graduate students.
 
 ## Postdocs
 
@@ -44,11 +44,11 @@ Applying to graduate programs is very different from applying to undergraduate p
 
 Prospective postdocs should have a relevant research background, demonstrated publication record, and clear motivation for why they’d like to join the lab. There are three mechanisms through which this can happen:
 
--   **Advertised positions:** these are usually funded through an existing grant and will be announced broadly via ECOLOG, social media, and similar venues ([why we advertise](https://www.chronicle.com/article/how-the-opaque-way-we-hire-postdocs-contributes-to-sciences-diversity-problem/))
+- **Advertised positions:** these are usually funded through an existing grant and will be announced broadly via ECOLOG, social media, and similar venues ([why we advertise](https://www.chronicle.com/article/how-the-opaque-way-we-hire-postdocs-contributes-to-sciences-diversity-problem/))
 
--   **Fellowships:** these are initiated by the prospective postdoc, based on a collaboratively-developed application to a specific fellowship competition (several lists of eco/evo postdoc fellowships are available, e.g., [Biology Postdocs](http://biologypostdocs.weebly.com/north-america.html), [UC Davis list](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html#Postdoc), & [public spreadsheet](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0))
+- **Fellowships:** these are initiated by the prospective postdoc, based on a collaboratively-developed application to a specific fellowship competition (several lists of eco/evo postdoc fellowships are available, e.g., [Biology Postdocs](http://biologypostdocs.weebly.com/north-america.html), [UC Davis list](http://www.des.ucdavis.edu/faculty/baskett/links/academia.html#Postdoc), & [public spreadsheet](https://docs.google.com/spreadsheets/d/1cHkWrbvNrRdhJL9Z8ucgBZ2HSts2GPA_yozbQPl_x_8/edit#gid=0))
 
--   **Grants** (uncommon): these are the same federally-funded research grants with support for a postdoc position as the advertised position, but are written collaboratively with the postdoc that would fill the position
+- **Grants** (uncommon): these are the same federally-funded research grants with support for a postdoc position as the advertised position, but are written collaboratively with the postdoc that would fill the position
 
 We’re especially keen to have postdocs join the group whose expertise complements ours, enabling us to collaboratively answer new questions that neither of us could have done alone. We view complementarity broadly–inclusive of bridges between (sub)disciplines, between fundamental and applied ecology, and between academia and industry/government/NGOs.
 

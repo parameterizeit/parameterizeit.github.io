@@ -38,14 +38,6 @@ Ph.D. student, Microbiology Graduate Program (2023-present)
 
 ## Undergraduate Students
 
-[![](people/oberg-r/avatar.jpg){fig-alt="Headshot of Raina Oberg" fig-align="left" width="3in"}](people/oberg-r/about.qmd)
-
-### **Raina Oberg**
-
-NCSU undergraduate researcher (2024-present)
-
-[\[about\]](people/oberg-r/about.qmd)
-
 [![](static/avatar.jpg){fig-alt="Placeholder avatar of a game die" fig-align="left" width="3in"}](people/ceballos-a/about.qmd)
 
 ### **Amanda Ceballos**
@@ -54,13 +46,21 @@ NCSU undergraduate researcher (2026-present)
 
 [\[about\]](people/ceballos-a/about.qmd)
 
-[![](static/avatar.jpg){fig-alt="Placeholder avatar of a game die" fig-align="left" width="3in"}](people/sundell-turner-c/about.qmd)
+[![](people/sundell-turner-c/avatar.jpeg){fig-alt="Cheyan Sundell-Turner" fig-align="left" width="3in"}](people/sundell-turner-c/about.qmd)
 
 ### **Cheyan Sundell-Turner**
 
 RMBL undergraduate researcher (2026)
 
 [\[about\]](people/sundell-turner-c/about.qmd)
+
+![](static/avatar.jpg){fig-alt="Placeholder avatar of a game die" fig-align="left" width="3in"}
+
+### Elizabeth Wojciechowski
+
+RMBL undergraduate researcher (2026)
+
+[\[about\]](people/wojciechowski-e/about.qmd)
 
 ## Alumni
 

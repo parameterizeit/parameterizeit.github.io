@@ -4,12 +4,12 @@ project:
 website:
   title: "DICE Lab: Diversity In Changing Environments"
   favicon: static/icon.png
-  announcement:
-    icon: info-circle-fill
-    dismissable: true
-    content: "We are teaching a workshop on Integral Projection Models (IPMs) at the Rocky Mountain Biological Laboratory August 10-12, 2026. More information & apply at: [https://field2ipm.github.io/](https://field2ipm.github.io/). Application review begins April 8."
-    type: primary
-    position: below-navbar
+  # announcement:
+  #   icon: info-circle-fill
+  #   dismissable: true
+  #   content: "We are teaching a workshop on Integral Projection Models (IPMs) at the Rocky Mountain Biological Laboratory August 10-12, 2026. More information & apply at: [https://field2ipm.github.io/](https://field2ipm.github.io/). Application review begins April 8."
+  #   type: primary
+  #   position: below-navbar
   # announcement:
   #   icon: info-circle-fill
   #   dismissable: true

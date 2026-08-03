@@ -24,8 +24,8 @@ When a pollinator goes extinct, remaining species gain access to floral resource
 
 ## Selected publications
 
--   Simpson, D.T., Petry, W.K., CaraDonna, P.J., Iler, A.M. **(preprint)**. Changing pollination rates affect plant life history strategies. [*bioRxiv*]{.underline} [\[preprint\]](https://doi.org/10.64898/2026.02.11.705202)
+- Simpson, D.T., Petry, W.K., CaraDonna, P.J., Iler, A.M. **(preprint)**. Changing pollination rates affect plant life history strategies. [*bioRxiv*]{.underline} [\[preprint\]](https://doi.org/10.64898/2026.02.11.705202)
 
--   Bain, J.A., Ogilvie, J.E., Petry, W.K. & CaraDonna, P.J. **(2025)** Nutrient niche dynamics among wild pollinators. [*Proceedings of the Royal Society - B*]{.underline}, 292, 20250643. [\[doi\]](https://doi.org/10.1098/rspb.2025.0643) [\[pdf\]](publications/Bain%20et%20al.%20-%202025%20-%20Nutrient%20niche%20dynamics%20among%20wild%20pollinators.pdf) [\[data\]](https://doi.org/10.17605/OSF.IO/JNBHZ)
+- Bain, J.A., Ogilvie, J.E., Petry, W.K. & CaraDonna, P.J. **(2025)** Nutrient niche dynamics among wild pollinators. [*Proceedings of the Royal Society - B*]{.underline}, 292, 20250643. [\[doi\]](https://doi.org/10.1098/rspb.2025.0643) [\[pdf\]](publications/Bain%20et%20al.%20-%202025%20-%20Nutrient%20niche%20dynamics%20among%20wild%20pollinators.pdf) [\[data\]](https://doi.org/10.17605/OSF.IO/JNBHZ)
 
--   CaraDonna, P.J., Petry, W.K., Brennan, R.M., Cunningham, J.L., Bronstein, J.L., Waser, N.M., Sanders, N.J. **(2017)** Interaction rewiring and the rapid turnover of plant-pollinator networks. [*Ecology Letters*]{.underline}, 20, 385–394. [\[doi\]](https://doi.org/10.1111/ele.12740) [\[pdf\]](publications/CaraDonna%20et%20al.%20-%202017%20-%20Interaction%20rewiring%20and%20the%20rapid%20turnover%20of%20plant-pollinator%20networks.pdf) [\[data\]](https://doi.org/10.5061/dryad.s91p4)
+- CaraDonna, P.J., Petry, W.K., Brennan, R.M., Cunningham, J.L., Bronstein, J.L., Waser, N.M., Sanders, N.J. **(2017)** Interaction rewiring and the rapid turnover of plant-pollinator networks. [*Ecology Letters*]{.underline}, 20, 385–394. [\[doi\]](https://doi.org/10.1111/ele.12740) [\[pdf\]](publications/CaraDonna%20et%20al.%20-%202017%20-%20Interaction%20rewiring%20and%20the%20rapid%20turnover%20of%20plant-pollinator%20networks.pdf) [\[data\]](https://doi.org/10.5061/dryad.s91p4)

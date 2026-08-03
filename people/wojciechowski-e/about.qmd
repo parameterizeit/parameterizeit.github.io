@@ -1,0 +1,17 @@
+<!--# This is a comment that won't appear on the page. You can delete these or leave them alone. They are here to offer tips and a formatting/style guide for each component of the page. Please try to follow these. -->
+
+![](/static/avatar.jpg){fig-alt="Placeholder dice face avatar" fig-align="left" width="3in"}
+
+<!--# Replace the dice image with a square-ish portrait photo where your face is reasonably unobscured called "avatar.jpg" and located in the corresponding person's subfolder. Feel welcome to use a photo that shows your interests/personality as long as it meets the above criteria and it's appropriate for a public-facing representation of our lab group. If you don't want a picture of your face on our website, feel free to keep the dice avatar. -->
+
+<!--# Set the image to align LEFT and a width of 3 inches. -->
+
+# Elizabeth Wojciechowski
+
+<!--# First and last name are bolded level 1 headers and on their own line. -->
+
+**RMBL undergraduate researcher (2026)**
+
+<!--# Lab role should be specific (i.e., "Ph.D. student" not "Graduate student") and reasonably match terminology for other people in similar position. -->
+
+Elizabeth is an undergraduate at Texas A&M University, and is working with Ph.D. student Alden Sears through the Rocky Mountain Biological Laboratory's summer intern program.
