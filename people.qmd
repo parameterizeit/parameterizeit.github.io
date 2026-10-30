@@ -54,7 +54,7 @@ RMBL undergraduate researcher (2026)
 
 [\[about\]](people/sundell-turner-c/about.qmd)
 
-![](static/avatar.jpg){fig-alt="Placeholder avatar of a game die" fig-align="left" width="3in"}
+![](people/wojciechowski-e/avatar.jpg){fig-alt="Elizabeth Wojciechowski" fig-align="left" width="3in"}
 
 ### Elizabeth Wojciechowski
 
