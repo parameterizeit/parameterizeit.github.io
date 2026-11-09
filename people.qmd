@@ -38,14 +38,6 @@ Ph.D. student, Microbiology Graduate Program (2023-present)
 
 ## Undergraduate Students
 
-[![](static/avatar.jpg){fig-alt="Placeholder avatar of a game die" fig-align="left" width="3in"}](people/ceballos-a/about.qmd)
-
-### **Amanda Ceballos**
-
-NCSU undergraduate researcher (2026-present)
-
-[\[about\]](people/ceballos-a/about.qmd)
-
 [![](people/sundell-turner-c/avatar.jpeg){fig-alt="Cheyan Sundell-Turner" fig-align="left" width="3in"}](people/sundell-turner-c/about.qmd)
 
 ### **Cheyan Sundell-Turner**
